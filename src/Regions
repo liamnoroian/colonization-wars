@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Regions>
+    <region id="1">
+        <name value="Starbase Left"/>
+        <shape type="rect">
+            <quad value="1.0002,88.0002,41,104"/>
+        </shape>
+    </region>
+    <region id="2">
+        <name value="Starbase Right"/>
+        <shape type="rect">
+            <quad value="152.0002,88.0034,192,104.0031"/>
+        </shape>
+    </region>
+    <region id="3">
+        <name value="Starbase"/>
+        <shape type="circle">
+            <center value="96,96"/>
+            <radius value="16"/>
+        </shape>
+    </region>
+    <region id="4">
+        <name value="Starbase Down"/>
+        <shape type="rect">
+            <quad value="88.0002,1.0002,104,41"/>
+        </shape>
+    </region>
+    <region id="9">
+        <name value="Top 1"/>
+        <color value="255,128,255,128"/>
+        <shape type="circle">
+            <center value="64,168"/>
+            <radius value="4"/>
+        </shape>
+    </region>
+    <region id="10">
+        <name value="Top 2"/>
+        <color value="255,128,255,128"/>
+        <shape type="circle">
+            <center value="128,168"/>
+            <radius value="4"/>
+        </shape>
+    </region>
+    <region id="11">
+        <name value="Left 1"/>
+        <color value="255,128,255,128"/>
+        <shape type="circle">
+            <center value="24,128"/>
+            <radius value="4"/>
+        </shape>
+    </region>
+    <region id="12">
+        <name value="Left 3"/>
+        <color value="255,128,255,128"/>
+        <shape type="circle">
+            <center value="24,64"/>
+            <radius value="4"/>
+        </shape>
+    </region>
+    <region id="13">
+        <name value="Right 2"/>
+        <color value="255,128,255,128"/>
+        <shape type="circle">
+            <center value="168,128"/>
+            <radius value="4"/>
+        </shape>
+    </region>
+    <region id="14">
+        <name value="Right 4"/>
+        <color value="255,128,255,128"/>
+        <shape type="circle">
+            <center value="168,64"/>
+            <radius value="4"/>
+        </shape>
+    </region>
+    <region id="15">
+        <name value="Bot 3"/>
+        <color value="255,128,255,128"/>
+        <shape type="circle">
+            <center value="64,24"/>
+            <radius value="4"/>
+        </shape>
+    </region>
+    <region id="16">
+        <name value="Bot 4"/>
+        <color value="255,128,255,128"/>
+        <shape type="circle">
+            <center value="128,24"/>
+            <radius value="4"/>
+        </shape>
+    </region>
+    <region id="17">
+        <name value="Mid 1"/>
+        <color value="255,128,255,128"/>
+        <shape type="circle">
+            <center value="53,139"/>
+            <radius value="4"/>
+        </shape>
+    </region>
+    <region id="18">
+        <name value="Mid 2"/>
+        <color value="255,128,255,128"/>
+        <shape type="circle">
+            <center value="139,139"/>
+            <radius value="4"/>
+        </shape>
+    </region>
+    <region id="19">
+        <name value="Mid 3"/>
+        <color value="255,128,255,128"/>
+        <shape type="circle">
+            <center value="53,53"/>
+            <radius value="4"/>
+        </shape>
+    </region>
+    <region id="20">
+        <name value="Mid 4"/>
+        <color value="255,128,255,128"/>
+        <shape type="circle">
+            <center value="139,53"/>
+            <radius value="4"/>
+        </shape>
+    </region>
+</Regions>

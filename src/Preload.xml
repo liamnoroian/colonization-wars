@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Preload>
+<Asset path="self made\self made\citylevel1.dds" Type="Image"/>
+<Asset path="self made\self made\selection screen\faction_random.tga" Type="Image"/>
+<Asset path="assets\textures\war3_btnstormhammer.dds" Type="Image"/>
+<Asset path="assets\textures\btn-ability-zeratul-avatarofform-psionicgale.dds" Type="Image"/>
+<Asset path="self made\self made\selection screen\subfaction_hive_artifex.tga" Type="Image"/>
+<Asset path="self made\self made\researchtime.dds" Type="Image"/>
+<Asset path="assets\textures\ui_glues_icons_ladder_tier_badge_bronze_1.dds" Type="Image"/>
+<Asset path="assets\textures\sc2_ui_ingame_storymode_panel_faction_taldarim_underline.dds" Type="Image"/>
+<Asset path="self made\self made\selection screen\planet_oceanic.tga" Type="Image"/>
+<Asset path="assets\textures\ui_techtree_arrow_tail.dds" Type="Image"/>
+<Asset path="assets\textures\btn-building-protoss-stargate.dds" Type="Image"/>
+<Asset path="self made\self made\selection screen\subfaction_empire_elite.tga" Type="Image"/>
+<Asset path="self made\nebulastormwarning - background.dds" Type="Image"/>
+<Asset path="self made\self made\self made\starcraft images\expedition screen loading border.tga" Type="Image"/>
+<Asset path="self made\self made\selection screen\faction_hontorai.tga" Type="Image"/>
+<Asset path="self made\self made\selection screen\planet_ice.tga" Type="Image"/>
+<Asset path="self made\self made\selection screen\planet_gas.tga" Type="Image"/>
+<Asset path="assets\textures\ui_techtree_arrow_head2.dds" Type="Image"/>
+<Asset path="timerwindowbackground.dds" Type="Image"/>
+<Asset path="self made\self made\selection screen\subfaction_hontorai_ascended.tga" Type="Image"/>
+<Asset path="self made\self made\selection screen\subfaction_empire_shadows.tga" Type="Image"/>
+<Asset path="assets\textures\ui_trial_icon_lock.dds" Type="Image"/>
+<Asset path="self made\border_artifact.dds" Type="Image"/>
+<Asset path="self made\self made\selection screen\subfaction_kingdom_emaan.tga" Type="Image"/>
+<Asset path="planetlevelresource.dds" Type="Image"/>
+<Asset path="self made\self made\selection screen\subfaction_rebellion_barons.tga" Type="Image"/>
+<Asset path="assets\textures\ui_multiplayerload_avatarborder_bronze.dds" Type="Image"/>
+<Asset path="assets\textures\btn-border-abilitycharge.dds" Type="Image"/>
+<Asset path="self made\self made\selection screen\planet_desert.tga" Type="Image"/>
+<Asset path="self made\border_landmark.dds" Type="Image"/>
+<Asset path="assets\textures\ui_loadingbar_bar_highlighted_terran.dds" Type="Image"/>
+<Asset path="self made\self made\selection screen\faction_hive.tga" Type="Image"/>
+<Asset path="self made\self made\selection screen\subfaction_hontorai_exiles.tga" Type="Image"/>
+<Asset path="self made\self made\buildingscreenhelp.tga" Type="Image"/>
+<Asset path="self made\self made\researchlevel0.dds" Type="Image"/>
+<Asset path="assets\textures\sc2_ui_newplayerxp_experienceicon_veteran.dds" Type="Image"/>
+<Asset path="self made\self made\selection screen\planet_mountain.tga" Type="Image"/>
+<Asset path="self made\self made\selection screen\selectionscreen.tga" Type="Image"/>
+<Asset path="self made\self made\selection screen\selectionscreen borders.tga" Type="Image"/>
+<Asset path="assets\textures\ui_techtree_arrow_tail90cw.dds" Type="Image"/>
+<Asset path="self made\self made\selection screen\subfaction_hontorai_zealots.tga" Type="Image"/>
+<Asset path="assets\textures\ui_btn_aicommand_commandcard_autoai.dds" Type="Image"/>
+<Asset path="assets\textures\ui_leaderpanel_buttonhover_zerg.dds" Type="Image"/>
+<Asset path="assets\textures\line_blue.dds" Type="Image"/>
+<Asset path="self made\self made\selection screen\subfaction_kingdom_imperial.tga" Type="Image"/>
+<Asset path="assets\textures\video_static_black.dds" Type="Image"/>
+<Asset path="self made\self made\selection screen\subfaction_hive_encephalon.tga" Type="Image"/>
+<Asset path="assets\textures\ui_multiplayerload_avatarborder_gold.dds" Type="Image"/>
+<Asset path="self made\self made\selection screen\subfaction_rebellion_freedomfighters.tga" Type="Image"/>
+<Asset path="assets\textures\ui_nova_loading_novaspace01.dds" Type="Image"/>
+<Asset path="self made\self made\selection screen\planet_barren.tga" Type="Image"/>
+<Asset path="assets\textures\void_pure_black_backgroundcolor_diff.lvl0" Type="Image"/>
+<Asset path="self made\self made\random planet.tga" Type="Image"/>
+<Asset path="self made\self made\starcraft images\lockline.dds" Type="Image"/>
+<Asset path="assets\textures\storm_ui_glues_loading_progressbarfill_blue.dds" Type="Image"/>
+<Asset path="self made\self made\selection screen\planet_jungle.tga" Type="Image"/>
+<Asset path="self made\self made\selection screen\subfaction_empire_central.tga" Type="Image"/>
+<Asset path="assets\textures\ui_battlenet_glues_pageassets_graphiclistitem_border_bookmarked.dds" Type="Image"/>
+<Asset path="assets\textures\void_pure_black_backgroundcolor_diff.dds" Type="Image"/>
+<Asset path="assets\textures\ui_glues_searchpanel_icon_searching.dds" Type="Image"/>
+<Asset path="editordata\images\sourcecontrol\lock.tga" Type="Image"/>
+<Asset path="self made\self made\selection screen\planet_scorched.tga" Type="Image"/>
+<Asset path="self made\self made\research requirements.tga" Type="Image"/>
+<Asset path="assets\textures\infocard-attack-hero.dds" Type="Image"/>
+<Asset path="self made\self made\selection screen\planet_terran.tga" Type="Image"/>
+<Asset path="self made\self made\selection screen\faction_kingdom.tga" Type="Image"/>
+<Asset path="assets\textures\ui_multiplayerload_avatarborder_unranked.dds" Type="Image"/>
+<Asset path="self made\self made\selection screen\subfaction_hontorai_forgers.tga" Type="Image"/>
+<Asset path="assets\textures\video_static_black.lvl0" Type="Image"/>
+<Asset path="self made\self made\selection screen\subfaction_kingdom_dawnguard.tga" Type="Image"/>
+<Asset path="assets\textures\ui_glues_igr_tooltipborder_active.dds" Type="Image"/>
+<Asset path="self made\self made\selection screen\subfaction_kingdom_templar.tga" Type="Image"/>
+<Asset path="self made\self made\selection screen\subfaction_rebellion_scrappers.tga" Type="Image"/>
+<Asset path="self made\nebulastormwarning.dds" Type="Image"/>
+<Asset path="self made\self made\buildtime.dds" Type="Image"/>
+<Asset path="self made\self made\selection screen\subfaction_hive_hyperial.tga" Type="Image"/>
+<Asset path="self made\self made\selection screen\subfaction_hive_gigantes.tga" Type="Image"/>
+<Asset path="assets\textures\ui_battlenet_glues_pageassets_dialogstandardborder_noglow.dds" Type="Image"/>
+<Asset path="self made\self made\selection screen\faction_rebellion.tga" Type="Image"/>
+<Asset path="self made\self made\selection screen\subfaction_rebellion_pirates.tga" Type="Image"/>
+<Asset path="self made\self made\selection screen\subfaction_empire_ogrom.tga" Type="Image"/>
+<Asset path="assets\textures\ui_emoticons_minerals.dds" Type="Image"/>
+<Asset path="self made\self made\selection screen\faction_empire.tga" Type="Image"/>
+<Asset path="assets\textures\sc2_ui_collection_equipped_checkmark.dds" Type="Image"/>
+<Abil id="KaraxDisintegrationBeam"/>
+<Abil id="Overwhelm"/>
+<Abil id="Reinforcements"/>
+<Actor id="SYSTEM_ActorConfig"/>
+<Actor id="AsteroidCliff" Variations="0,1,2"/>
+<Actor id="AsteroidCliffDeep" Variations="0,1,2,3"/>
+<Actor id="BattleStation_Buildings" Variations="2"/>
+<Actor id="BattleStation_CliffStructures" Variations="1"/>
+<Actor id="DOM_VentTower" Variations="3"/>
+<Actor id="Fog_Ulnar"/>
+<Actor id="GasGiantStorm"/>
+<Actor id="Hybrid01GasCloud"/>
+<Actor id="Korhal_Platform_LandingLights" Variations="0,1,2,3"/>
+<Actor id="Korhal_SpacePort_LuggageTruck"/>
+<Actor id="Korhal_SpacePort_LuggageTruck_Destroyed"/>
+<Actor id="PowerCablesWarfield" Variations="2"/>
+<Actor id="ShadowCore_AsteroidBase_LandingPlatform" Variations="1"/>
+<Actor id="Shadow_Asteroids" Variations="1"/>
+<Actor id="ShipDock" Variations="3"/>
+<Actor id="SpaceExplosiveMineEntrance"/>
+<Actor id="SpaceMineralDepleted" Variations="0,1,2,3"/>
+<Actor id="SpaceMineralFormation1Doodad" Variations="0,1,2,3"/>
+<Actor id="SpaceMineralFormation2Doodad" Variations="2,3"/>
+<Actor id="SpacePlatform_Lantern_Blue_Blink" Variations="4"/>
+<Actor id="SpaceTankTrap"/>
+<Actor id="StarshipIceWorldMinerals" Variations="0"/>
+<Actor id="AsteroidsSky" Variations="0,1,2,3,4,5"/>
+<Actor id="SpacePlatformCablesLarge" Variations="4"/>
+<Actor id="SpacePlatformCautionLights" Variations="1"/>
+<Actor id="SpacePlatformGroundDecals" Variations="10"/>
+<Behavior id="AutoTurretTimedLife"/>
+<Behavior id="SJPointDefenseDroneTimedLife"/>
+<Behavior id="ArtificialRing2"/>
+<Behavior id="Blessed2"/>
+<Behavior id="Cursed2"/>
+<Behavior id="GasCloud2"/>
+<Behavior id="LightRing2"/>
+<Behavior id="NatureRising2"/>
+<Behavior id="Rift2"/>
+<Behavior id="SnowPeaks2"/>
+<Behavior id="InfuseFreezingSpace"/>
+<Behavior id="InfuseNebulaImmunity"/>
+<Behavior id="InfuseOverseer"/>
+<Behavior id="InfuseGravitationalAnomalies"/>
+<Behavior id="InfuseFortress"/>
+<Behavior id="InfuseOverwhelm"/>
+<Behavior id="InfuseTitanStar"/>
+<Behavior id="Overseer"/>
+<Behavior id="Ownedbyplayer1"/>
+<Behavior id="Ownedbyplayer2"/>
+<Behavior id="Ownedbyplayer3"/>
+<Behavior id="Ownedbyplayer4"/>
+<Behavior id="Fleetspot1"/>
+<Behavior id="Fleetspot3"/>
+<Behavior id="Fleetspot2"/>
+<Behavior id="Fleetspot5"/>
+<Behavior id="Fleetspot4"/>
+<Behavior id="Hero1Cooldown"/>
+<Behavior id="Hero2Cooldown"/>
+<Behavior id="Hero3Cooldown"/>
+<Behavior id="MountainPlanet"/>
+<Behavior id="TownHall"/>
+<Behavior id="InfuseHeatTransfer"/>
+<Behavior id="TitanFortress"/>
+<Behavior id="WarpinEnergy"/>
+<Behavior id="WarpinBarrier"/>
+<Behavior id="CityWalls"/>
+<Behavior id="CityShieldDomes"/>
+<Behavior id="ChaoticVision"/>
+<Behavior id="Insanity"/>
+<Behavior id="KingdomCommando"/>
+<Behavior id="TitanMainBase"/>
+<Behavior id="TitanOuterBase"/>
+<Behavior id="OrbitalKnightSilverFist"/>
+<Behavior id="OrbitalKnightGoldenHeart"/>
+<Behavior id="OrbitalKnightDefender"/>
+<Behavior id="OrbitalKnightInquisitor"/>
+<Behavior id="OrbitalKnightRedeemer"/>
+<Behavior id="OrbitalKnightBarrier"/>
+<Behavior id="TitanEasy"/>
+<Behavior id="TitanVeryHard"/>
+<Behavior id="TitanMedium"/>
+<Behavior id="TitanHard"/>
+<Behavior id="Middilemodelchange"/>
+<Behavior id="DroneReadying"/>
+<Behavior id="ResearchTimer"/>
+<Behavior id="DesertPlanet"/>
+<Behavior id="ExpeditionTimer"/>
+<Behavior id="CaptureStack1dummy"/>
+<Behavior id="CaptureStack2dummy"/>
+<Behavior id="CaptureStack2"/>
+<Behavior id="CaptureStack3dummy"/>
+<Behavior id="CaptureStack3"/>
+<Behavior id="CaptureStack4dummy"/>
+<Behavior id="CaptureStack4"/>
+<Behavior id="BuildingTimer"/>
+<Behavior id="CaptureStack1"/>
+<Behavior id="MiningTimer"/>
+<Behavior id="LightRing"/>
+<Behavior id="GasCloud"/>
+<Behavior id="Rift"/>
+<Behavior id="Blessed"/>
+<Behavior id="ArtificialRing"/>
+<Behavior id="NatureRising"/>
+<Behavior id="SnowPeaks"/>
+<Behavior id="ForgeFighters"/>
+<Behavior id="Cursed"/>
+<Behavior id="Ping"/>
+<Behavior id="HeroWarpResidue"/>
+<Behavior id="Repairing"/>
+<Behavior id="FreezingSpaceHost"/>
+<Behavior id="ExternalSupplyChain32v2"/>
+<Behavior id="ExternalSupplyChain3"/>
+<Behavior id="AutoRepairCrew"/>
+<Behavior id="ImperialFleet"/>
+<Behavior id="BarrenPlanet"/>
+<Behavior id="ScorchedPlanet"/>
+<Behavior id="IcePlanet"/>
+<Behavior id="OceanicPlanet"/>
+<Behavior id="GasPlanet"/>
+<Behavior id="TerranPlanet"/>
+<Behavior id="JunglePlanet"/>
+<Behavior id="ElementofSuprise"/>
+<Model id="ChangelingPortrait"/>
+<Model id="AdjutantPortrait_L3D"/>
+<Model id="IcestarTitanPortrait"/>
+<Race id="Terr"/>
+<Race id="Zerg"/>
+<Race id="Prot"/>
+<Sound id="Alert_TerranAddOnComplete"/>
+<Sound id="Alert_TerranUpgradeComplete"/>
+<Sound id="acLobby_TerranAdjutant_001"/>
+<Sound id="ChallengescombinedAdjutant00005"/>
+<Sound id="ChallengescombinedAdjutant00038"/>
+<Sound id="Alert_TerranBuildError"/>
+<Sound id="UI_VO_Adjutant_009"/>
+<Sound id="AC_UI_Countdown01"/>
+<Sound id="e_cmdNotEnoughMinerals"/>
+<Sound id="UI_TechConsole_Purchase"/>
+<Sound id="KerriganLevelUpSound"/>
+<Sound id="TitanReinforcements"/>
+<Terrain id="HybridLabOuter"/>
+<Unit id="StarportFlying"/>
+<Unit id="SpawningPool"/>
+<Unit id="DestructibleDebris4x4"/>
+<Unit id="SentryGun"/>
+<Unit id="SS_BackgroundSpaceProt00"/>
+<Unit id="DestructibleCityDebris6x6"/>
+<Unit id="KerriganInfestBroodling"/>
+<Unit id="KorhalPalaceTurret"/>
+<Unit id="SJFighter1"/>
+<Unit id="UmojanLabDebris" Variations="1"/>
+<Unit id="HiveScratcher"/>
+<Unit id="RebellionFighter"/>
+<Unit id="RebellionMarauder"/>
+<Unit id="RebellionGunship"/>
+<Unit id="RebellionRaider"/>
+<Unit id="HontoraiFighter"/>
+<Unit id="EmpireHydra"/>
+<Unit id="KingdomGuardian"/>
+<Unit id="HontoraiBulwark"/>
+<Unit id="HiveLocustNest"/>
+<Unit id="CuriousBunny"/>
+<Unit id="WatchfulOwl"/>
+<Unit id="IcestarTitanBaby"/>
+<Unit id="AzathothBaby"/>
+<Unit id="PlayfulDog"/>
+<Unit id="CuteCow"/>
+<Unit id="TitanIceComet"/>
+<Unit id="FleetPositioning"/>
+<Unit id="Fleetmovedirection"/>
+<Unit id="EmpireHydra2"/>
+<Unit id="EmpireHIRIHub"/>
+<Unit id="HiveScratcher2"/>
+<Unit id="HontoraiFighter2"/>
+<Unit id="HontoraiBeamer2"/>
+<Unit id="HiveAcidGlider2"/>
+<Unit id="Mountain"/>
+<Unit id="EmpireStargateTurret"/>
+<Unit id="TitanStar"/>
+<Unit id="RebellionFighter2"/>
+<Unit id="KingdomLancer"/>
+<Unit id="Rank1Requirement"/>
+<Unit id="FleetslotUpkeep"/>
+<Unit id="Rank2Requirement"/>
+<Unit id="Rank3Requirement"/>
+<Unit id="Rank4Requirement"/>
+<Unit id="KingdomSentinel"/>
+<Unit id="RebellionGunship2"/>
+<Unit id="StargateRank1"/>
+<Unit id="SnipeGunner"/>
+<Unit id="Azathoth"/>
+<Unit id="HiveBreeder"/>
+<Unit id="IcestarTitan"/>
+<Unit id="HiveColonizationStarbase"/>
+<Unit id="Gas"/>
+<Unit id="Bunny"/>
+<Unit id="HivePlanet"/>
+<Unit id="KingdomBastionGunner"/>
+<Unit id="StargateRank0"/>
+<Unit id="StargateRank2"/>
+<Unit id="StargateRank3"/>
+<Unit id="StargateRank4"/>
+<Unit id="Terran"/>
+<Unit id="RebellionColonizationStarbase"/>
+<Unit id="RebelsPlanet"/>
+<Unit id="RebellionTurretPlatform"/>
+<Unit id="AbandonedStarbase"/>
+<Unit id="Jungle"/>
+<Unit id="Barren"/>
+<Unit id="Ocean"/>
+<Unit id="Ice"/>
+<Unit id="Scorched"/>
+<Unit id="Desert"/>
+<Unit id="StargatePosition"/>
+<Unit id="AsteroidBelt"/>
+<Unit id="TitanIceStar"/>
+<Unit id="GravitationalAnomalies"/>
+<Unit id="HontoraiTurretFormation"/>
+<Unit id="HontoraiPlanet"/>
+<Unit id="HontoraiColonizationStarbase"/>
+<Unit id="EmpirePlanet"/>
+<Unit id="EmpireColonizationStarbase"/>
+<Unit id="EmpireStargate"/>
+<Unit id="RebellionStargate"/>
+<Unit id="HontoraiStargate"/>
+<Unit id="KingdomColonizationStarbase"/>
+<Unit id="StarbaseRevealer"/>
+<Unit id="SkinPlanetDeath"/>
+<Unit id="NebulaStorm"/>
+<Unit id="Starbase"/>
+<Unit id="Planet_Base"/>
+<Unit id="KingdomPlanet"/>
+</Preload>
