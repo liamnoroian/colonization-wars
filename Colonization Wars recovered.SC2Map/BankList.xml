@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BankList>
+    <Bank Name="ColonizationWarsProfile" Player="2"/>
+    <Bank Name="ColonizationWarsProfile" Player="1"/>
+    <Bank Name="ColonizationWarsProfile" Player="4"/>
+    <Bank Name="ColonizationWarsProfile" Player="3"/>
+    <Bank Name="TalentLibraryBank" Player="15"/>
+    <Bank Name="TalentLibraryBank" Player="7"/>
+    <Bank Name="TalentLibraryBank" Player="9"/>
+    <Bank Name="TalentLibraryBank" Player="5"/>
+    <Bank Name="TalentLibraryBank" Player="3"/>
+    <Bank Name="TalentLibraryBank" Player="8"/>
+    <Bank Name="TalentLibraryBank" Player="4"/>
+    <Bank Name="TalentLibraryBank" Player="13"/>
+    <Bank Name="TalentLibraryBank" Player="12"/>
+    <Bank Name="TalentLibraryBank" Player="10"/>
+    <Bank Name="TalentLibraryBank" Player="0"/>
+    <Bank Name="TalentLibraryBank" Player="6"/>
+    <Bank Name="TalentLibraryBank" Player="11"/>
+    <Bank Name="TalentLibraryBank" Player="14"/>
+    <Bank Name="TalentLibraryBank" Player="1"/>
+    <Bank Name="TalentLibraryBank" Player="2"/>
+</BankList>

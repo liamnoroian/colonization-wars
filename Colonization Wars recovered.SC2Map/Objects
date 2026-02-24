@@ -1,0 +1,1292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlacedObjects Version="27">
+    <ObjectDoodad Id="1463061988" Position="91.15,91.74,-5.5012" Rotation="2.9384" Scale="0.5,0.5,0.5" Type="SpaceTankTrap" Pitch="0.6108" Roll="6.1435">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1098379732" Variation="1" Position="4.3,187.4821,-7.0012" Rotation="5.8901" Scale="1.1796,1.1796,1.1796" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1145222017" Position="48.9335,93.8847,-7.0012" Rotation="0.6386" Scale="1,1,1" Type="GasGiantStorm">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1964432407" Position="103.57,183.281,-7.0012" Rotation="3.479" Scale="1.132,1.132,1.132" Type="SpaceMineralDepleted">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1555486126" Variation="1" Position="51.8574,91.9863,-7.0012" Rotation="3.146" Scale="1.094,1.094,1.094" Type="AsteroidCliffDeep">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="452486863" Position="143.145,112.9311,-7.0012" Rotation="5.1206" Scale="0.97,0.97,0.97" Type="AsteroidCliffDeep">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="72963872" Variation="1" Position="117.4812,23.414,-0.9514" Rotation="2.819" Scale="0.2,0.2,0.2" Type="ShadowCore_AsteroidBase_LandingPlatform" Pitch="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1401495861" Position="7.5114,84.1157,-6.9997" Rotation="2.91" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="42122622" Variation="1" Position="23.628,75.0368,-0.2014" Rotation="5.9335" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.0612">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="64593959" Variation="2" Position="89.2221,125.7722,-7.0014" Rotation="5.223" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="693829450" Variation="1" Position="167.64,115.0488,-0.2014" Rotation="5.9335" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.0612">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1705323999" Variation="3" Position="118.101,23.594,-0.9914" Rotation="1.627" Scale="0.2,0.2,0.2" Type="Korhal_Platform_LandingLights" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1759541167" Variation="3" Position="117.871,22.894,-0.8615" Rotation="1.6262" Scale="0.2,0.2,0.2" Type="Korhal_Platform_LandingLights" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="760512086" Variation="1" Position="98.1486,184.2304,-6.9997" Rotation="6.2373" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="443284592" Position="191.4785,121.8005,-32.0012" Rotation="1.493" Scale="0.5,0.9,0.5" Type="Korhal_SpacePort_LuggageTruck_Destroyed" TintColor="255,128,128">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1776165795" Variation="1" Position="116.381,25.034,-0.5114" Rotation="2.827" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.3232">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1123312785" Variation="3" Position="77.8281,166.8642,-0.8615" Rotation="1.6262" Scale="0.2,0.2,0.2" Type="Korhal_Platform_LandingLights" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2074046752" Variation="2" Position="80.6037,190.5026,-7.0012" Rotation="0.046" Scale="0.917,0.917,0.917" Type="SpaceMineralDepleted">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1935611526" Variation="2" Position="88.257,52.816,-7.0012" Rotation="4.9555" Scale="0.8972,0.8972,0.8972" Type="AsteroidCliff">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1629782727" Variation="1" Position="8.7553,90.5593,-7.0012" Rotation="5.5441" Scale="0.9091,0.9091,0.9091" Type="SpaceMineralDepleted">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1233043076" Position="90.18,91.5798,-6.9013" Rotation="1.4663" Scale="1,1,1" Type="StarshipIceWorldMinerals" Pitch="0.7851">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="539393737" Variation="3" Position="88.0861,9.787,-7.0012" Rotation="1.0388" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="225936298" Variation="3" Position="78.0583,167.5644,-0.9914" Rotation="1.627" Scale="0.2,0.2,0.2" Type="Korhal_Platform_LandingLights" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1081441561" Variation="1" Position="53.1013,109.7045,-7.0012" Rotation="0.9372" Scale="1.1511,1.1511,1.1511" Type="AsteroidCliffDeep">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="306697423" Variation="1" Position="74.961,24.439,-0.3913" Rotation="4.2927" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.3752" Roll="6.1606">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1552139636" Variation="3" Position="46.9433,126.338,-7.0012" Rotation="1.5856" Scale="1.0192,1.0192,1.0192" Type="AsteroidCliffDeep">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="411367891" Variation="2" Position="182.362,29.9692,-6.9997" Rotation="1.9514" Scale="0.869,0.869,0.869" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1391955425" Position="169.8476,74.85,-0.8615" Rotation="1.6262" Scale="0.2,0.2,0.2" Type="Korhal_Platform_LandingLights" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="180182582" Variation="3" Position="96.0212,129.1528,-7.0014" Rotation="0.5437" Scale="1,1,1" Type="SpaceMineralFormation2Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1195356150" Variation="1" Position="95.6923,146.983,-7.0012" Rotation="1.4453" Scale="1.163,1.163,1.163" Type="AsteroidCliff">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="938195323" Position="96.0297,93.6098,1.4982" Scale="1,0.3327,0.6657" Type="SpaceExplosiveMineEntrance">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1585915265" Variation="3" Position="154.4777,1.2915,-7.0012" Rotation="2.2563" Scale="1.0817,1.0817,1.0817" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="6844621" Position="138.2192,91.1137,-7.0012" Rotation="2.5593" Scale="0.9587,0.9587,0.9587" Type="AsteroidCliff">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1972555260" Variation="1" Position="116.3574,169.022,-0.5114" Rotation="2.827" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.3232">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="744724838" Variation="1" Position="24.368,77.0468,-0.5114" Rotation="2.827" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.3232">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="417921589" Variation="3" Position="189.653,163.794,-7.0012" Rotation="4.329" Scale="1.1547,1.1547,1.1547" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="513080685" Position="77.0881,167.5341,-0.8515" Rotation="1.221" Scale="0.5998,0.2,0.4196" Type="SpaceExplosiveMineEntrance" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1179379242" Variation="1" Position="95.5498,95.67,-2.1013" Rotation="3.5253" Scale="0.25,0.2,0.2" Type="BattleStation_CliffStructures" Pitch="0.1394" Roll="6.091">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1504063081" Position="25.118,75.577,-0.8515" Rotation="1.221" Scale="0.5998,0.2,0.4196" Type="SpaceExplosiveMineEntrance" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1928993293" Variation="3" Position="92.89,89.75,-5.7014" Rotation="2.443" Scale="0.75,1,0.48" Type="ShipDock">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1476600646" Variation="1" Position="114.9475,168.402,-0.3913" Rotation="4.2927" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.3752" Roll="6.1606">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="585080373" Variation="4" Position="143.354,186.1042,-7.0012" Rotation="5.1965" Scale="1.049,1.049,1.049" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="233430936" Variation="1" Position="159.0534,3.9287,-7.0012" Rotation="2.7036" Scale="1.1301,1.1301,1.1301" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="953723371" Variation="1" Position="75.6308,23.0488,-0.2014" Rotation="5.9335" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.0612">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="977087878" Variation="1" Position="90.371,148.2468,-7.0012" Rotation="2.1796" Scale="1.0363,1.0363,1.0363" Type="AsteroidCliffDeep">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1956600500" Variation="5" Position="86.3476,139.55,-7.0012" Rotation="3.4448" Scale="1.0871,1.0871,1.0871" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1533066353" Position="107.5703,4.6872,-6.9997" Rotation="2.9096" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1246900035" Position="50.7482,120.6223,-7.0012" Rotation="3.6396" Scale="0.908,0.908,0.908" Type="AsteroidCliffDeep">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1551592703" Variation="1" Position="87.2805,1.162,-7.0012" Rotation="0.2006" Scale="0.8784,0.8784,0.8784" Type="SpaceMineralDepleted">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="165080657" Variation="1" Position="25.49,115.44,-0.9514" Rotation="2.8193" Scale="0.2,0.2,0.2" Type="ShadowCore_AsteroidBase_LandingPlatform" Pitch="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="825841713" Variation="1" Position="170.0998,115.619,-0.9914" Rotation="1.627" Scale="0.2,0.2,0.2" Type="Korhal_Platform_LandingLights" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="950124846" Variation="1" Position="144.9655,94.0151,-7.0012" Rotation="0.8305" Scale="0.9614,0.9614,0.9614" Type="AsteroidCliff">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="739097845" Variation="1" Position="10.228,163.5075,-6.9997" Rotation="1.9516" Scale="0.8691,0.8691,0.8691" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2062328077" Position="169.1076,75.52,-0.8515" Rotation="1.221" Scale="0.5998,0.2,0.4196" Type="SpaceExplosiveMineEntrance" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="684951178" Variation="1" Position="78.12,45.6582,-7.0012" Rotation="3.8784" Scale="1.0063,1.0063,1.0063" Type="AsteroidCliff">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1579460986" Position="100.9992,44.1638,-7.0012" Rotation="3.0974" Scale="0.8298,0.8298,0.8298" Type="AsteroidCliff">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1661061497" Variation="3" Position="93.24,91.5898,-4.1013" Rotation="5.5847" Scale="0.2995,0.2697,0.25" Type="DOM_VentTower">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="103192146" Variation="4" Position="141.6435,79.417,-7.0012" Rotation="2.6481" Scale="0.9362,0.9362,0.9362" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1306784861" Variation="4" Position="147.4365,96.5915,-7.0012" Rotation="2.4387" Scale="1.0195,1.0195,1.0195" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1329438711" Variation="2" Position="94.4243,2.5432,-6.9997" Rotation="2.1618" Scale="1,1,1" Type="SpaceMineralFormation2Doodad">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="413648332" Variation="3" Position="104.1196,1.9958,-7.0012" Rotation="3.571" Scale="1,1,1" Type="SpaceMineralFormation2Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="846088776" Variation="1" Position="99.6853,0.9394,-6.9997" Rotation="4.274" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="812494461" Position="142.3034,80.4814,-7.0012" Rotation="3.0886" Scale="0.9626,0.9626,0.9626" Type="AsteroidCliffDeep">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="99767529" Variation="1" Position="24.39,117.0598,-0.5114" Rotation="2.8271" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.3232">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="90942793" Position="99.3212,191.002,-7.0012" Rotation="3.154" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1873269228" Variation="1" Position="104.009,9.5834,-6.9997" Rotation="3.9018" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="400961283" Variation="1" Position="117.4575,167.402,-0.9514" Rotation="2.819" Scale="0.2,0.2,0.2" Type="ShadowCore_AsteroidBase_LandingPlatform" Pitch="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1092565404" Position="135.7441,117.1538,-32.0012" Rotation="1.493" Scale="0.5,0.9,0.5" Type="Korhal_SpacePort_LuggageTruck_Destroyed" TintColor="255,128,128">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="171450094" Variation="3" Position="188.8857,101.0637,-7.0012" Rotation="1.6486" Scale="0.8566,0.8566,0.8566" Type="SpaceMineralDepleted">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1206875745" Variation="1" Position="144.9248,73.5808,-7.0012" Rotation="4.8925" Scale="0.8217,0.8217,0.8217" Type="AsteroidCliff">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="973985161" Variation="1" Position="107.8015,186.642,-6.9997" Rotation="4.274" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1661396808" Variation="3" Position="91.2,95.93,0.3981" Rotation="4.7121" Scale="1,1,1" Type="Korhal_Platform_LandingLights" Pitch="1.5705">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="3630456" Variation="1" Position="166.97,116.439,-0.3913" Rotation="4.2927" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.3752" Roll="6.1606">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="133828380" Variation="1" Position="76.3708,25.0588,-0.5114" Rotation="2.827" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.3232">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1811166622" Variation="2" Position="139.0087,114.166,-7.0012" Rotation="3.9538" Scale="0.8947,0.8947,0.8947" Type="AsteroidCliff">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1850842468" Variation="1" Position="103.179,186.403,-6.9997" Rotation="4.274" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="476221623" Variation="1" Position="77.4382,167.3842,-0.9514" Rotation="2.819" Scale="0.2,0.2,0.2" Type="ShadowCore_AsteroidBase_LandingPlatform" Pitch="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1141431585" Variation="2" Position="93.2,91.5698,-5.8012" Rotation="3.9616" Scale="0.2,0.2,0.2" Type="BattleStation_Buildings">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="558513589" Position="96,96,-39.0012" Rotation="1.5705" Scale="1,1,1" Type="Korhal_SpacePort_LuggageTruck" Pitch="1.5705">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="177708834" Variation="3" Position="186.1806,101.419,-6.9997" Rotation="0.0793" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1919007918" Position="106.2207,148.1494,-7.0012" Rotation="0.832" Scale="1.1501,1.1501,1.1501" Type="AsteroidCliffDeep">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2066249145" Variation="2" Position="95.652,47.7717,-7.0012" Rotation="6.2687" Scale="1.1137,1.1137,1.1137" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1790367320" Variation="1" Position="169.8698,114.919,-0.8615" Rotation="1.6262" Scale="0.2,0.2,0.2" Type="Korhal_Platform_LandingLights" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="910018881" Variation="2" Position="117.8474,166.882,-0.8615" Rotation="1.6262" Scale="0.2,0.2,0.2" Type="Korhal_Platform_LandingLights" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="137810118" Variation="1" Position="186.2263,83.824,-6.9997" Rotation="3.9018" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1478400798" Variation="2" Position="107.4594,55.8693,-7.0012" Rotation="6.1142" Scale="0.8254,0.8254,0.8254" Type="AsteroidCliffDeep">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1021322864" Position="0.8518,101.3632,-7.0012" Rotation="1.151" Scale="1.1171,1.1171,1.1171" Type="SpaceMineralDepleted">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1702100958" Variation="5" Position="139.9338,111.9645,-7.0012" Rotation="2.2363" Scale="1.1323,1.1323,1.1323" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1054090774" Variation="2" Position="91.8786,120.1777,-7.0014" Rotation="2.6235" Scale="1,1,1" Type="SpaceMineralFormation2Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="863906107" Variation="3" Position="99.8352,147.6154,-7.0012" Rotation="4.4504" Scale="1.048,1.048,1.048" Type="AsteroidCliffDeep">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1815236897" Position="148.0288,115.9711,-7.0012" Rotation="5.4521" Scale="1.017,1.017,1.017" Type="AsteroidCliff">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="245202252" Position="117.131,23.564,-0.8515" Rotation="1.221" Scale="0.5998,0.2,0.4196" Type="SpaceExplosiveMineEntrance" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1806158761" Position="25.14,115.5898,-0.8515" Rotation="1.2211" Scale="0.5998,0.2,0.4196" Type="SpaceExplosiveMineEntrance" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1435801741" Variation="2" Position="92.1,190.5175,-7.0012" Rotation="2.0432" Scale="1,1,1" Type="SpaceMineralFormation2Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1461426040" Variation="2" Position="188.556,86.4125,-7.0012" Rotation="0.4355" Scale="1.1064,1.1064,1.1064" Type="SpaceMineralDepleted">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1530080334" Variation="2" Position="113.7966,52.2626,-7.0012" Rotation="4.202" Scale="0.9846,0.9846,0.9846" Type="AsteroidCliffDeep">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="60795639" Position="76.382,150.0766,-7.0012" Rotation="6.0993" Scale="1.1635,1.1635,1.1635" Type="AsteroidCliffDeep">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2110422984" Variation="1" Position="7.023,99.973,-6.9997" Rotation="6.2375" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1269035223" Variation="3" Position="26.4777,186.5827,-7.0012" Rotation="2.0146" Scale="0.9252,0.9252,0.9252" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="7875596" Variation="2" Position="190.623,97.559,-6.9997" Rotation="2.1618" Scale="1,1,1" Type="SpaceMineralFormation2Doodad">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="436819024" Variation="1" Position="23.65,115.0498,-0.2014" Rotation="5.9338" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.0612">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="98677087" Variation="1" Position="186.5014,89.1428,-6.9997" Rotation="4.274" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1609919152" Variation="2" Position="2.2292,101.147,-6.9997" Rotation="2.162" Scale="1,1,1" Type="SpaceMineralFormation2Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1796935720" Variation="2" Position="91.2717,6.1437,-7.0012" Rotation="5.8703" Scale="1,1,1" Type="SpaceMineralFormation2Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1125312037" Variation="1" Position="168.38,117.0588,-0.5114" Rotation="2.827" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.3232">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="852773035" Position="97.5388,122.688,-7.0014" Rotation="4.041" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1374799623" Variation="1" Position="90.0468,184.8093,-6.9997" Rotation="3.9018" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="413419144" Variation="3" Position="191.4658,105.2917,-6.9997" Rotation="2.3857" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="105956257" Variation="1" Position="115.641,23.024,-0.2014" Rotation="5.9335" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.0612">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="809326670" Variation="2" Position="90.8298,89.41,-5.8012" Rotation="0.9492" Scale="0.2998,0.3498,0.2" Type="PowerCablesWarfield" Pitch="3.2817" Roll="4.0544">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="261184654" Variation="1" Position="119.6215,144.9096,-7.0012" Rotation="1.6071" Scale="0.8666,0.8666,0.8666" Type="AsteroidCliff">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="291116927" Variation="1" Position="22.98,116.44,-0.3913" Rotation="4.293" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.3752" Roll="6.1606">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="133477549" Variation="3" Position="89.9965,131.351,-7.0014" Rotation="1.153" Scale="1,1,1" Type="SpaceMineralFormation2Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="333867282" Variation="2" Position="78.091,23.619,-0.9914" Rotation="1.627" Scale="0.2,0.2,0.2" Type="Korhal_Platform_LandingLights" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2133250348" Variation="1" Position="168.3576,76.99,-0.5114" Rotation="2.827" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.3232">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="259967068" Variation="4" Position="7.7221,6.3325,-7.0012" Rotation="5.407" Scale="0.7973,0.7973,0.7973" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1648538535" Variation="2" Position="72.9304,51.6694,-7.0012" Rotation="2.9545" Scale="0.9992,0.9992,0.9992" Type="AsteroidCliffDeep">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1746726869" Position="84.272,186.963,-6.9997" Rotation="2.9096" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="555897845" Variation="1" Position="90.0097,90.88,-5.9013" Scale="0.2995,0.2995,0.2995" Type="Shadow_Asteroids">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="108834512" Variation="2" Position="190.1652,91.775,-7.0012" Rotation="5.7875" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1426599354" Variation="1" Position="84.0322,138.0107,-7.0012" Rotation="5.2153" Scale="1.0717,1.0717,1.0717" Type="AsteroidCliff">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1751099868" Variation="4" Position="189.5007,7.4787,-7.0012" Rotation="1.6921" Scale="0.926,0.926,0.926" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1112929271" Variation="3" Position="100.7646,5.893,-6.9997" Rotation="0.0793" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="389657413" Variation="1" Position="51.42,96.47,-7.0012" Rotation="1.6816" Scale="1.0395,1.0395,1.0395" Type="Shadow_Asteroids">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="32926244" Variation="2" Position="3.651,94.4814,-7.0012" Rotation="0.388" Scale="1,1,1" Type="SpaceMineralFormation2Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1794929480" Variation="1" Position="147.488,88.0166,-7.0012" Rotation="5.1787" Scale="1.126,1.126,1.126" Type="AsteroidCliffDeep">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1868429627" Position="170.078,75.5502,-0.9914" Rotation="1.627" Scale="0.2,0.2,0.2" Type="Korhal_Platform_LandingLights" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2119186340" Variation="2" Position="46.797,81.269,-7.0012" Rotation="5.6572" Scale="1.1413,1.1413,1.1413" Type="AsteroidCliffDeep">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2067921196" Variation="1" Position="184.3681,105.3637,-6.9997" Rotation="4.274" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2084121383" Variation="1" Position="5.2038,89.2563,-6.9997" Rotation="4.2741" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2113011117" Position="169.13,115.5888,-0.8515" Rotation="1.221" Scale="0.5998,0.2,0.4196" Type="SpaceExplosiveMineEntrance" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2142813820" Variation="1" Position="93.3041,125.1594,-7.0012" Rotation="5.215" Scale="1.0717,1.0717,1.0717" Type="AsteroidCliff">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1123573058" Variation="1" Position="75.5981,166.9941,-0.2014" Rotation="5.9335" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.0612">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1558616347" Position="92.0397,88.2897,-7.8012" Rotation="3.6752" Scale="1.2,1.2,1.4" Type="Fog_Ulnar" TintColor="255,128,64">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1906456130" Variation="1" Position="180.8696,88.069,-6.9997" Rotation="6.2373" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1785546019" Variation="1" Position="95.8117,116.9584,-7.0012" Rotation="0.8303" Scale="0.9614,0.9614,0.9614" Type="AsteroidCliff">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1919188798" Variation="1" Position="45.9467,98.3828,-7.0012" Rotation="1.1938" Scale="0.823,0.823,0.823" Type="AsteroidCliffDeep">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="694582624" Variation="2" Position="3.8737,138.2202,-7.0012" Rotation="2.5935" Scale="0.9184,0.9184,0.9184" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="112352501" Variation="2" Position="106.55,190.99,-7.0012" Rotation="5.0888" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1490047544" Variation="1" Position="114.9711,24.414,-0.3913" Rotation="4.2927" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.3752" Roll="6.1606">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1909593767" Position="77.1208,23.5888,-0.8515" Rotation="1.221" Scale="0.5998,0.2,0.4196" Type="SpaceExplosiveMineEntrance" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1987477799" Variation="1" Position="101.4375,189.742,-7.0012" Rotation="2.6437" Scale="1.0275,1.0275,1.0275" Type="SpaceMineralDepleted">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1260757352" Variation="5" Position="40.856,0.8234,-7.0012" Rotation="5.2277" Scale="0.906,0.906,0.906" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1694122143" Variation="5" Position="4.2175,29.6601,-7.0012" Rotation="5.5515" Scale="0.896,0.896,0.896" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1377399650" Variation="1" Position="76.3381,169.0041,-0.5114" Rotation="2.827" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.3232">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1611666314" Position="182.3225,92.214,-7.0012" Rotation="2.538" Scale="0.9921,0.9921,0.9921" Type="SpaceMineralDepleted">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="584079170" Variation="2" Position="77.8608,22.919,-0.8615" Rotation="1.6262" Scale="0.2,0.2,0.2" Type="Korhal_Platform_LandingLights" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="546750208" Variation="3" Position="185.3388,95.5227,-6.9997" Rotation="2.3857" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1033536955" Variation="2" Position="95.6511,55.6113,-7.0012" Rotation="1.5705" Scale="0.9538,0.9538,0.9538" Type="AsteroidCliffDeep" Pitch="0.122" Roll="0.1394">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="187800088" Variation="2" Position="82.67,130.454,-7.0014" Rotation="5.7155" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1196613059" Variation="1" Position="166.9477,76.37,-0.3913" Rotation="4.2927" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.3752" Roll="6.1606">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="745550471" Position="162.8085,191.5351,-24.0996" Rotation="1.9514" Scale="0.869,0.869,0.869" Type="AsteroidsSky">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="450035994" Position="187.571,108.8156,-7.0012" Rotation="1.2714" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1273490843" Position="88.21,90.5798,-5.5012" Rotation="1.466" Scale="0.5,0.5,0.5" Type="StarshipIceWorldMinerals" Pitch="4.7121" Roll="0.519">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1599783519" Variation="3" Position="27.222,8.687,-6.9997" Rotation="1.9514" Scale="0.869,0.869,0.869" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="866276467" Position="112.2468,142.223,-7.0012" Rotation="2.373" Scale="0.9633,0.9633,0.9633" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1264871399" Variation="1" Position="167.6176,74.98,-0.2014" Rotation="5.9335" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.0612">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1005337593" Variation="1" Position="77.471,23.439,-0.9514" Rotation="2.819" Scale="0.2,0.2,0.2" Type="ShadowCore_AsteroidBase_LandingPlatform" Pitch="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="152877723" Variation="1" Position="94.0234,7.667,-7.0012" Rotation="0.7158" Scale="0.917,0.917,0.917" Type="SpaceMineralDepleted">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1278992055" Position="49.922,75.2617,-7.0012" Rotation="0.6943" Scale="1.0974,1.0974,1.0974" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1010507237" Variation="2" Position="92.5297,91.17,-6.1013" Rotation="1.3962" Scale="0.2998,0.42,0.2" Type="PowerCablesWarfield" Pitch="3.4458" Roll="2.1936">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="158340800" Variation="3" Position="85.8447,181.3842,-7.0012" Rotation="1.5432" Scale="1,1,1" Type="SpaceMineralFormation2Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="569789158" Variation="1" Position="169.4577,75.37,-0.9514" Rotation="2.819" Scale="0.2,0.2,0.2" Type="ShadowCore_AsteroidBase_LandingPlatform" Pitch="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="30653630" Variation="4" Position="95.42,94.72,-1.3012" Rotation="5.7595" Scale="0.13,0.15,0.15" Type="SpacePlatformCablesLarge" Pitch="0.5231">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1215369300" Variation="3" Position="79.454,58.1647,-7.0012" Rotation="2.1105" Scale="1.1652,1.1652,1.1652" Type="AsteroidCliffDeep">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="959267688" Variation="3" Position="86.8518,5.2421,-6.9997" Rotation="2.3857" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="823186945" Variation="1" Position="88.583,1.5676,-6.9997" Rotation="4.274" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="640036556" Position="95.46,95.72,-44.0012" Rotation="1.5705" Scale="1.5,1.5,4" Type="Hybrid01GasCloud">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1518942557" Position="25.88,114.92,-0.8615" Rotation="1.6264" Scale="0.2,0.2,0.2" Type="Korhal_Platform_LandingLights" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1763093659" Position="85.9536,129.0207,-7.0014" Rotation="4.4338" Scale="0.9516,0.9516,0.9516" Type="AsteroidCliff" Pitch="0.4636" Roll="5.6542">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="187474202" Variation="2" Position="9.7875,89.635,-7.0012" Rotation="5.773" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1095184251" Variation="1" Position="119.409,48.754,-7.0012" Rotation="3.7795" Scale="1.1542,1.1542,1.1542" Type="AsteroidCliff">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1758304991" Variation="3" Position="95.94,100.15,0.9982" Rotation="3.1413" Scale="1,1,1" Type="Korhal_Platform_LandingLights" Pitch="1.5705">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="586379416" Variation="1" Position="2.0654,86.9326,-6.9997" Rotation="3.902" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="324551993" Variation="1" Position="0.874,105.4367,-6.9997" Rotation="4.2741" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="891473083" Variation="1" Position="26.088,75.607,-0.9914" Rotation="1.627" Scale="0.2,0.2,0.2" Type="Korhal_Platform_LandingLights" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1398790381" Position="90.0097,90.75,-5.3012" Rotation="5.5454" Scale="1,1,1" Type="StarshipIceWorldMinerals" Pitch="3.1413">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="888340950" Variation="2" Position="0.8178,83.0837,-7.0012" Rotation="1.2756" Scale="0.9157,0.9157,0.9157" Type="SpaceMineralDepleted">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1257108853" Variation="1" Position="25.858,74.907,-0.8615" Rotation="1.6262" Scale="0.2,0.2,0.2" Type="Korhal_Platform_LandingLights" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="377811123" Variation="1" Position="48.312,111.74,-7.0012" Rotation="4.7211" Scale="1.2348,1.2348,1.2348" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="850769166" Position="89.6198,89.92,-5.3012" Rotation="2.9382" Scale="0.5,0.5,0.5" Type="SpaceTankTrap" Pitch="5.4975">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="967708955" Variation="3" Position="8.1435,106.3562,-6.9997" Rotation="2.386" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="772296070" Variation="5" Position="189.1713,141.3613,-7.0012" Rotation="1.0263" Scale="0.878,0.878,0.878" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1952084559" Variation="1" Position="115.6174,167.012,-0.2014" Rotation="5.9335" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.0612">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1584402534" Variation="1" Position="74.9282,168.3842,-0.3913" Rotation="4.2927" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.3752" Roll="6.1606">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1052487969" Position="105.3542,4.9575,-7.0012" Rotation="5.984" Scale="0.858,0.858,0.858" Type="SpaceMineralDepleted">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="419870643" Variation="1" Position="25.468,75.427,-0.9514" Rotation="2.819" Scale="0.2,0.2,0.2" Type="ShadowCore_AsteroidBase_LandingPlatform" Pitch="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1454467534" Position="151.6694,117.6867,-7.0012" Rotation="5.0612" Scale="1.1547,1.1547,1.1547" Type="AsteroidCliffDeep">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="236292506" Variation="1" Position="94.054,113.4707,-7.0014" Rotation="3.582" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1694894112" Position="79.1191,109.889,-32.0012" Rotation="1.493" Scale="0.5,0.9,0.5" Type="Korhal_SpacePort_LuggageTruck_Destroyed" TintColor="255,128,128">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1335923845" Position="89.7998,90.7697,-6.7014" Rotation="1.4665" Scale="1,1.0998,1" Type="StarshipIceWorldMinerals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="71372670" Variation="1" Position="169.48,115.439,-0.9514" Rotation="2.819" Scale="0.2,0.2,0.2" Type="ShadowCore_AsteroidBase_LandingPlatform" Pitch="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="336587659" Variation="2" Position="12.3393,103.5976,-7.0012" Rotation="1.2836" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1377774498" Variation="2" Position="104.37,136.2111,-7.0012" Rotation="2.5615" Scale="1.0065,1.0065,1.0065" Type="AsteroidsSky">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="131673196" Variation="2" Position="118.6306,144.753,-7.0012" Rotation="0.024" Scale="0.825,0.825,0.825" Type="AsteroidCliffDeep">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1704252937" Variation="3" Position="100.8098,96.0397,0.3981" Rotation="1.5705" Scale="1,1,1" Type="Korhal_Platform_LandingLights" Pitch="1.5705">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1857665758" Variation="2" Position="76.1782,145.9455,-7.0012" Rotation="5.4667" Scale="1.1447,1.1447,1.1447" Type="AsteroidCliff">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="564425818" Variation="2" Position="118.0773,167.582,-0.9914" Rotation="1.627" Scale="0.2,0.2,0.2" Type="Korhal_Platform_LandingLights" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2062354974" Variation="3" Position="140.2148,99.646,-7.0012" Rotation="6.2153" Scale="1.1123,1.1123,1.1123" Type="AsteroidCliffDeep">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="452360175" Variation="10" Position="93.0598,89.3098,-5.6013" Rotation="0.855" Scale="0.75,0.4,0.4" Type="SpacePlatformGroundDecals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1878735851" Variation="3" Position="106.5695,181.6525,-6.9997" Rotation="0.0793" Scale="1,1,1" Type="SpaceMineralFormation1Doodad">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="368663886" Position="117.1074,167.552,-0.8515" Rotation="1.221" Scale="0.5998,0.2,0.4196" Type="SpaceExplosiveMineEntrance" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="553774625" Position="26.1098,115.6198,-0.9914" Rotation="1.627" Scale="0.2,0.2,0.2" Type="Korhal_Platform_LandingLights" Roll="0.1743">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1037874610" Variation="1" Position="22.958,76.427,-0.3913" Rotation="4.2927" Scale="0.25,0.25,0.25" Type="SpacePlatformCautionLights" Pitch="5.3752" Roll="6.1606">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="224268465" Variation="4" Position="96.0397,91.73,0.9982" Scale="1,1,1" Type="SpacePlatform_Lantern_Blue_Blink" Pitch="1.5705">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectPoint Id="643170309" Position="183.8647,77.6604,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 162" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1260038304" Position="8.0502,61.4482,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 153" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1078966056" Position="186.0705,97.5144,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 158" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="301493340" Position="136.7792,72.1662,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 200" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="2075839147" Position="58.0026,91.7697,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 223" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="15816934" Position="8.1,57.6794,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 155" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="881107042" Position="147.4704,66.9814,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 018" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="90608725" Position="151.8747,100.9523,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 045" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="926442471" Position="77.8867,39.3574,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 085" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="865418158" Position="61.8562,183.6896,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 116" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="872108021" Position="184.0363,121.5732,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 172" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1401801825" Position="152.045,93.0244,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 038" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="137675341" Position="134.0686,103.7731,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 239" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="319275343" Position="118.1066,39.0224,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 081" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="145107365" Position="6.3461,137.1442,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 154" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="268931982" Position="68.0705,48.4077,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 208" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="184976673" Position="7.9997,81.6447,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 139" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1836250098" Position="186.0207,101.2832,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 159" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1338024886" Position="6.3015,101.5246,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 137" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="53040206" Position="69.8967,52.0656,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 209" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="1811069710" Position="81.9106,183.8706,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 124" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="509733485" Position="85.9211,183.9648,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 133" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1138180601" Position="6.3513,97.7558,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 136" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1536693411" Position="106.3654,150.8957,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 067" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="210488638" Position="74.1257,39.219,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 089" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="623262358" Position="183.8354,85.366,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 174" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1256982633" Position="39.9377,81.114,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 023" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="38925610" Position="92.3063,134.0173,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 236" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="482738600" Position="77.7392,7.608,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 091" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="2093900657" Position="139.5017,122.217,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 194" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="1798859273" Position="134.1408,80.3115,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 228" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="932604683" Position="133.9267,7.4045,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 095" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1806067652" Position="183.8662,129.5012,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 167" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="45496758" Position="119.441,136.2805,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 190" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="361776411" Position="65.8666,183.784,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 128" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="338229361" Position="122.3947,52.7048,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 204" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="673150101" Position="6.2202,53.1884,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 149" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1883125746" Position="134.25,183.6203,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 117" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="688497540" Position="40.0808,113.1423,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 032" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="995494286" Position="133.9631,92.2185,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 231" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="892802800" Position="69.4711,7.4924,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 105" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="386707646" Position="58.2275,84.018,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 224" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1276932987" Position="84.176,133.7465,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 234" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1426925189" Position="6.368,89.321,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 142" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="37146990" Position="40.013,88.7233,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 026" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="755199454" Position="54.1682,185.19,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 118" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="2088524996" Position="152.009,113.1677,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 043" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="192999307" Position="79.8854,57.4445,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 218" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="725871740" Position="81.5874,7.6547,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 102" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1971238533" Position="74.171,151.1577,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 074" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="788811183" Position="24,168,0" Scale="1,1,1" Type="StartLoc" Name="Start Location 001" Color="0,0,0,0">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="2104148732" Position="64,96,0" Scale="1,1,1" Type="Normal" Name="Middle Orbit 7" Color="0,0,0,0"/>
+    <ObjectPoint Id="474324128" Position="94.143,185.6306,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 120" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="717388741" Position="151.8864,85.0761,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 039" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1614516906" Position="134.0573,107.8464,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 240" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="493685725" Position="41.0815,73.3583,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 024" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="586596950" Position="72.9453,54.9296,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 210" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="322626531" Position="100.5302,133.982,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 192" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="486750316" Position="8.0747,109.287,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 148" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="513867244" Position="107.8603,134.5063,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 245" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="968734856" Position="102.448,5.0566,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 110" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="134784171" Position="183.815,81.4291,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 161" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="730813490" Position="119.431,56.1145,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 205" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="939053230" Position="89.6428,185.9206,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 121" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1167483186" Position="57.6994,76.11,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 217" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="2003703898" Position="96,128,0" Scale="1,1,1" Type="Normal" Name="Middle Orbit 1" Color="0,0,0,0"/>
+    <ObjectPoint Id="892803562" Position="40.0126,108.7563,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 031" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="365659848" Position="76.0295,134.1301,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 187" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1999075376" Position="55.5068,123.0922,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 180" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="1401292423" Position="73.4,73.4,0" Scale="1,1,1" Type="Normal" Name="Middle Orbit 6" Color="0,0,0,0"/>
+    <ObjectPoint Id="202041084" Position="111.8593,57.7038,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 253" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="208082809" Position="8.17,73.7167,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 143" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="2008706706" Position="183.8654,61.2326,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 175" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="467025597" Position="135.0703,76.0131,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 202" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="985879569" Position="102.529,185.3164,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 132" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="2047204560" Position="150.0686,120.5463,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 010" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1154149559" Position="183.8442,105.179,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 166" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="102558599" Position="115.8913,134.455,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 243" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="858401301" Position="106.496,183.4233,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 131" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1219930892" Position="55.8361,72.7075,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 215" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="61013242" Position="80.2578,134.0563,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 233" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="449953012" Position="69.9042,41.6125,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 053" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="509049677" Position="110.1684,39.004,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 080" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="286143888" Position="168,24,0" Scale="1,1,1" Type="StartLoc" Name="Start Location 004" Color="0,0,0,0">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="1345616120" Position="151.866,81.1394,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 035" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1061578335" Position="183.9152,57.4638,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 177" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="190175665" Position="24,24,0" Scale="1,1,1" Type="StartLoc" Name="Start Location 003" Color="0,0,0,0">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="839908572" Position="40.1591,121.258,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 008" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="447726430" Position="110.021,7.2543,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 107" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="525013809" Position="110.2136,150.9426,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 066" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1507792795" Position="151.9411,88.7487,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 044" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1666485003" Position="136.4768,119.2985,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 195" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="1674339036" Position="112.1625,134.366,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 244" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="68140068" Position="94.2185,151.0715,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 076" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="2042593882" Position="58.0534,99.7641,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 182" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="411214213" Position="106.3203,38.957,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 079" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="930086808" Position="129.9162,7.3103,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 090" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1159432914" Position="94.062,5.3708,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 098" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="909851963" Position="168,168,0" Scale="1,1,1" Type="StartLoc" Name="Start Location 002" Color="0,0,0,0">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="461749697" Position="85.598,7.749,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 111" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="499324897" Position="122.6303,183.3408,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 122" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="846674026" Position="81.78,151.343,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 071" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="758230510" Position="46.724,68.5151,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 013" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1243563893" Position="8.1254,69.0576,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 147" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="2076392418" Position="115.724,57.3056,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 254" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="806328422" Position="183.916,125.7324,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 157" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="321379184" Position="6.4716,93.5966,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 151" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1884636241" Position="122.492,139.6064,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 189" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="108310351" Position="102.5593,38.8186,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 083" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1693954246" Position="58.0302,87.7832,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 226" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1772303741" Position="58.1733,95.6887,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 227" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="527277867" Position="134.0046,88.3571,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 230" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1136201614" Position="138.1391,185.1726,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 123" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="962167123" Position="114.3547,183.5644,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 130" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="421452955" Position="88.0998,134,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 235" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="840212815" Position="183.958,113.4575,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 163" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1179668424" Position="147.2204,123.6027,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 003" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1363902495" Position="85.7453,39.4985,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 084" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="2040728386" Position="97.949,185.6306,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 126" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="928939841" Position="50.1284,68.3173,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 213" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="510606872" Position="133.9494,100.1491,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 197" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="584771869" Position="40.144,117.1123,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 033" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1846829967" Position="96.3217,134.09,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 237" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="382528253" Position="58.1123,103.671,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 250" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1072156381" Position="152.0722,117.1376,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 034" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1778987052" Position="124.3264,44.7443,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 048" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1989917135" Position="52.2631,125.9692,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 179" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="156419669" Position="41.6357,124.7868,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 007" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1280335581" Position="134.677,115.6652,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 242" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="237314258" Position="48.5346,127.7294,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 178" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="729976900" Position="73.9782,7.4694,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 097" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="2124985436" Position="121.4597,41.6674,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 049" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="434355065" Position="151.9157,77.3706,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 042" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1638656912" Position="183.886,65.1694,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 168" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="305014336" Position="8.0715,133.6535,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 138" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="426948476" Position="186.0871,89.0795,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 164" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="245789450" Position="186.191,93.3552,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 173" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1816150153" Position="67.984,44.6823,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 051" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="244249117" Position="39.9963,97.1582,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 030" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="26059794" Position="122.3071,7.125,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 100" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="641363710" Position="114.224,151.0368,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 068" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1236629980" Position="118.2824,183.4887,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 115" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1280132834" Position="152.0361,73.2114,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 036" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="577443791" Position="128,96,0" Scale="1,1,1" Type="Normal" Name="Middle Orbit 3" Color="0,0,0,0"/>
+    <ObjectPoint Id="1424461879" Position="69.1816,139.2636,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 184" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="862961304" Position="100.1616,57.7106,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 207" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1512502218" Position="69.7944,183.7082,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 127" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1265174436" Position="39.9465,100.927,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 028" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="238877286" Position="103.972,57.6613,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 251" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1695786302" Position="138.0725,5.0141,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 101" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1191462898" Position="151.9245,97.1835,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 040" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="278585866" Position="96,64,0" Scale="1,1,1" Type="Normal" Name="Middle Orbit 5" Color="0,0,0,0"/>
+    <ObjectPoint Id="251040144" Position="8.1428,113.673,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 141" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1879637991" Position="54.0041,5.3007,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 096" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="256698946" Position="183.89,109.0715,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 170" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1774076473" Position="117.9592,7.273,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 093" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="390196293" Position="130.2395,183.5261,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 112" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="564172546" Position="58.008,183.6428,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 125" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1165986191" Position="102.6044,150.7573,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 069" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1824249022" Position="94.1733,39.1328,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 082" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1186250515" Position="134.0817,111.7802,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 241" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1340009104" Position="89.673,39.4228,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 087" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="64882124" Position="77.932,151.2961,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 072" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="147035597" Position="118.5998,73.4,0" Scale="1,1,1" Type="Normal" Name="Middle Orbit 4" Color="0,0,0,0"/>
+    <ObjectPoint Id="505339914" Position="121.887,150.0004,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 062" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="2036014081" Position="39.9875,77.3452,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 025" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1093464206" Position="143.5034,67.3725,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 198" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="1382204309" Position="124.2812,147.1884,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 061" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="303106448" Position="110.3442,183.4702,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 129" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="355163525" Position="8.051,129.7167,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 145" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="377572252" Position="97.868,5.3708,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 104" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="530244094" Position="8.2211,121.7888,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 150" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1421285291" Position="57.2316,119.401,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 181" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="1365920219" Position="96,96,0" Scale="1,1,1" Type="Normal" Name="Middle" Color="0,0,0,0"/>
+    <ObjectPoint Id="322202301" Position="74.3015,183.6853,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 119" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="2041963467" Position="8.0202,85.5815,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 152" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1535950786" Position="124.4531,48.901,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 203" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="2074365710" Position="81.7348,39.4042,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 086" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="640789028" Position="39.967,104.8637,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 027" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1635596479" Position="58.1965,107.8176,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 249" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1409438921" Position="89.5617,5.661,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 099" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="903430629" Position="44.8154,127.288,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 002" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1506105229" Position="61.533,7.4738,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 094" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="482793858" Position="114.0314,7.3486,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 108" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1690610159" Position="8.206,117.643,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 134" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="50444614" Position="43.3032,69.9848,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 012" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1463030400" Position="183.985,73.5012,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 165" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1537407646" Position="70.343,149.2587,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 058" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="427509390" Position="88.1535,57.4445,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 220" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="602343684" Position="151.941,108.7817,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 041" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1754291634" Position="133.9235,96.084,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 232" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1468414831" Position="151.8952,104.8891,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 037" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="219495816" Position="78.0625,183.8237,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 113" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1187189516" Position="118.5998,118.5998,0" Scale="1,1,1" Type="Normal" Name="Middle Orbit 2" Color="0,0,0,0"/>
+    <ObjectPoint Id="203976537" Position="124.3505,143.3906,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 188" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="382325609" Position="97.9792,39.1328,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 088" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="441999962" Position="8.1008,125.948,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 135" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="225659146" Position="95.8903,57.4445,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 222" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1499095745" Position="104.173,134.0888,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 246" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1857577340" Position="114.179,39.0981,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 078" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1187854698" Position="185.6267,53.1806,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 171" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="737479840" Position="92.1154,57.6481,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 221" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1569812725" Position="72.435,135.9548,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 185" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="29621009" Position="76.4128,56.4992,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 212" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1024966557" Position="40.1166,92.999,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 029" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1802484736" Position="8.0495,77.876,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 140" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="829154445" Position="183.8867,133.438,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 160" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="250870409" Position="184.0212,117.4274,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 156" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="2108292613" Position="134.0363,84.444,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 229" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="989501643" Position="118.1518,150.9611,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 070" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1607209360" Position="57.9494,111.8535,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 248" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="2077139437" Position="139.993,69.408,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 199" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="1302437641" Position="183.9406,68.842,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 169" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1753086876" Position="39.9582,85.0507,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 022" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1258710783" Position="8.0708,65.385,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 146" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="286842596" Position="85.7905,151.4372,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 073" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1635170662" Position="58.0861,79.8388,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 225" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1642417646" Position="57.6848,7.427,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 103" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="957757582" Position="106.1728,7.2075,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 109" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="665839445" Position="107.8937,57.6613,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 252" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="2093997291" Position="53.4296,69.8095,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 214" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="857057241" Position="126.3913,183.4792,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 114" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="2037429064" Position="150.0925,69.7102,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 017" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1268936020" Position="126.068,7.2634,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 092" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="755308235" Position="67.1467,142.9147,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 183" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="533714218" Position="143.2431,124.1596,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 193" Color="0,0,0,0" PathingRadiusSoft="4.5" PathingRadiusHard="4"/>
+    <ObjectPoint Id="942355965" Position="65.5434,7.568,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 106" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1658069142" Position="185.8002,137.2216,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 176" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="256667165" Position="57.8171,115.609,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 247" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="412597285" Position="89.7182,151.3615,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 075" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1036013579" Position="98.0244,151.0715,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 077" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="1368639216" Position="8.029,105.3945,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 144" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="306701657" Position="84.3122,57.4445,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 219" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectPoint Id="503031220" Position="73.4,118.5998,0" Scale="1,1,1" Type="Normal" Name="Middle Orbit 8" Color="0,0,0,0"/>
+    <ObjectPoint Id="1068556859" Position="67.6293,146.7182,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 056" Color="0,0,0,0" PathingRadiusSoft="3.5" PathingRadiusHard="3"/>
+    <ObjectCamera Id="1243716829" Position="46.6901,165.053,0" Rotation="3.14" Scale="1,1,1" Name="Tutorial Camera 01" Color="0,0,0,0" CameraTarget="46.6901,165.053">
+        <CameraValue Index="FieldOfView" Value="27.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="55"/>
+        <CameraValue Index="Pitch" Value="56"/>
+        <CameraValue Index="Yaw" Value="179.9025"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0097"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="527425507" Position="96.9086,165.5874,0" Rotation="3.14" Scale="1,1,1" Name="Tutorial Camera 02" Color="0,0,0,0" CameraTarget="96.9086,165.5874">
+        <CameraValue Index="FieldOfView" Value="27.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="55"/>
+        <CameraValue Index="Pitch" Value="56"/>
+        <CameraValue Index="Yaw" Value="179.9025"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0097"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="1058854075" Position="28.3125,161.7211,0" Rotation="3.14" Scale="1,1,1" Name="Tutorial Camera 03" Color="0,0,0,0" CameraTarget="28.3125,161.7211">
+        <CameraValue Index="FieldOfView" Value="27.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="47"/>
+        <CameraValue Index="Pitch" Value="56"/>
+        <CameraValue Index="Yaw" Value="179.9025"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0097"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectUnit Id="1539987195" Variation="1" Position="176,150,0" Scale="1,1,1" Name="20" UnitType="UmojanLabDebris"/>
+    <ObjectUnit Id="1603309284" Position="44,24,0" Rotation="1.5705" Scale="1,1,1" Name="9" UnitType="DestructibleDebris4x4"/>
+    <ObjectUnit Id="1047092137" Variation="1" Position="176,42,0" Rotation="3.1413" Scale="1,1,1" Name="28" UnitType="UmojanLabDebris"/>
+    <ObjectUnit Id="1682867307" Position="164,164,0" Rotation="4.4262" Scale="1,1,1" UnitType="Planet_Base" Player="2">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="249140609" Variation="1" Position="150,176,0" Rotation="4.7121" Scale="1,1,1" Name="17" UnitType="UmojanLabDebris"/>
+    <ObjectUnit Id="2075872159" Variation="1" Position="150,160,0" Rotation="5.1486" Scale="1,1,1" Name="18" UnitType="UmojanLabDebris"/>
+    <ObjectUnit Id="1705407708" Position="68.8613,32.5952,0" Rotation="5.3325" Scale="1,1,1" UnitType="SS_BackgroundSpaceProt00"/>
+    <ObjectUnit Id="2131638995" Variation="1" Position="42,176,0" Rotation="1.5705" Scale="1,1,1" Name="16" UnitType="UmojanLabDebris"/>
+    <ObjectUnit Id="1668526683" Variation="1" Position="42,32,0" Rotation="2.007" Scale="1,1,1" Name="23" UnitType="UmojanLabDebris"/>
+    <ObjectUnit Id="661412275" Position="153,153,0" Rotation="5.4975" Scale="1,1,1" Name="5" UnitType="DestructibleDebris4x4"/>
+    <ObjectUnit Id="1948492500" Position="24,44,0" Rotation="3.1413" Scale="1,1,1" Name="7" UnitType="DestructibleDebris4x4"/>
+    <ObjectUnit Id="709427990" Variation="1" Position="150,32,0" Rotation="4.276" Scale="1,1,1" Name="26" UnitType="UmojanLabDebris"/>
+    <ObjectUnit Id="1692004946" Position="106.1203,170.05,0" Rotation="0.6054" Scale="1,1,1" UnitType="SS_BackgroundSpaceProt00"/>
+    <ObjectUnit Id="369108933" Variation="1" Position="32,150,0" Rotation="0.5231" Scale="1,1,1" Name="14" UnitType="UmojanLabDebris"/>
+    <ObjectUnit Id="1314530908" Variation="1" Position="32,42,0" Rotation="2.705" Scale="1,1,1" Name="22" UnitType="UmojanLabDebris"/>
+    <ObjectUnit Id="247035130" Position="148,168,0" Rotation="4.7121" Scale="1,1,1" Name="4" UnitType="DestructibleDebris4x4"/>
+    <ObjectUnit Id="257590966" Variation="1" Position="160,42,0" Rotation="3.578" Scale="1,1,1" Name="27" UnitType="UmojanLabDebris"/>
+    <ObjectUnit Id="864178174" Position="168,148,0" Scale="1,1,1" Name="6" UnitType="DestructibleDebris4x4"/>
+    <ObjectUnit Id="1748632180" Position="24,148,0" Scale="1,1,1" Name="1" UnitType="DestructibleDebris4x4"/>
+    <ObjectUnit Id="1624216916" Position="116,168,0" Scale="1,1,1" UnitType="AbandonedStarbase" Player="15"/>
+    <ObjectUnit Id="254203156" Position="102.5546,2.1848,0" Scale="1,1,1" UnitType="SS_BackgroundSpaceProt00"/>
+    <ObjectUnit Id="1072533451" Variation="1" Position="160,150,0" Rotation="5.7595" Scale="1,1,1" Name="19" UnitType="UmojanLabDebris"/>
+    <ObjectUnit Id="1520952057" Position="168,76,0" Scale="1,1,1" UnitType="AbandonedStarbase" Player="15"/>
+    <ObjectUnit Id="547214436" Position="24,76,0" Scale="1,1,1" UnitType="AbandonedStarbase" Player="15"/>
+    <ObjectUnit Id="1249693653" Variation="1" Position="42,160,0" Rotation="1.1342" Scale="1,1,1" Name="15" UnitType="UmojanLabDebris"/>
+    <ObjectUnit Id="355695200" Variation="1" Position="150,16,0" Rotation="4.7121" Scale="1,1,1" Name="25" UnitType="UmojanLabDebris"/>
+    <ObjectUnit Id="2043035071" Position="153,39,0" Rotation="3.9267" Scale="1,1,1" Name="11" UnitType="DestructibleDebris4x4"/>
+    <ObjectUnit Id="727678444" Position="44,168,0" Rotation="1.5705" Scale="1,1,1" Name="3" UnitType="DestructibleDebris4x4"/>
+    <ObjectUnit Id="1994904286" Variation="1" Position="42,16,0" Rotation="1.5705" Scale="1,1,1" Name="24" UnitType="UmojanLabDebris"/>
+    <ObjectUnit Id="942679882" Position="173,173,0" Rotation="2.356" Scale="1,1,1" UnitType="DestructibleCityDebris6x6"/>
+    <ObjectUnit Id="239158158" Position="96,96,0" Rotation="3.7524" Scale="1,1,1" UnitType="Starbase" Player="15">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1735896176" Position="36.4926,90.9384,0" Rotation="0.1105" Scale="1,1,1" UnitType="SS_BackgroundSpaceProt00"/>
+    <ObjectUnit Id="275605156" Position="101.4946,185.5241,0" Rotation="0.1105" Scale="1,1,1" UnitType="SS_BackgroundSpaceProt00"/>
+    <ObjectUnit Id="736119962" Position="172.961,98.1008,0" Rotation="5.4975" Scale="1,1,1" UnitType="SS_BackgroundSpaceProt00"/>
+    <ObjectUnit Id="247866144" Position="24.111,103.1467,0" Rotation="0.7851" Scale="1,1,1" UnitType="SS_BackgroundSpaceProt00"/>
+    <ObjectUnit Id="1532264103" Position="76,168,0" Scale="1,1,1" UnitType="AbandonedStarbase" Player="15"/>
+    <ObjectUnit Id="1198643412" Position="173,19,0" Rotation="0.7851" Scale="1,1,1" UnitType="DestructibleCityDebris6x6"/>
+    <ObjectUnit Id="82902477" Position="139.0688,125.032,0" Rotation="4.6354" Scale="1,1,1" UnitType="SS_BackgroundSpaceProt00"/>
+    <ObjectUnit Id="879496549" Variation="1" Position="16,42,0" Rotation="3.1413" Scale="1,1,1" Name="21" UnitType="UmojanLabDebris"/>
+    <ObjectUnit Id="704033729" Position="168,116,0" Scale="1,1,1" UnitType="AbandonedStarbase" Player="15"/>
+    <ObjectUnit Id="781024900" Position="28,164,0" Rotation="4.4262" Scale="1,1,1" UnitType="Planet_Base" Player="1">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="2104771639" Position="76,24,0" Scale="1,1,1" UnitType="AbandonedStarbase" Player="15"/>
+    <ObjectUnit Id="113153197" Variation="1" Position="16,150,0" Scale="1,1,1" Name="13" UnitType="UmojanLabDebris"/>
+    <ObjectUnit Id="1865041999" Position="39,153,0" Rotation="0.7851" Scale="1,1,1" Name="2" UnitType="DestructibleDebris4x4"/>
+    <ObjectUnit Id="687862330" Position="96.0197,94.17,-1.0998" Scale="1,1,1" UnitType="StarbaseRevealer">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1566411432" Position="19,19,0" Rotation="5.4975" Scale="1,1,1" UnitType="DestructibleCityDebris6x6"/>
+    <ObjectUnit Id="1377724054" Position="24,116,0" Scale="1,1,1" UnitType="AbandonedStarbase" Player="15"/>
+    <ObjectUnit Id="958327578" Position="164,28,0" Rotation="0.4001" Scale="1,1,1" UnitType="Planet_Base" Player="4">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1456254894" Position="39,39,0" Rotation="2.356" Scale="1,1,1" Name="8" UnitType="DestructibleDebris4x4"/>
+    <ObjectUnit Id="954394121" Position="148,24,0" Rotation="4.7121" Scale="1,1,1" Name="10" UnitType="DestructibleDebris4x4"/>
+    <ObjectUnit Id="800934435" Position="19,173,0" Rotation="3.9267" Scale="1,1,1" UnitType="DestructibleCityDebris6x6"/>
+    <ObjectUnit Id="1477720077" Position="116,24,0" Scale="1,1,1" UnitType="AbandonedStarbase" Player="15"/>
+    <ObjectUnit Id="876371867" Position="168,44,0" Rotation="3.1413" Scale="1,1,1" Name="12" UnitType="DestructibleDebris4x4"/>
+    <ObjectUnit Id="1513564397" Position="28,28,0" Rotation="0.4001" Scale="1,1,1" UnitType="Planet_Base" Player="3">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+</PlacedObjects>
