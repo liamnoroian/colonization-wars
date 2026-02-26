@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CConsoleSkin id="ConsoleProtoss_Default">
+        <Default value="0"/>
+    </CConsoleSkin>
+    <CConsoleSkin id="ConsoleTerran_Default">
+        <Default value="0"/>
+    </CConsoleSkin>
+    <CConsoleSkin id="ConsoleZerg_Default">
+        <Default value="0"/>
+    </CConsoleSkin>
+</Catalog>

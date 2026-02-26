@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CTargetSortValidator id="NonHero">
+        <Validator value="NotHeroic"/>
+    </CTargetSortValidator>
+    <CTargetSortVitalFraction id="TSLifeFractionLargestFirst">
+        <Descending value="1"/>
+    </CTargetSortVitalFraction>
+    <CTargetSortVitalFraction id="TSShieldsFractionLargestFirst">
+        <Descending value="1"/>
+        <Vital value="Shields"/>
+    </CTargetSortVitalFraction>
+</Catalog>

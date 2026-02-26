@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CFootprint id="CastanarDestructibleDebris">
+        <Layers index="Check" Area="-1,-1,1,1">
+            <Rows index="0" value=".."/>
+            <Rows index="1" value=".."/>
+            <Rows index="2" removed="1"/>
+        </Layers>
+        <Layers index="Place" Area="-1,-1,1,1">
+            <Rows index="0" value="xx"/>
+            <Rows index="1" value="xx"/>
+            <Rows index="2" removed="1"/>
+        </Layers>
+        <Shape>
+            <Radius value="1.4143"/>
+            <Offsets value="-1,-1;1,-1;-1,1;1,1"/>
+            <Borders value="0,2,2;1,0,2;2,3,2;3,1,2"/>
+        </Shape>
+    </CFootprint>
+</Catalog>

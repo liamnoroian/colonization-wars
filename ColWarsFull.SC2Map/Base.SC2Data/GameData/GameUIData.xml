@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CGameUI id="Dflt">
+        <LoadingScreenHelp index="0" Text="LoadingScreen/Help01"/>
+        <LoadingScreenHelp index="1" Text="LoadingScreen/Help02"/>
+        <LoadingScreenHelp index="2" Text="LoadingScreen/Help04"/>
+        <LoadingScreenHelp index="3" Text="LoadingScreen/Help05"/>
+        <LoadingScreenHelp index="4" Text="LoadingScreen/Help06"/>
+        <LoadingScreenHelp index="5" Text="LoadingScreen/Help07"/>
+        <LoadingScreenHelp index="6" removed="1"/>
+        <LoadingScreenHelp index="7" removed="1"/>
+        <LoadingScreenHelp index="8" removed="1"/>
+        <LoadingScreenHelp index="9" removed="1"/>
+        <LoadingScreenHelp index="10" removed="1"/>
+        <LoadingScreenHelp index="11" removed="1"/>
+        <LoadingScreenHelp index="12" removed="1"/>
+        <LoadingScreenHelp index="13" removed="1"/>
+        <LoadingScreenHelp index="14" removed="1"/>
+        <LoadingScreenHelp index="15" removed="1"/>
+        <LoadingScreenHelp index="16" removed="1"/>
+        <LoadingScreenHelp index="17" removed="1"/>
+        <LoadingScreenHelp index="18" removed="1"/>
+        <LoadingScreenHelp index="19" removed="1"/>
+        <LoadingScreenHelp index="20" removed="1"/>
+        <LoadingScreenHelp index="21" removed="1"/>
+        <LoadingScreenHelp index="22" removed="1"/>
+        <LoadingScreenHelp index="23" removed="1"/>
+        <LoadingScreenHelp index="24" removed="1"/>
+        <LoadingScreenHelp index="25" removed="1"/>
+        <LoadingScreenHelp index="26" removed="1"/>
+        <LoadingScreenHelp index="27" removed="1"/>
+        <LoadingScreenHelp index="28" removed="1"/>
+        <LoadingScreenHelp index="29" removed="1"/>
+        <LoadingScreenHelp index="30" removed="1"/>
+        <LoadingScreenHelp index="31" removed="1"/>
+        <LoadingScreenHelp index="32" removed="1"/>
+        <LoadingScreenHelp index="33" removed="1"/>
+        <LoadingScreenHelp index="34" removed="1"/>
+        <LoadingScreenHelp index="35" removed="1"/>
+        <LoadingScreenHelp index="36" removed="1"/>
+        <LoadingScreenHelp index="37" removed="1"/>
+        <LoadingScreenHelp index="38" removed="1"/>
+        <LoadingScreenHelp index="39" removed="1"/>
+        <LoadingScreenHelp index="40" removed="1"/>
+        <LoadingScreenHelp index="41" removed="1"/>
+        <LoadingScreenHelp index="42" removed="1"/>
+        <LoadingScreenHelp index="43" removed="1"/>
+        <LoadingScreenHelp index="44" removed="1"/>
+        <LoadingScreenHelp index="45" removed="1"/>
+        <LoadingScreenHelp index="46" removed="1"/>
+        <LoadingScreenHelp index="47" removed="1"/>
+        <LoadingScreenHelp index="48" removed="1"/>
+        <LoadingScreenHelp index="49" removed="1"/>
+        <LoadingScreenHelp index="50" removed="1"/>
+        <LoadingScreenHelp index="51" removed="1"/>
+        <LoadingScreenHelp index="52" removed="1"/>
+        <LoadingScreenHelp index="53" removed="1"/>
+        <LoadingScreenHelp index="54" removed="1"/>
+        <LoadingScreenHelp index="55" removed="1"/>
+        <LoadingScreenHelp index="56" removed="1"/>
+        <LoadingScreenHelp index="57" removed="1"/>
+        <LoadingScreenHelp index="58" removed="1"/>
+        <LoadingScreenHelp index="59" removed="1"/>
+        <LoadingScreenHelp index="60" removed="1"/>
+        <LoadingScreenHelp index="61" removed="1"/>
+        <LoadingScreenHelpIntro index="0" removed="1"/>
+        <LoadingScreenHelpIntro index="1" removed="1"/>
+        <LoadingScreenHelpIntro index="2" removed="1"/>
+        <HelpGameMechanics index="0" Icon="UI/HelpMenuDialogGameMechanics_Vespene" Name="UI/HelpGameMechanic_VespeneGeysers_Name" Description="UI/HelpGameMechanic_VespeneGeysers_Description"/>
+        <HelpGameMechanics index="1">
+            <Icon value=""/>
+            <IconBackground value=""/>
+            <Name value=""/>
+            <Description value="UI/HelpGameDonations"/>
+        </HelpGameMechanics>
+        <HelpGameMechanics index="3" Icon="UI/HelpMenuDialogGameMechanics_Minerals" Name="UI/HelpGameMechanic_Minerals_Name" Description="UI/HelpGameMechanic_Minerals_Description"/>
+        <HelpGameMechanics index="4" Icon="UI/HelpMenuDialogGameMechanics_ReducedMineralFields" Name="UI/HelpGameMechanic_ReducedMineralFields_Name" Description="UI/HelpGameMechanic_ReducedMineralFields_Description"/>
+        <HelpGameMechanics index="5" Icon="UI/HelpMenuDialogGameMechanics_RichVespene" Name="UI/HelpGameMechanic_RichVespeneGeysers_Name" Description="UI/HelpGameMechanic_RichVespeneGeysers_Description"/>
+        <HelpGameMechanics index="6" removed="1"/>
+        <HelpGameMechanics index="7" removed="1"/>
+        <HelpGameMechanics index="8" removed="1"/>
+        <HelpGameMechanics index="9" removed="1"/>
+        <HelpGameMechanics index="10" removed="1"/>
+        <HelpGameMechanics index="11" removed="1"/>
+        <HelpGameMechanics index="12" removed="1"/>
+        <ResourceArray index="Custom" Icon="Policy_Points_001.dds" IconBackground="Policy_Points_001.dds"/>
+        <SoundData index="Combat">
+            <VolumeRolloffPoints index="1" Volume="-1.000000"/>
+            <VolumeRolloffPoints Distance="38.000000" Volume="-2.000000"/>
+            <VolumeRolloffPoints Distance="46.000000" Volume="-3.000000"/>
+            <VolumeRolloffPoints Distance="50.000000" Volume="-5.000000"/>
+            <VolumeRolloffPoints Distance="54.000000" Volume="-7.000000"/>
+            <VolumeRolloffPoints Distance="60.000000" Volume="-10.000000"/>
+            <VolumeRolloffPoints Distance="70.000000" Volume="-12.000000"/>
+        </SoundData>
+    </CGameUI>
+</Catalog>

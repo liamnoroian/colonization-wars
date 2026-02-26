@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CRequirement id="SpeedAdaptation">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeSpeedAdaptationCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeSpeedAdaptationCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="EvolutionMistress">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeEvolutionMistressCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeEvolutionMistressCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="InfestingEvolution">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeInfestingEvolutionCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeInfestingEvolutionCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="DebilitatingSwarm">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeDebilitatingSwarmCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeDebilitatingSwarmCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="SoldierGuards">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeSoldierGuardsCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeSoldierGuardsCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="SporeTower">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeSporeTowerCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeSporeTowerCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="SpacialGland">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeSpacialGlandCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeSpacialGlandCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="PromisedLoot">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradePromisedLootCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradePromisedLootCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Scavenge">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeScavengeCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeScavengeCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="BreedingPit">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeBreedingPitCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeBreedingPitCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="GrandHatchery">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeGrandHatcheryCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeGrandHatcheryCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="TradingRage">
+        <NodeArray index="Use" Link="AndGTECountUpgradeTradingRageCompleteOnly1CountUnitStarbaseCompleteOnly"/>
+        <NodeArray index="Show" Link="AndGTECountUpgradeTradingRageCompleteOnly1CountUnitStarbaseCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="AssassinWeaponry">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeAssassinWeaponryCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeAssassinWeaponryCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="FreeLibertyFleet">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeFreeLibertyFleetCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeFreeLibertyFleetCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Hero1notonthemapFrigate">
+        <NodeArray index="Use" Link="AndEq4247329676CountUpgradeHero1notonthemapCompleteOnly0GTE3221463649CountUpgradePlanetLevelCompleteOnly10"/>
+    </CRequirement>
+    <CRequirement id="Hero2notonthemapFrigate">
+        <NodeArray index="Use" Link="AndEq396310653CountUpgradeHero2notonthemapCompleteOnly0GTE3221463649CountUpgradePlanetLevelCompleteOnly10"/>
+    </CRequirement>
+    <CRequirement id="Hero3notonthemapFrigate">
+        <NodeArray index="Use" Link="AndEq703991699CountUpgradeHero3notonthemapCompleteOnly0GTE3221463649CountUpgradePlanetLevelCompleteOnly10"/>
+    </CRequirement>
+    <CRequirement id="Overflow">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeOverflowCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeOverflowCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="StoredRestoration">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeStoredRestorationCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeStoredRestorationCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="CreationReflection">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeCreationReflectionCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeCreationReflectionCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="HIRIOverwatch">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeHIRIOverwatchCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeHIRIOverwatchCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="CreationOverflow">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeCreationOverflowCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeCreationOverflowCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Repel">
+        <NodeArray index="Use" Link="AndGTECountUpgradeRepelCompleteOnly1"/>
+        <NodeArray index="Show" Link="AndGTECountUpgradeRepelCompleteOnly1"/>
+    </CRequirement>
+    <CRequirement id="RogueDrones">
+        <NodeArray index="Use" Link="CountUpgradeRogueDronesCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeRogueDronesCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="FaithCharge">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeFaithChargeCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeFaithChargeCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="FortifiedBarrier">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeFortifiedBarrierCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeFortifiedBarrierCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="CreationSiphon">
+        <NodeArray index="Use" Link="CountUpgradeCreationSiphonCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeCreationSiphonCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Insurgency">
+        <NodeArray index="Use" Link="CountUpgradeInsurgencyCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeInsurgencyCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="VolatileCrystallization">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeVolatileCrystallizationCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeVolatileCrystallizationCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="CocoonNutrients">
+        <NodeArray index="Use" Link="CountUpgradeCocoonNutrientsCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeCocoonNutrientsCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ZealousMark">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeZealousMarkCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeZealousMarkCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="DisruptionBlast">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeDisruptionBlastCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeDisruptionBlastCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="DrillingPlasma">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeDrillingPlasmaCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeDrillingPlasmaCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="RadiationBarrage">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeRadiationBargeCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeRadiationBargeCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Hero1notonthemapCruiser">
+        <NodeArray index="Use" Link="AndEq4247329676CountUpgradeHero1notonthemapCompleteOnly0GTE2432021155CountUpgradePlanetLevelCompleteOnly30"/>
+    </CRequirement>
+    <CRequirement id="Hero1notonthemapBattleship">
+        <NodeArray index="Use" Link="AndEq4247329676CountUpgradeHero1notonthemapCompleteOnly0GTE726386791CountUpgradePlanetLevelCompleteOnly40"/>
+    </CRequirement>
+    <CRequirement id="Hero2notonthemapBattleship">
+        <NodeArray index="Use" Link="AndEq396310653CountUpgradeHero2notonthemapCompleteOnly0GTE726386791CountUpgradePlanetLevelCompleteOnly40"/>
+    </CRequirement>
+    <CRequirement id="Hero2notonthemapDestroyer">
+        <NodeArray index="Use" Link="AndEq396310653CountUpgradeHero2notonthemapCompleteOnly0GTE2583839794CountUpgradePlanetLevelCompleteOnly20"/>
+    </CRequirement>
+    <CRequirement id="Hero3notonthemapBattleship">
+        <NodeArray index="Use" Link="AndEq703991699CountUpgradeHero3notonthemapCompleteOnly0GTE726386791CountUpgradePlanetLevelCompleteOnly40"/>
+    </CRequirement>
+    <CRequirement id="Hero3notonthemapDestroyer">
+        <NodeArray index="Use" Link="AndEq703991699CountUpgradeHero3notonthemapCompleteOnly0GTE2583839794CountUpgradePlanetLevelCompleteOnly20"/>
+    </CRequirement>
+    <CRequirement id="CoronaRounds">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeCoronaRoundsCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeCoronaRoundsCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="CrystalCaging">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeCrystalCagingCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeCrystalCagingCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="StewardShielding">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeStewardShieldingCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeStewardShieldingCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="SafetyAct">
+        <NodeArray index="Use" Link="CountUpgradeSafetyActCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeSafetyActCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="InTimeofNeed">
+        <NodeArray index="Use" Link="CountUpgradeInTimeofNeedCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeInTimeofNeedCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Bastioneers">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeHighAlertCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeHighAlertCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="TradingTower2">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="GTECountUpgradeTradingTowerCompleteOnly2"/>
+    </CRequirement>
+    <CRequirement id="TradingTower3">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="GTECountUpgradeTradingTowerCompleteOnly3"/>
+    </CRequirement>
+    <CRequirement id="WarpinBarrier">
+        <NodeArray index="Use" Link="CountUpgradeWarpinBarrierCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeWarpinBarrierCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Defragmentizer">
+        <NodeArray index="Use" Link="CountUpgradeDefragmentizerCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeDefragmentizerCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ShatterBattery">
+        <NodeArray index="Use" Link="CountUpgradeSurgeCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeSurgeCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="PlasmaResidue">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradePlasmaResidueCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradePlasmaResidueCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="DiamondPlating">
+        <NodeArray index="Use" Link="CountUpgradeDiamondPlatingCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeDiamondPlatingCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="CityShieldDomes">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeCityShieldDomesCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeCityShieldDomesCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="CityWalls">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeCityWallsCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeCityWallsCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ChargedPhasers">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeChargedPhasersCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeChargedPhasersCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="HomelandProtectors">
+        <NodeArray index="Use" Link="CountUpgradeHomelandProtectorsCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeHomelandProtectorsCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="GameStart">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeGameStartCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="FaithsReward">
+        <NodeArray index="Use" Link="CountUpgradeVeneratedPrayersCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeVeneratedPrayersCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="BewilderingPresence">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeBewilderingPresenceCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeBewilderingPresenceCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="CoCommander2">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeCoCommanderCompleteOnly3764805211"/>
+    </CRequirement>
+    <CRequirement id="Adapt">
+        <NodeArray index="Use" Link="AndGTECountUpgradeCombatAdaptationCompleteOnly1"/>
+        <NodeArray index="Show" Link="AndGTECountUpgradeCombatAdaptationCompleteOnly1"/>
+    </CRequirement>
+    <CRequirement id="OperationCenter">
+        <NodeArray index="Use" Link="AndGTECountUpgradeOperationCenterCompleteOnly1"/>
+        <NodeArray index="Show" Link="AndGTECountUpgradeOperationCenterCompleteOnly1"/>
+    </CRequirement>
+    <CRequirement id="WarpinPower">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="GTECountUpgradeWarpinPowerCompleteOnly1"/>
+        <NodeArray index="Show" Link="GTECountUpgradeWarpinPowerCompleteOnly1"/>
+    </CRequirement>
+    <CRequirement id="BatteringAssualt">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeBatteringAssualtCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeBatteringAssualtCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="FightforyourEmperor">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeFightforyourEmperorCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeFightforyourEmperorCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="DestabilizingShock">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeDestabilizingShockCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeDestabilizingShockCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="TelekineticPathogen">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeTelekineticPathogenCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeTelekineticPathogenCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Apex">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeApexCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeApexCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="BlackMarket">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeBlackMarketCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeBlackMarketCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="BehemothBuilders">
+        <NodeArray index="Use" Link="AndEq2615908860CountUpgradeBossnotonthemapCompleteOnly0GTE1523863577CountUpgradePlanetLevelCompleteOnly50"/>
+        <NodeArray index="Show" Link="CountUpgradeBehemothBuildersCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ReformingSteel">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeReformingSteelCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeReformingSteelCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ReformationFlow">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeReformationFlowCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeReformationFlowCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ReconstructionHub">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeReconstructionHubCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeReconstructionHubCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="RepulsorBattery">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="OrCountUpgradeSafetyAegisCompleteOnlyCountUpgradeAcademyKingdomCompleteOnlyCountUpgradeAstralShellCompleteOnly"/>
+        <NodeArray index="Show" Link="OrCountUpgradeSafetyAegisCompleteOnlyCountUpgradeAcademyKingdomCompleteOnlyCountUpgradeAstralShellCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="PeacefulOminous">
+        <NodeArray index="Use" Link="CountUpgradePeacefulOminousCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradePeacefulOminousCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="SunshineInfluence">
+        <NodeArray index="Use" Link="CountUpgradeSunshineInfluenceCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeSunshineInfluenceCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="WarpinEnergy">
+        <NodeArray index="Use" Link="CountUpgradeWarpinEnergyCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeWarpinEnergyCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Zeal">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeZealCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeZealCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="DisruptiveBlast">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeDisruptiveBlastCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeDisruptiveBlastCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="BrillianceShell">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeBrillianceShellCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeBrillianceShellCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="AsteroidArtifact">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeAsteroidArtifactCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeAsteroidArtifactCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="TacticalSupplies">
+        <NodeArray index="Use" Link="CountUpgradeTacticalSuppliesCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeTacticalSuppliesCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="DynamoAbsorber">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeDynamoAbsorberCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeDynamoAbsorberCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="MarkerNode">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeNanoShroudCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeNanoShroudCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="SearingRay">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeSearingRayCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeSearingRayCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="IonDischarge">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeIonDischargeCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeIonDischargeCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ShellRegrowth">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeShellRegrowthCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeShellRegrowthCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="RupturingImpact">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeRupturingImpactCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeRupturingImpactCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="RelentlessCharge">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeRelentlessChargeCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeRelentlessChargeCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="SquadronUplink">
+        <NodeArray index="Use" Link="CountUpgradeSquadronUplinkCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeSquadronUplinkCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="DawnOrnaments">
+        <NodeArray index="Use" Link="CountUpgradeBlessedRoundsCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeBlessedRoundsCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ManeuverPredictor">
+        <NodeArray index="Use" Link="CountUpgradeManeuverPredictorCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeManeuverPredictorCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="AntiMagicField">
+        <NodeArray index="Use" Link="CountUpgradeAntiMagicFieldCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeAntiMagicFieldCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="NanoIntegration">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeNanoIntegrationCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeNanoIntegrationCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="WarpathBroadcast">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeWarpathBroadcastCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeWarpathBroadcastCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Hyperial">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeHyperialCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeHyperialCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Gigantes">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeGigantesCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeGigantesCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="GrowingFortress">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="GTECountUpgradeThorgasCompleteOnly10"/>
+    </CRequirement>
+    <CRequirement id="OrbitalKnightRelay2">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="AndCountUpgradeOrbitalKnightRelayCompleteOnlyGTECountUpgradePlanetLevelCompleteOnly30"/>
+        <NodeArray index="Show" Link="AndCountUpgradeOrbitalKnightRelayCompleteOnlyGTECountUpgradePlanetLevelCompleteOnly30"/>
+    </CRequirement>
+    <CRequirement id="ParticleOrdinance2">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="EqCountUpgradeParticleOrdinanceCompleteOnly0"/>
+        <NodeArray index="Show" Link="EqCountUpgradeParticleOrdinanceCompleteOnly0"/>
+    </CRequirement>
+    <CRequirement id="RepulsionSystems">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeRepulsionSystemsCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeRepulsionSystemsCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="CoCommander">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Show" Link="CountUpgradeCoCommanderCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="MinerFortresses">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeUnionHangarCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeUnionHangarCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="NebulaShelter">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeNebulaShelterCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeNebulaShelterCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="RebelsWithin">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeRebelsWithinCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeRebelsWithinCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="RaidingCommander">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeRaidingCommanderCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeRaidingCommanderCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ExternalSupplyChain2v2">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeExternalSupplyChain2v2CompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ShadowTactics">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeCombatFrenzyCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeCombatFrenzyCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="RebellionUnity">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeRebellionUnityCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeRebellionUnityCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="SpeedCult">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeSpeedCultCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeSpeedCultCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ScavengerRush">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeScavengerRushCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeScavengerRushCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="TinkeredRocket">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeTinkeredRocketCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ProtecttheGoods">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeProtecttheGoodsCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeProtecttheGoodsCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="BuildingTimePassive1">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Show" Link="CountBehaviorBuildingTimerCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ResearchTimePassive1">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Show" Link="CountBehaviorResearchTimerCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="MagneticArtifact">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeMagneticArtifactCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="HackTransfer">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeHackTransferCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeHackTransferCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="PrimedCloaking">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradePrimedCloakingCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradePrimedCloakingCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ExpeditionTimePassive1">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Show" Link="CountBehaviorExpeditionTimerCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ShadowCatapult">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeShadowCatapultCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Ascended">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeAscendedCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeAscendedCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="AmbushDefenses">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeAmbushDefensesCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Ambush">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeAmbushCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Scrappers">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeScrappersCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeScrappersCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="FreedomFighters">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeFreedomFightersCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeFreedomFightersCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Pirates">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradePiratesCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradePiratesCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Barons">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeBaronsCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeBaronsCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Jammers">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeJammersCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeJammersCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="TradeNetwork">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeTradeNetworkCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="OverchargedCores">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeOverchargedCoresCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeOverchargedCoresCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="FaithBeacon">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeFaithBeaconCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeFaithBeaconCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Exiles">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeExilesCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeExilesCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="EnergyAmplifier">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeCreationConduitCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeCreationConduitCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Forgers">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeForgersCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeForgersCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Crusade">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeCrusadeCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeCrusadeCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="HontoraianHeart">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeHontoraianHeartCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeHontoraianHeartCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="CreatorsBlessing">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeCreatorsBlessingCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeCreatorsBlessingCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="MonumentalCreationPlatform">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeMonumentalCreationPlatformCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeMonumentalCreationPlatformCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="FieldofAscension">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeFieldofAscensionCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeFieldofAscensionCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ExiledGrandCore">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeExiledGrandCoreCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeExiledGrandCoreCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ExternalSupplyChain">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeExhaustibleSuppliesCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="TradingTower">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="GTECountUpgradeTradingTowerCompleteOnly1"/>
+    </CRequirement>
+    <CRequirement id="InfusionGarden">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeInfusionGardenCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeInfusionGardenCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="UseCharge">
+        <NodeArray index="Use" Link="CountUpgradeBastionGuardiansCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeBastionGuardiansCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="AncillaryShell">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeAncillaryShellCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeAncillaryShellCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Zealots">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeZealotsCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeZealotsCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="EmperiumShipyard">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeEmperiumShipyardCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeEmperiumShipyardCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="HIRIManufacturingCore">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeHIRIManufacturingCoreCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeHIRIManufacturingCoreCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ShadowLeagueCommunicator">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeShadowLeagueCommunicatorCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeShadowLeagueCommunicatorCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="PlanetaryEnviromentRegulator">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeWarpReactorCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeWarpReactorCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="TitanIndustries">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeTitanIndustriesCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeTitanIndustriesCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="OgromRage">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeOgromRageCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeOgromRageCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="QualityControlCourt">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeQualityControlCourtCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeQualityControlCourtCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ReflectiveBarrier">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeReflectiveBarrierCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeReflectiveBarrierCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Recycle">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeRecycleCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeRecycleCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="EnchantedBarrier">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeEnchantedBarrierCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeEnchantedBarrierCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="SunEngines">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeBlessedAssaultCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeBlessedAssaultCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ConvoyStrategist">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeConvoyStrategistCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeConvoyStrategistCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="DarkenedCore">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeDarkenedCoreCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeDarkenedCoreCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ShadowStrikers">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeShadowStrikersCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeShadowStrikersCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Redirection">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeRedirectionCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeRedirectionCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Shadows">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeShadowsCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeShadowsCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Ogrom">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeOgromCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeOgromCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Elite">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeEliteCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeEliteCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ImperialHQ">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeImperialHQCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeImperialHQCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ParticleOrdinance">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeParticleOrdinanceCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeParticleOrdinanceCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="SalvationLanding">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeSalvationLandingCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeSalvationLandingCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="HighAlert">
+        <NodeArray index="Use" Link="AndGTECountUpgradeHighAlert2CompleteOnly1"/>
+        <NodeArray index="Show" Link="AndGTECountUpgradeHighAlert2CompleteOnly1"/>
+    </CRequirement>
+    <CRequirement id="Hero3notonthemapCruiser">
+        <NodeArray index="Use" Link="AndEq703991699CountUpgradeHero3notonthemapCompleteOnly0GTE2432021155CountUpgradePlanetLevelCompleteOnly30"/>
+    </CRequirement>
+    <CRequirement id="Hero2notonthemapCruiser">
+        <NodeArray index="Use" Link="AndEq396310653CountUpgradeHero2notonthemapCompleteOnly0GTE2432021155CountUpgradePlanetLevelCompleteOnly30"/>
+    </CRequirement>
+    <CRequirement id="Bossnotonthemap">
+        <NodeArray index="Use" Link="AndEq2615908860CountUpgradeBossnotonthemapCompleteOnly0GTE3382168227CountUpgradePlanetLevelCompleteOnly75"/>
+    </CRequirement>
+    <CRequirement id="Hero1notonthemapDestroyer">
+        <NodeArray index="Use" Link="AndEq4247329676CountUpgradeHero1notonthemapCompleteOnly0GTE2583839794CountUpgradePlanetLevelCompleteOnly20"/>
+    </CRequirement>
+    <CRequirement id="Central">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeCentralCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeCentralCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="TemplarSanctuary">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeTemplarSanctuaryCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeTemplarSanctuaryCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Turret2Requirement">
+        <NodeArray index="Use" Link="EqCountUpgradeMilitaryCompoundCompleteOnly0"/>
+    </CRequirement>
+    <CRequirement id="OgromWarGrounds">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeOgromWarGroundsCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeOgromWarGroundsCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="DawnEmpowerment">
+        <NodeArray index="Use" Link="CountUpgradeDawnEmpowermentCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeDawnEmpowermentCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="PlanetLevel20">
+        <NodeArray index="Use" Link="GTE2583839794CountUpgradePlanetLevelCompleteOnly20"/>
+    </CRequirement>
+    <CRequirement id="PlanetLevel30">
+        <NodeArray index="Use" Link="GTE2432021155CountUpgradePlanetLevelCompleteOnly30"/>
+    </CRequirement>
+    <CRequirement id="PlanetLevel40">
+        <NodeArray index="Use" Link="GTE726386791CountUpgradePlanetLevelCompleteOnly40"/>
+    </CRequirement>
+    <CRequirement id="Dawnguard">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeDawnGuardCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeDawnGuardCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="PlanetLevel50">
+        <NodeArray index="Use" Link="GTE1523863577CountUpgradePlanetLevelCompleteOnly50"/>
+    </CRequirement>
+    <CRequirement id="PlanetLevel80">
+        <NodeArray index="Use" Link="GTE3382168227CountUpgradePlanetLevelCompleteOnly75"/>
+    </CRequirement>
+    <CRequirement id="Templar">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeTemplarCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeTemplarCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Emaan">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeEmaanCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeEmaanCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="PlanetLevel10">
+        <NodeArray index="Use" Link="GTE3221463649CountUpgradePlanetLevelCompleteOnly10"/>
+    </CRequirement>
+    <CRequirement id="GuardianEnterprise">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeGuardianEnterpriseCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeGuardianEnterpriseCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="OrbitalKnightRelay">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeOrbitalKnightRelayCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeOrbitalKnightRelayCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Imperial">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeImperialCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeImperialCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Enchephalon">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeEnchephalonCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeEnchephalonCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ImpairingLattice">
+        <EditorCategories value="Race:Protoss,TechType:Upgrade"/>
+        <NodeArray index="Use" Link="CountUpgradeImpairingLatticeCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradeImpairingLatticeCompleteOnly"/>
+    </CRequirement>
+</Catalog>

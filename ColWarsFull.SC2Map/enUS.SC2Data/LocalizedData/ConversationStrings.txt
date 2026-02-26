@@ -1,0 +1,6 @@
+﻿Conversation/Challengescombined/Line00005=
+Conversation/Challengescombined/Line00038=
+Conversation/Tutorial/Line00064=
+Conversation/Tutorial/Line00072=
+Conversation/UI_VO/Line00009=
+ConversationState/Characters/CharAdjutant=

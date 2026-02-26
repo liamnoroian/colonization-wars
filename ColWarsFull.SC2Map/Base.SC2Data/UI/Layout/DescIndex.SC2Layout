@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Desc>
+    <Include path="UI/Layout/Constants.SC2Layout"/>
+    <Include path="UI/Layout/Templates.SC2Layout"/>
+    <Include path="UI/Layout/LoadingScreen.SC2Layout" requiredtoload="IS_EDITOR"/>
+    <Include path="UI/Layout/Overrides.SC2Layout"/>
+    <Include path="UI/Layout/Hero_StatusBar.SC2Layout"/>
+    <Include path="UI/Layout/Mainframe.SC2Layout"/>
+    <Include path="UI/Layout/BehaviorBar_Expanded.SC2Layout"/>
+</Desc>

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CValidatorUnitCompareDamageDealtTime id="Attackingforlessthan5">
+        <WhichUnit Value="Caster"/>
+        <Compare value="GE"/>
+        <Value value="5"/>
+    </CValidatorUnitCompareDamageDealtTime>
+    <CValidatorUnitCompareVital id="CasterEnergyLT50">
+        <Compare value="Eq"/>
+        <Value value="0"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareDamageTakenTime id="CasterInCombat">
+        <Value value="2"/>
+    </CValidatorUnitCompareDamageTakenTime>
+    <CValidatorUnitCompareDamageTakenTime id="CasterInCombat07sec">
+        <Compare value="LT"/>
+        <Value value="0.7"/>
+    </CValidatorUnitCompareDamageTakenTime>
+    <CValidatorUnitCompareVital id="CasterLifeLT20Percent">
+        <Compare value="LE"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareVital id="CasterLifeLT25Percent" parent="CasterLifePercent">
+        <Compare value="LE"/>
+        <Value value="0.25"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareVital id="CasterLifeLT40Percent">
+        <Compare value="LE"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareVital id="CasterLifeLT50Percent">
+        <Compare value="LE"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareVital id="CasterShieldsLT10">
+        <Compare value="LE"/>
+        <Value value="50"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareBehaviorCount id="Crystalize1">
+        <Compare value="GE"/>
+        <Value value="1"/>
+        <Behavior value="Crystalizing"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorLocationEnumArea id="EnemiesNearby">
+        <AreaArray index="0" Compare="GE" Radius="4"/>
+    </CValidatorLocationEnumArea>
+    <CValidatorUnitCompareBehaviorCount id="FaithCharge">
+        <Compare value="GE"/>
+        <Value value="1"/>
+        <Behavior value="FortheMaker"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorLocationEnumArea id="EnemyInRange15" parent="HostileSearch">
+        <WhichLocation Value="SourceUnit"/>
+        <AreaArray Radius="15" Validator="UnitOrAttackingStructure"/>
+        <SearchFilters value="Visible;Player,Ally,Neutral,Missile,Item,Stasis,Dead,Hidden,Invulnerable"/>
+    </CValidatorLocationEnumArea>
+    <CValidatorUnitCompareBehaviorCount id="NoCriticalShot">
+        <Behavior value="KalisMight"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="NoCrystalWeave">
+        <Behavior value="CrystalWeave"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="NoTemplify">
+        <Behavior value="Templify"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="NoPlasmaImmolator">
+        <Behavior value="PlasmaCoatingMissile"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareVital id="Shield14Caster">
+        <ResultFailed value="TooMuchLife"/>
+        <WhichUnit Value="Caster"/>
+        <Compare value="LE"/>
+        <Type value="Fraction"/>
+        <Value value="0.25"/>
+        <Vital value="Shields"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareVital id="ShieldEqualsZero"/>
+    <CValidatorUnitCompareVital id="ShieldEqualsZero2">
+        <ResultFailed value="TooMuchLife"/>
+        <Vital value="Shields"/>
+        <Compare value="NE"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorLocationCompareRange id="TargetDistance15">
+        <WhichLocation Value="TargetUnit"/>
+        <Compare value="GE"/>
+        <Range value="24"/>
+    </CValidatorLocationCompareRange>
+    <CValidatorUnitCompareBehaviorCount id="NoBlessingofFortitude">
+        <Behavior value="BlessingofMight"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareVital id="SourceLifeLT50Percent" parent="CasterLifePercent">
+        <WhichUnit Value="Source"/>
+        <Compare value="LE"/>
+        <Value value="0.5"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareVital id="CasterLifeLT60Percent">
+        <Compare value="LE"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareVital id="CasterLifeLT75Percent">
+        <Compare value="LE"/>
+        <Value value="0.8"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareDamageTakenTime id="CasterNotInCombat30s">
+        <WhichUnit Value="Caster"/>
+        <Compare value="GT"/>
+        <Value value="10"/>
+    </CValidatorUnitCompareDamageTakenTime>
+    <CValidatorUnitCompareDamageTakenTime id="CasterNotInCombat120s">
+        <WhichUnit Value="Caster"/>
+        <Compare value="GT"/>
+        <Value value="60"/>
+    </CValidatorUnitCompareDamageTakenTime>
+    <CValidatorUnitCompareVital id="CasterShieldsGE10">
+        <Type value="Fraction"/>
+        <Value value="0.1"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorLocationCompareRange id="ChargeMaxDistance">
+        <Compare value="LE"/>
+        <Range value="10"/>
+    </CValidatorLocationCompareRange>
+    <CValidatorUnitCompareOrderTargetRange id="ChargeMinTriggerDistance">
+        <Compare value="GE"/>
+        <Value value="5"/>
+    </CValidatorUnitCompareOrderTargetRange>
+    <CValidatorLocationCompareRange id="Distance16">
+        <WhichLocation Value="TargetUnit"/>
+        <Compare value="GE"/>
+        <Range value="16"/>
+    </CValidatorLocationCompareRange>
+    <CValidatorLocationCompareRange id="Distance18">
+        <WhichLocation Value="TargetUnit"/>
+        <Compare value="GE"/>
+        <Range value="18"/>
+    </CValidatorLocationCompareRange>
+    <CValidatorLocationCompareRange id="Distance20">
+        <WhichLocation Value="TargetUnit"/>
+        <Compare value="GE"/>
+        <Range value="20"/>
+    </CValidatorLocationCompareRange>
+    <CValidatorLocationCompareRange id="Distance22">
+        <WhichLocation Value="TargetUnit"/>
+        <Compare value="GE"/>
+        <Range value="22"/>
+    </CValidatorLocationCompareRange>
+    <CValidatorLocationCompareRange id="Distance24">
+        <WhichLocation Value="TargetUnit"/>
+        <Compare value="GE"/>
+        <Range value="24"/>
+    </CValidatorLocationCompareRange>
+    <CValidatorUnitType id="Azathoth">
+        <Value value="Azathoth"/>
+    </CValidatorUnitType>
+    <CValidatorUnitType id="IsHontoraiStargate">
+        <Value value="HontoraiStargate"/>
+    </CValidatorUnitType>
+    <CValidatorUnitType id="IsHontoraiTurret">
+        <Value value="HontoraiTurretFormation"/>
+    </CValidatorUnitType>
+    <CValidatorUnitType id="IsKingdomFighter">
+        <Value value="SJFighter1"/>
+    </CValidatorUnitType>
+    <CValidatorUnitCompareVital id="Energy10EnergyCaster">
+        <ResultFailed value="TooMuchLife"/>
+        <WhichUnit Value="Caster"/>
+        <Compare value="LE"/>
+        <Value value="50"/>
+        <Vital value="Energy"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareVital id="LifeLTHalf">
+        <Compare value="LE"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareBehaviorCount id="Lock">
+        <Value value="1"/>
+        <Behavior value="ObserverTargetLock"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorCombine id="MonitorTargetLockChecks">
+        <CombineArray value="Lock"/>
+    </CValidatorCombine>
+    <CValidatorUnitCompareBehaviorCount id="ImperviousFortress">
+        <Value value="1"/>
+        <Behavior value="ImperviousFortress"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="NoRegrowth">
+        <Behavior value="Regrowth"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="NoValorousPurpose">
+        <Behavior value="ValorousPurpose"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="NoImperviousFortress">
+        <Behavior value="ImperviousFortress"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="NoShieldBooster">
+        <Behavior value="ShieldTransfer"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="NoReadyingDetector">
+        <WhichUnit Value="Caster"/>
+        <Behavior value="DroneReadying"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareVital id="Life14HPTarget">
+        <ResultFailed value="TooMuchLife"/>
+        <Compare value="LT"/>
+        <Type value="Fraction"/>
+        <Value value="0.25"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareBehaviorCount id="NoReadyingSiege">
+        <WhichUnit Value="Caster"/>
+        <Behavior value="SiegeReadying"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="NoReadyingTurret">
+        <WhichUnit Value="Caster"/>
+        <Behavior value="TurretReadying"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="NoEnergyAmplifier">
+        <Behavior value="EnergyAmplifier"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="NoDisruptorImpact">
+        <Behavior value="DisruptorImpact"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="BackupGeneratorbuff">
+        <WhichUnit Value="Source"/>
+        <Behavior value="RepairCrew"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="StargateTarget">
+        <Value value="1"/>
+        <Behavior value="StargateBuffs"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="NoRecenttarget">
+        <Behavior value="RecentlyTargeted"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitType id="IcestarTitan">
+        <Value value="IcestarTitan"/>
+    </CValidatorUnitType>
+    <CValidatorUnitFilters id="TargetNotPlanet">
+        <Filters value="-;Massive"/>
+    </CValidatorUnitFilters>
+    <CValidatorUnitCompareBehaviorCount id="CrystalizeStunRecently">
+        <Behavior value="CrystalizedImmunity"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareVital id="Life34HPCaster">
+        <ResultFailed value="TooMuchLife"/>
+        <WhichUnit Value="Caster"/>
+        <Compare value="LE"/>
+        <Type value="Fraction"/>
+        <Value value="0.75"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareVital id="Life14HPCaster">
+        <ResultFailed value="TooMuchLife"/>
+        <WhichUnit Value="Caster"/>
+        <Compare value="LE"/>
+        <Type value="Fraction"/>
+        <Value value="0.25"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareVital id="Life12HPCaster">
+        <ResultFailed value="TooMuchLife"/>
+        <WhichUnit Value="Caster"/>
+        <Compare value="LE"/>
+        <Type value="Fraction"/>
+        <Value value="0.5"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareVital id="Shield34Caster">
+        <ResultFailed value="TooMuchLife"/>
+        <WhichUnit Value="Caster"/>
+        <Compare value="GE"/>
+        <Type value="Fraction"/>
+        <Value value="0.95"/>
+        <Vital value="Shields"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareBehaviorCount id="NoNanoSwarm">
+        <Behavior value="NanoSwarm"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="NoTargetingWeakPoints">
+        <Behavior value="TargetingWeakPoints"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareVital id="TargetEnergyequalto0">
+        <Vital value="Energy"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareBehaviorCount id="NoBlessingofMight">
+        <Behavior value="BlessingofMight"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareVital id="TargetLifeGE80">
+        <Type value="Fraction"/>
+        <Value value="0.8"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareVital id="TargetLifeGreaterThanOrEqualTo2">
+        <Compare value="LE"/>
+        <Type value="Fraction"/>
+        <Value value="0.8"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareVital id="TargetShieldsGE70">
+        <Compare value="LE"/>
+        <Value value="5"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareBehaviorCount id="Crystalize10">
+        <Compare value="GE"/>
+        <Value value="10"/>
+        <Behavior value="Crystalizing"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitFilters id="UnitIsArmored">
+        <Filters value="Armored;-"/>
+    </CValidatorUnitFilters>
+    <CValidatorPlayerCompareResource id="MineralsGE1000">
+        <Compare value="GE"/>
+        <Value value="1000"/>
+    </CValidatorPlayerCompareResource>
+    <CValidatorUnitFilters id="UnitIsFighter">
+        <Filters value="Biological;-"/>
+    </CValidatorUnitFilters>
+    <CValidatorUnitFilters id="UnitIsAlive">
+        <Filters value="-;Dead"/>
+    </CValidatorUnitFilters>
+    <CValidatorUnitFilters id="UnitRefund">
+        <Filters value="-;Massive,Structure,Heroic,MapBoss"/>
+    </CValidatorUnitFilters>
+    <CValidatorUnitCompareBehaviorCount id="VoidRayChargeBeamCounterPhase2CountHigh">
+        <Value value="16"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="VoidRayChargeBeamCounterPhase2CountLow">
+        <Value value="8"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="VoidRayChargeBeamCounterPhase3CountLow">
+        <Value value="16"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorLocationEnumArea id="EnemyInRange12" parent="HostileSearch">
+        <WhichLocation Value="SourceUnit"/>
+        <AreaArray Radius="12" Validator="UnitOrAttackingStructure"/>
+        <SearchFilters value="Visible;Player,Ally,Neutral,Missile,Item,Stasis,Dead,Hidden,Invulnerable"/>
+    </CValidatorLocationEnumArea>
+    <CValidatorLocationEnumArea id="VoidSentryHallucinationEnemyInRange">
+        <AreaArray index="0" Radius="10"/>
+        <SearchFilters value="Visible;Player,Ally,Neutral,Missile,Item,Stasis,Dead,Hidden,Invulnerable"/>
+    </CValidatorLocationEnumArea>
+    <CValidatorLocationEnumArea id="NoEnemyInRange65" parent="HostileSearch">
+        <WhichLocation Value="SourceUnit"/>
+        <AreaArray Radius="6.5" Validator="UnitOrAttackingStructure"/>
+        <Compare value="Eq"/>
+        <Count value="0"/>
+        <SearchFilters value="-;Self,Neutral,Missile,Item,Stasis,Dead"/>
+    </CValidatorLocationEnumArea>
+</Catalog>

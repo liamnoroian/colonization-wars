@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--
+    <Style  name=""                 - string identifier
+            font=""                 - file name (preferably a constant)
+            height=""               - integer [1, 200]
+            vjustify=""             - "Top","Middle","Bottom"
+            hjustify=""             - "Left","Center","Right"
+            styleflags=""           - Shadow|Glow|InlineJustification|Uppercase|TightGradient
+                                    |Outline|Bold|Italic
+                                    |HintingOff|HintingNative|HintingAuto
+                                    |HintStyleNormal|HintStyleLight|HintStyleLCD|HintStyleLCDVertical
+                                    (note that you cancel/negate a flag set by a previous
+                                    template by prepending ! to it)
+            textcolor=""            - Gradient Color
+            disabledcolor=""        - Gradient Color
+            highlightcolor=""       - Gradient Color
+            hotkeycolor=""          - Gradient Color
+            hyperlinkcolor=""       - Gradient Color
+            glowcolor=""            - Color
+            glowMode=""             - "Add","Normal"
+            highlightglowcolor=""   - Color
+            disabledglowcolor=""    - Color
+            shadowoffset=""         - integer value [-128, 127]
+            outlinewidth=""         - integer value [0,height]
+            outlinecolor=""         - Color
+            lineSpacing=""          - decimal multiplier [1.0, 4.0]
+            characterSpacing=""     - integer addition [0, 255]
+            />
+-->
+<StyleFile>
+    <!--
+        NOTE
+        Remember, you are free to add, delete, modify, and do whatever you want
+        in this file. But you can not use the Font Style editor in sc2edit after
+        you create this file.
+        After you are done modifying this file, simply:
+        1. Tab back to sc2edit
+        2. Hit c-F9 to run the map, or
+        2. Use the reload UI hotkey in an already open editor test run
+        (XXX: I am not sure if reload-UI works for font styles)
+        (XXX: I am not sure if running Compile in sc2edit catches any errors you made while writing manually in the SC2Style)
+        (XXX: The above might not be true - it might be that you can still edit styles from the Text Module.
+            I've not actually tried, and it seems unable to display custom fonts. Someone investigate.
+            I'm not sure what or how it would overwrite comments or arrange the XML if one would edit from sc2edit.)
+
+        From now on, you _must_ edit font styles by hand, directly in this file.
+        You can use the Text Module (F8) in sc2edit (though it is entirely 100% useless,
+        and actually serves _no_ purpose), but you can not use the Font Styles tab.
+    -->
+
+    <!--
+        Change these to whatever fonts you want to use
+        Put the fonts in a root Fonts folder in your map, or in Assets/Fonts, whatever you want.
+        For now, they need to point to existing fonts so that the map doesn't break,
+        Fonts can be used as both OTF and TTF formats.
+    -->
+ </StyleFile>

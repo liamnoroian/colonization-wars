@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Desc>
+    <Frame type="UnitStatusFrame" name="HeroStatusBar">
+        <Height val="300"/>
+        <Width val="200"/>
+        <RenderType val="HDR"/>
+        <Frame type="Frame" name="AttachPointFrame">
+            <Anchor relative="$parent"/>
+        </Frame>
+
+        <Frame type="UnitStatusHealthBar" name="HealthBar">
+            <Anchor side="Top" relative="$parent" pos="Min" offset="-55"/>
+            <Anchor side="Left" relative="$parent/AttachPointFrame" pos="Min" offset="-30"/>
+            <Height val="15"/>
+            <Width val="150"/>
+            <Texture val="@UI/HealthBar"/>
+            <BarInsetRect top="2" left="2" bottom="2" right="2"/>
+            <BackgroundInsetRect top="1" left="1" bottom="1" right="1"/>
+            <BackgroundShown val="true"/>
+            <BackgroundColor val="0,0,0"/>
+            <OwnerColor val="135,255,135" index="0"/>
+            <AllyColor val="0,200,0" index="0"/>
+            <EnemyColor val="150,15,50" index="0"/>
+            <ReductionColor val="255,0,0" index="0"/>
+            <Segmented val="true" index="0"/>
+            <ReductionShown val="true" index="0"/>
+            <SegmentValue val="30" index="0"/>
+            <IncreaseDuration val="0" index="0"/>
+            <DecreaseDuration val="3000" index="0"/>
+        </Frame>
+
+        <Frame type="UnitStatusEnergyBar" name="EnergyBar">
+            <Anchor side="Top" relative="$parent" pos="Min" offset="17"/>
+            <Anchor side="Left" relative="$parent/AttachPointFrame" pos="Min" offset="-30"/>
+            <Height val="10"/>
+            <Width val="170"/>
+            <Texture val="@UI/HealthBar"/>
+            <BarInsetRect top="2" left="2" bottom="2" right="2"/>
+            <BackgroundInsetRect top="1" left="1" bottom="1" right="1"/>
+            <BackgroundShown val="true"/>
+            <BackgroundColor val="0,0,0"/>
+            <OwnerColor val="150,40,220" index="0"/>
+            <AllyColor val="102,0,204" index="0"/>
+            <EnemyColor val="102,0,204" index="0"/>
+            <ReductionColor val="96,96,96" index="0"/>
+            <Segmented val="true" index="0"/>
+            <ReductionShown val="true" index="0"/>
+            <SegmentValue val="20" index="0"/>
+            <IncreaseDuration val="0" index="0"/>
+            <DecreaseDuration val="3000" index="0"/>
+        </Frame>
+
+        <Frame type="UnitStatusShieldedHealthBar" name="ShieldedHealthBar">
+            <Anchor side="Top" relative="$parent" pos="Min" offset="0"/>
+            <Anchor side="Left" relative="$parent/AttachPointFrame" pos="Min" offset="-30"/>
+            <Height val="15"/>
+            <Width val="170"/>
+            <Texture val="@UI/HealthBar"/>
+            <BackgroundShown val="true"/>
+            <BackgroundColor val="0,0,0"/>
+            <BarInsetRect top="2" left="2" bottom="2" right="2"/>
+            <BackgroundInsetRect top="1" left="1" bottom="1" right="1"/>
+            <VisibleToAlly val="true"/>
+            <VisibleToOwner val="true"/>
+            <VisibleToEnemy val="true"/>
+            <BarCount val="2"/>
+            <OwnerColor val="52,255,52" index="0"/>
+            <AllyColor val="0,200,0" index="0"/>
+            <EnemyColor val="150,15,50" index="0"/>
+            <ReductionColor val="255,0,0" index="0"/>
+            <Segmented val="true" index="0"/>
+            <ReductionShown val="true" index="0"/>
+            <ApplyToTotal val="true" index="0"/>
+            <SegmentValue val="30" index="0"/>
+            <MaxSegmentCount val="9999" index="0"/>
+            <IncreaseDuration val="3000" index="0"/>
+            <DecreaseDuration val="3000" index="0"/>
+            <OwnerColor val="0,0,255" index="1"/>
+            <AllyColor val="0,0,255" index="1"/>
+            <EnemyColor val="0,0,255" index="1"/>
+            <ReductionColor val="255,0,0" index="1"/>
+            <Segmented val="true" index="1"/>
+            <ReductionShown val="true" index="1"/>
+            <ApplyToTotal val="true" index="1"/>
+            <SegmentValue val="10" index="1"/>
+            <MaxSegmentCount val="9999" index="1"/>
+            <IncreaseDuration val="3000" index="1"/>
+            <DecreaseDuration val="3000" index="1"/>
+        </Frame>
+
+        <Frame type="Image" name="LevelBackgroundImage">
+            <Anchor side="Top" relative="$parent/AttachPointFrame" pos="Min" offset="0"/>
+            <Anchor side="Left" relative="$parent/AttachPointFrame" pos="Min" offset="-65"/>
+            <Height val="30"/>
+            <Width val="30"/>
+            <Texture val="@UI/HotS_HeroUnit_Status_LevelBG"/>
+            <RenderType val="HDR"/>
+        </Frame>
+
+        <Frame type="UnitStatusLevel" name="LevelLabel" template="HotS_UnitStatus/UnitStatusLevelTemplate">
+            <Anchor side="Top" relative="$parent/LevelBackgroundImage" pos="Min" offset="1"/>
+            <Anchor side="Bottom" relative="$parent/LevelBackgroundImage" pos="Max" offset="0"/>
+            <Anchor side="Left" relative="$parent/LevelBackgroundImage" pos="Min" offset="0"/>
+            <Anchor side="Right" relative="$parent/LevelBackgroundImage" pos="Max" offset="0"/>
+        </Frame>
+
+        <Frame type="UnitStatusUnitName" name="UnitNameLabel" template="HotS_UnitStatus/KerriganUnitStatusUnitNameTemplate">
+            <Anchor side="Top" relative="$parent/AttachPointFrame" pos="Min" offset="-20"/>
+            <Anchor side="Left" relative="$parent/AttachPointFrame" pos="Mid" offset="-65"/>
+            <Anchor side="Right" relative="$parent/AttachPointFrame" pos="Mid" offset="0"/>
+        </Frame>
+    </Frame>
+</Desc>

@@ -1,0 +1,1964 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CSound id="AcidGliderReady2">
+        <AssetArray File="Assets\Sounds\Zerg\BroodLord\BroodLord_Ready0.ogg" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="AcidGliderWhat2">
+        <AssetArray File="Assets\Sounds\Zerg\BroodLord\BroodLord_Yes8.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerg\BroodLord\BroodLord_What7.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerg\BroodLord\BroodLord_What0.ogg" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="AdonealArrival2" parent="ProtossAck">
+        <AssetArray File="LocalizedData\Sounds\ProtossUnitVO\Carrier\Carrier_Pissed02.ogg" Pitch="-1.000000,1.000000" Volume="6.000000,6.000000"/>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+        <Mode value="2D"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+    </CSound>
+    <CSound id="AzathothInfuse" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="LocalizedData\Sounds\VO\Protoss\DarkArchon_Yes01.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <Volume value="5.000000,5.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="Banshee_AttackLaunch2">
+        <AssetArray index="0" Pitch="-2.500000,-2.500000" Volume="-3.000000,-3.000000"/>
+        <AssetArray index="1" Pitch="-2.500000,-2.500000" Volume="-3.000000,-3.000000"/>
+        <AssetArray index="2" Pitch="-2.500000,-2.500000" Volume="-3.000000,-3.000000"/>
+        <AssetArray index="3" Pitch="-2.500000,-2.500000" Volume="-3.000000,-3.000000"/>
+        <Pitch value="-5.000000,-4.000000"/>
+        <Volume value="-6.500000,-6.200000"/>
+        <DupeDestroyCount value="7"/>
+    </CSound>
+    <CSound id="EmprixArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="Assets\Sounds\LairViper_Ready_01.ogg"/>
+            <Pitch value="-1.500000,-1.500000"/>
+            <Volume value="6.000000,6.000000"/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="EmprixWhat" parent="ProtossAck_Void">
+        <AssetArray TemplateParam="Alarak_What03" File="Assets\Sounds\LairViper_Yes_00.ogg" Pitch="-1.500000,-1.500000"/>
+        <AssetArray TemplateParam="Alarak_What04" File="Assets\Sounds\LairViper_Yes_03.ogg" Pitch="-1.500000,-1.500000"/>
+        <AssetArray TemplateParam="Alarak_What05" File="Assets\Sounds\LairViper_Yes_08.ogg" Pitch="-1.500000,-1.500000"/>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+    </CSound>
+    <CSound id="GreteyeArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="Assets\Sounds\Leviathan_What_02.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="6.000000,6.000000"/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="LechedoraiArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="Assets\Sounds\Uni\Units\Scantipede\Scantipede_What0.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="6.000000,6.000000"/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="GreteyeWhat">
+        <AssetArray File="Assets\Sounds\Leviathan_Yes_09.ogg" Pitch="-1.500000,-1.500000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Leviathan_What_04.ogg" Pitch="-1.500000,-1.500000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Leviathan_What_05.ogg" Pitch="-1.500000,-1.500000" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="CrescereArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="Assets\Sounds\Zerg\Corruptor\Corruptor_Ready3.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="6.000000,6.000000"/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="CrescereWhat">
+        <AssetArray File="Assets\Sounds\Zerg\Corruptor\Corruptor_Yes9.ogg" Pitch="-1.500000,-1.500000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerg\Corruptor\Corruptor_Yes7.ogg" Pitch="-1.500000,-1.500000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerg\Corruptor\Corruptor_Attack5.ogg" Pitch="-1.500000,-1.500000" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="LechedoraiWhat">
+        <AssetArray File="Assets\Sounds\Uni\Units\Scantipede\Scantipede_What0.ogg" Pitch="-1.500000,-1.500000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Uni\Units\Scantipede\Scantipede_What1.ogg" Pitch="-1.500000,-1.500000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Uni\Units\Scantipede\Scantipede_What2.ogg" Pitch="-1.500000,-1.500000" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="SporeCrawler_AttackLaunch">
+        <AssetArray index="0" Volume="-0.500000,-0.500000"/>
+        <AssetArray index="1" Volume="-0.500000,-0.500000"/>
+        <AssetArray index="2" Volume="-0.500000,-0.500000"/>
+        <AssetArray index="3" Volume="-0.500000,-0.500000"/>
+        <AssetArray index="4" Volume="-0.500000,-0.500000"/>
+    </CSound>
+    <CSound id="VeloxArrival" parent="ProtossAck_Void">
+        <AssetArray TemplateParam="Corsair_What04" File="Assets\Sounds\Zerg\Zergling\Zergling_What4.ogg" Volume="3.500000,3.500000"/>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="BulkArrival" parent="ProtossAck_Void">
+        <AssetArray TemplateParam="Corsair_What04" File="Assets\Sounds\Zerg\Ultralisk\UltraLisk_Ready0.ogg" Volume="3.500000,3.500000"/>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="VeloxWhat">
+        <AssetArray File="Assets\Sounds\Zerg\Zergling\Zergling_What5.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerg\Zergling\Zergling_Yes0.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerg\Zergling\Zergling_What0.ogg" FacialGroup=""/>
+    </CSound>
+    <CSound id="BulkWhat">
+        <AssetArray File="Assets\Sounds\Zerg\Ultralisk\UltraLisk_Yes4.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerg\Ultralisk\UltraLisk_What5.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerg\Ultralisk\UltraLisk_What0.ogg" FacialGroup=""/>
+    </CSound>
+    <CSound id="WatchfulOwlWhat" parent="Voice">
+        <EditorCategories value="Race:Zerg"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\SnowOwl\OwlWhat1.ogg"/>
+        <Pitch value="-1.000000,1.000000"/>
+        <Volume value="-3.000000,-3.000000"/>
+    </CSound>
+    <CSound id="PlayfulDogWhat" parent="Voice">
+        <EditorCategories value="Race:Zerg"/>
+        <AssetArray File="Assets\Sounds\Uni\Units\Dog\Dog_Bark1.wav"/>
+        <Pitch value="-1.000000,1.000000"/>
+        <Volume value="-3.000000,-3.000000"/>
+    </CSound>
+    <CSound id="HarvestBeam_Loop">
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Download" value="1"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <DupeFadeIn index="0" removed="1"/>
+        <DupeFadeIn index="1" removed="1"/>
+        <Mode value="2D"/>
+        <OffsetShiftIn index="0" removed="1"/>
+        <OffsetShiftIn index="1" removed="1"/>
+        <Pitch value="0.000000,0.000000"/>
+        <Volume value="0.000000,0.000000"/>
+        <VolumeRolloffFadeIn index="0" removed="1"/>
+        <VolumeRolloffFadeIn index="1" removed="1"/>
+        <VolumeRolloffFadeOut index="0" removed="1"/>
+        <VolumeRolloffFadeOut index="1" removed="1"/>
+        <VolumeRolloffPoints index="0" removed="1"/>
+        <VolumeRolloffPoints index="1" removed="1"/>
+    </CSound>
+    <CSound id="HighTemplar_PsionicStormLaunch">
+        <AssetArray index="0" File="Assets\Sounds\CybrosEscort_Tower_TargetBlast_03.wav"/>
+    </CSound>
+    <CSound id="IcestarTitan1" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="Assets\Sounds\Units\Undead\HeroLich\HeroLichYes5.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="4.000000,4.000000"/>
+            <FacialAnim value="Corsair_What04"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="Alarmgeneric" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="Assets\Sounds\ArtilleryMengsk_Ordinance_Alarm.wav"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <Volume value="5.000000,5.000000"/>
+            <FacialAnim value="Corsair_What04"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <PlayDelay value="2000,2000"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="Azathoth1" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="LocalizedData\Sounds\VO\Protoss\DarkArchon_What05.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <Volume value="5.000000,5.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="Azathoth2" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="LocalizedData\Sounds\VO\Protoss\DarkArchon_Help00.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <Volume value="5.000000,5.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="IcestarTitanArrive2" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="Assets\Sounds\Units\Undead\HeroLich\HeroLichYesAttack3.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="6.000000,6.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="IcestarTitaninfuse" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="Assets\Sounds\Units\Undead\HeroLich\HeroLichYes1.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="4.000000,4.000000"/>
+            <FacialAnim value="Corsair_What04"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="IcestarTitan32" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="Assets\Sounds\Units\Undead\HeroLich\HeroLichYesAttack1.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="6.000000,6.000000"/>
+            <FacialAnim value="Corsair_What04"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="AzathothArrive" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="LocalizedData\Sounds\VO\Protoss\DarkArchon_Attack04.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <Volume value="5.000000,5.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="KingdomBastionWhat">
+        <AssetArray File="LocalizedData\Sounds\TerranVO\CampaignUnits\Goliath\Goliath_Yes00.ogg" FacialGroup=""/>
+        <AssetArray File="LocalizedData\Sounds\TerranVO\CampaignUnits\Goliath\Goliath_What00.ogg" FacialGroup=""/>
+        <AssetArray File="LocalizedData\Sounds\TerranVO\CampaignUnits\Goliath\Goliath_Attack00.ogg" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="AkihiroArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Marine\Marine_What00.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="3.500000,3.500000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="AkihiroWhat">
+        <AssetArray>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Marine\Marine_What00.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="3.000000,3.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Marine\Marine_Attack03.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="3.000000,3.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Marine\Marine_Yes07.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="3.000000,3.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="BlastMissileLaunch" parent="Spell">
+        <EditorCategories value="Race:Protoss"/>
+        <AssetArray File="Assets\Sounds\SpacePlatform_Missile_Launch_03b.wav"/>
+    </CSound>
+    <CSound id="AntonioArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Ghost\Ghost_Attack04.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="4.000000,4.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="AntonioWhat">
+        <AssetArray>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Ghost\Ghost_Yes03.ogg"/>
+            <Pitch value="-1.500000,-1.500000"/>
+            <Volume value="3.000000,3.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Ghost\Ghost_Attack04.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="3.000000,3.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Ghost\Ghost_What01.ogg"/>
+            <Pitch value="-1.200000,-1.200000"/>
+            <Volume value="3.000000,3.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="ACEArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="Assets\Sounds\WidowMine_Ready01.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="3.500000,3.500000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="ACEWhat">
+        <AssetArray>
+            <File value="Assets\Sounds\WidowMine_Ready01.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="1.000000,1.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <File value="Assets\Sounds\WidowMine_Attack02.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="-1.000000,-1.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <File value="Assets\Sounds\WidowMine_Yes01.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="-1.000000,-1.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+    </CSound>
+    <CSound id="AcidGliderReady">
+        <AssetArray File="Assets\Sounds\Zerg\BroodLord\BroodLord_Ready0.ogg" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="AcidGliderWhat">
+        <AssetArray File="Assets\Sounds\Zerg\BroodLord\BroodLord_Yes8.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerg\BroodLord\BroodLord_What7.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerg\BroodLord\BroodLord_What0.ogg" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="CorrosivePheromonesLaunch" parent="Spell">
+        <EditorCategories value="Race:Protoss"/>
+        <AssetArray File="Assets\Sounds\Uni\Deaths\Uni_DeathFXAcid5.wav"/>
+    </CSound>
+    <CSound id="IcestarTitanArrive" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="Assets\Sounds\Units\Undead\HeroLich\HeroLichYesAttack3.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="6.000000,6.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="HiveMatriarchReady" parent="ProtossReady">
+        <AssetArray TemplateParam="Ascendant_Ready00" File="Assets\Sounds\Zerg\Queen\Queen_What1.ogg" FacialGroup=""/>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="HiveMatriarchWhat" parent="ProtossAck_Void">
+        <AssetArray TemplateParam="Ascendant_What00" File="Assets\Sounds\Zerg\Queen\Queen_What0.ogg" FacialGroup=""/>
+        <AssetArray TemplateParam="Ascendant_What01" File="Assets\Sounds\Zerg\Queen\Queen_Yes4.ogg" FacialGroup=""/>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+        <Volume value="-5.000000,-5.000000"/>
+    </CSound>
+    <CSound id="KingdomBastionReady">
+        <AssetArray File="LocalizedData\Sounds\TerranVO\CampaignUnits\Goliath\Goliath_What01.ogg" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="KingdomLAWWhat" parent="Ready">
+        <EditorCategories value="Race:Protoss"/>
+        <AssetArray File="LocalizedData\Sounds\TerranUnitVO\Raven\Raven_What00.ogg"/>
+        <AssetArray File="LocalizedData\Sounds\TerranUnitVO\Raven\Raven_What01.ogg" FacialGroup=""/>
+        <AssetArray File="LocalizedData\Sounds\TerranUnitVO\Raven\Raven_Yes01.ogg" FacialGroup=""/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="HontoraiConstructionDroneWhat" parent="Ready">
+        <EditorCategories value="Race:Protoss"/>
+        <AssetArray>
+            <File value="Assets\Sounds\Units\NightElf\Wisp\WispYes3.ogg"/>
+            <Pitch value="-1.500000,-1.500000"/>
+            <Volume value="1.000000,1.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <File value="Assets\Sounds\Units\NightElf\Wisp\WispYes2.ogg"/>
+            <Pitch value="-1.500000,-1.500000"/>
+            <Volume value="1.000000,1.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="HiveBombusWhat" parent="Ready">
+        <EditorCategories value="Race:Protoss"/>
+        <AssetArray File="Assets\Sounds\Zerg\Overlord\Overlord_What0.ogg"/>
+        <AssetArray File="Assets\Sounds\Zerg\Overlord\Overlord_What7.ogg" FacialGroup=""/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="Korhal_BileLaunch">
+        <AssetArray index="0" Volume="-1.000000,-1.000000"/>
+        <AssetArray index="1" Volume="-1.000000,-1.000000"/>
+        <AssetArray index="2" Volume="-1.000000,-1.000000"/>
+        <AssetArray index="3" Volume="-1.000000,-1.000000"/>
+    </CSound>
+    <CSound id="Nova_SnipeImpact">
+        <AssetArray index="0" Pitch="-0.700000,-0.700000" Volume="-0.700000,-0.700000"/>
+        <AssetArray index="1" Pitch="-0.700000,-0.700000" Volume="-0.700000,-0.700000"/>
+        <AssetArray index="2" Pitch="-0.700000,-0.700000" Volume="-0.700000,-0.700000"/>
+        <AssetArray index="3" Pitch="-0.700000,-0.700000" Volume="-0.700000,-0.700000"/>
+        <AssetArray index="4" Pitch="-0.700000,-0.700000" Volume="-0.700000,-0.700000"/>
+        <Pitch value="-2.000000,3.000000"/>
+    </CSound>
+    <CSound id="CuriousBunnyWhat" parent="Voice">
+        <EditorCategories value="Race:Zerg"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\EasterRabbit\RabbitWhat1.ogg"/>
+        <Pitch value="-1.000000,1.000000"/>
+        <Volume value="-3.000000,-3.000000"/>
+    </CSound>
+    <CSound id="CuteCowWhat" parent="Voice">
+        <EditorCategories value="Race:Zerg"/>
+        <AssetArray File="Assets\Sounds\Uni\Units\Cow\Cow_What1.ogg"/>
+        <Pitch value="-1.000000,1.000000"/>
+        <Volume value="-3.000000,-3.000000"/>
+    </CSound>
+    <CSound id="Ravager_CorrosiveBile_Explosion">
+        <AssetArray index="0" Volume="-1.000000,-1.000000"/>
+    </CSound>
+    <CSound id="RoachVile_AttackImpactRanged">
+        <Volume value="-11.980000,-10.040000"/>
+    </CSound>
+    <CSound id="Roach_AttackLaunchRanged">
+        <Volume value="-11.980000,-10.040000"/>
+    </CSound>
+    <CSound id="Tempest_AirAttackImpact">
+        <AssetArray index="0" Volume="-0.500000,-0.500000"/>
+        <AssetArray index="1" Volume="-0.500000,-0.500000"/>
+        <AssetArray index="2" Volume="-0.500000,-0.500000"/>
+        <AssetArray index="3" Volume="-0.500000,-0.500000"/>
+        <AssetArray index="4" Volume="-0.500000,-0.500000"/>
+    </CSound>
+    <CSound id="Tempest_AirAttackLaunch">
+        <AssetArray index="0" Volume="-1.000000,-1.000000"/>
+        <AssetArray index="1" Volume="-1.000000,-1.000000"/>
+        <AssetArray index="2" Volume="-1.000000,-1.000000"/>
+        <AssetArray index="3" Volume="-1.000000,-1.000000"/>
+        <AssetArray index="4" Volume="-1.000000,-1.000000"/>
+    </CSound>
+    <CSound id="TitanReinforcements" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="LocalizedData\Sounds\VO\acAttackWave_TerranAdjutant_075.ogg"/>
+            <Pitch value="0.500000,0.500000"/>
+            <Volume value="2.000000,2.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="IcestarTitan2" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="Assets\Sounds\Units\Undead\HeroLich\HeroLichYesAttack2.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="6.000000,6.000000"/>
+            <FacialAnim value="Corsair_What04"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="Azathoth3" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="LocalizedData\Sounds\VO\Protoss\DarkArchon_What02.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <Volume value="5.000000,5.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="JonasArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Viking\Viking_Attack01.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="5.000000,5.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="JonasWhat">
+        <AssetArray>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Viking\Viking_Attack01.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="3.000000,3.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Viking\Viking_Yes04.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="3.000000,3.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Viking\Viking_Yes09.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="3.000000,3.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="KingBreakerArrival">
+        <AssetArray>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Reaper\Reaper_Attack04.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="6.000000,6.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Select value="Sequential"/>
+    </CSound>
+    <CSound id="KingBreakerWhat">
+        <AssetArray>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Reaper\Reaper_Yes08.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="3.000000,3.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Reaper\Reaper_Yes03.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="3.000000,3.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Reaper\Reaper_Yes00.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="3.000000,3.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Reaper\Reaper_Attack04.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="3.000000,3.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="JackWhat">
+        <AssetArray File="LocalizedData\Sounds\TerranVO\CampaignUnits\Vulture\Vulture_Yes02.ogg" Volume="3.000000,3.000000" FacialGroup=""/>
+        <AssetArray File="LocalizedData\Sounds\TerranVO\CampaignUnits\Vulture\Vulture_Yes05.ogg" Volume="3.000000,3.000000" FacialGroup=""/>
+        <AssetArray>
+            <File value="LocalizedData\Sounds\TerranVO\CampaignUnits\Vulture\Vulture_Attack00.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="3.000000,3.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="DefiantArrival" parent="ProtossAck_Void">
+        <AssetArray TemplateParam="Corsair_What04" File="LocalizedData\Sounds\VO\Mengsk\MengskCommander_ForcedConscriptionUsed01.ogg" Volume="3.500000,3.500000"/>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="DefiantWhat">
+        <AssetArray File="LocalizedData\Sounds\VO\Mengsk\MengskCommander_Thanks00.ogg" FacialGroup=""/>
+        <AssetArray File="LocalizedData\Sounds\VO\Mengsk\MengskCommander_Auto_HelpMe00.ogg" FacialGroup=""/>
+        <AssetArray File="LocalizedData\Sounds\VO\Mengsk\MengskCommander_ForcedConscriptionUsed01.ogg" FacialGroup=""/>
+    </CSound>
+    <CSound id="Nova_Gunblade_Gun_Launch">
+        <AssetArray index="0" Volume="-1.000000,-1.000000"/>
+        <AssetArray index="1" Volume="-1.000000,-1.000000"/>
+        <AssetArray index="2" Volume="-1.000000,-1.000000"/>
+        <AssetArray index="3" Volume="-1.000000,-1.000000"/>
+        <AssetArray index="4" Volume="-1.000000,-1.000000"/>
+        <Volume value="-4.000000,-3.000000"/>
+    </CSound>
+    <CSound id="Nova_PlasmaRifle_Launch">
+        <AssetArray index="0" Volume="-4.500000,-4.500000"/>
+        <AssetArray index="1" Volume="-4.500000,-4.500000"/>
+        <AssetArray index="2" Volume="-4.500000,-4.500000"/>
+        <AssetArray index="3" Volume="-4.500000,-4.500000"/>
+        <Volume value="-5.000000,-4.500000"/>
+    </CSound>
+    <CSound id="RebellionBombardierReady" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="TempestVoid_What03"/>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Banshee\Banshee_Ready00.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="ScrapCannonImpact" parent="Terran_ExplosionSmall">
+        <AssetArray index="0" File="Assets\Sounds\Abilities\Weapons\Mortar\MortarImpact.wav" Pitch="-4.000000,3.000000" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+        <AssetArray index="6" removed="1"/>
+        <AssetArray index="7" removed="1"/>
+        <AssetArray index="8" removed="1"/>
+        <AssetArray index="9" removed="1"/>
+        <DupeDestroyCount value="3"/>
+        <DupeMuteCount value="3"/>
+        <DupePrioritization value="Oldest"/>
+        <Pitch value="0.000000,2.000000"/>
+        <Volume value="-12.000000,-9.000000"/>
+    </CSound>
+    <CSound id="ScrapCannonLaunch" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray>
+            <File value="Assets\Sounds\Microbot_AttackLaunch6.wav"/>
+            <Pitch value="-1.000000,0.000000"/>
+            <Volume value="-6.500000,-6.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <DupeDestroyCount value="3"/>
+        <DupeMaximumMethod value="Replace"/>
+        <DupeMuteCount value="3"/>
+        <DupePrioritization value="Oldest"/>
+        <Pitch value="3.860000,5.180000"/>
+        <Volume value="-3.100000,-2.520000"/>
+    </CSound>
+    <CSound id="RebellionRaiderReady" parent="ProtossReady">
+        <AssetArray TemplateParam="Ascendant_Ready00" File="LocalizedData\Sounds\TerranVO\CampaignUnits\Vulture\Vulture_Attack02.ogg" FacialGroup=""/>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="RebellionRaiderWhat" parent="ProtossAck_Void">
+        <AssetArray TemplateParam="Ascendant_What00" File="LocalizedData\Sounds\TerranVO\CampaignUnits\Vulture\Vulture_Attack02.ogg" FacialGroup=""/>
+        <AssetArray TemplateParam="Ascendant_What01" File="LocalizedData\Sounds\TerranVO\CampaignUnits\Vulture\Vulture_Yes05.ogg" FacialGroup=""/>
+        <AssetArray TemplateParam="Ascendant_What04" File="LocalizedData\Sounds\TerranVO\CampaignUnits\Vulture\Vulture_Yes02.ogg" FacialGroup=""/>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+        <Volume value="-5.000000,-5.000000"/>
+    </CSound>
+    <CSound id="Ghost_SnipeLaunch">
+        <Volume value="-5.000000,-4.000000"/>
+    </CSound>
+    <CSound id="RebellionGunshipReady">
+        <AssetArray File="LocalizedData\Sounds\TerranUnitVO\Hellion\Hellion_Yes00.ogg" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="RebellionGunshipWhat">
+        <AssetArray>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Hellion\Hellion_Yes06.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <Volume value="1.000000,1.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Hellion\Hellion_Yes03.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <Volume value="1.000000,1.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Hellion\Hellion_What02.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <Volume value="1.000000,1.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="RebellionMarauderReady" parent="ProtossAck_Void">
+        <AssetArray TemplateParam="Adept_What05" File="LocalizedData\Sounds\TerranUnitVO\SiegeTank\SiegeTank_Ready01.ogg" Pitch="-0.500000,-0.500000"/>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="RebellionMarauderWhat" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Adept_What00"/>
+            <File value="LocalizedData\Sounds\TerranUnitVO\SiegeTank\SiegeTank_What01.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <TemplateParam value="Adept_What01"/>
+            <File value="LocalizedData\Sounds\TerranUnitVO\SiegeTank\SiegeTank_What03.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <TemplateParam value="Adept_What05"/>
+            <File value="LocalizedData\Sounds\TerranUnitVO\SiegeTank\SiegeTank_What05.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="RebellionBombardierWhat" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="TempestVoid_What03"/>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Banshee\Banshee_Ready00.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <TemplateParam value="TempestVoid_What05"/>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Banshee\Banshee_Pissed10.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <TemplateParam value="TempestVoid_What06"/>
+            <File value="LocalizedData\Sounds\TerranUnitVO\Banshee\Banshee_Pissed01.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="JackArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="LocalizedData\Sounds\TerranVO\CampaignUnits\Vulture\Vulture_Attack00.ogg"/>
+            <Volume value="5.000000,5.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="TerranFlyer_Ready">
+        <AssetArray index="0" TemplateParam="TerranFlyer_Ready01"/>
+        <AssetArray index="1" removed="1"/>
+    </CSound>
+    <CSound id="TerranFlyer_What">
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+        <AssetArray index="6" removed="1"/>
+        <AssetArray index="7" removed="1"/>
+        <AssetArray index="8" removed="1"/>
+        <AssetArray index="9" removed="1"/>
+    </CSound>
+    <CSound id="ThorgasArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="Assets\Sounds\Units\NightElf\HeroKeeperOfTheGrove\KeeperOfTheGroveReady1.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="5.000000,5.000000"/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="ThorgasWhat">
+        <AssetArray File="Assets\Sounds\Units\NightElf\HeroKeeperOfTheGrove\KeeperOfTheGroveReady1.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\NightElf\HeroKeeperOfTheGrove\KeeperOfTheGroveWhat1.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\NightElf\HeroKeeperOfTheGrove\KeeperOfTheGroveYes1.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+    </CSound>
+    <CSound id="SushannaArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="Assets\Sounds\Units\NightElf\HeroWarden\HeroWardenYes1.ogg"/>
+            <Pitch value="-1.500000,-1.500000"/>
+            <Volume value="5.000000,5.000000"/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="SushannaWhat">
+        <AssetArray File="Assets\Sounds\Units\NightElf\HeroWarden\HeroWardenYes1.ogg" Pitch="-1.500000,-1.500000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\NightElf\HeroWarden\HeroWardenWhat2.ogg" Pitch="-1.500000,-1.500000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\NightElf\HeroWarden\HeroWardenReady1.ogg" Pitch="-1.500000,-1.500000" FacialGroup=""/>
+    </CSound>
+    <CSound id="Wraith_Yes">
+        <AssetArray index="0" File="LocalizedData\Sounds\TerranVO\CampaignUnits\Wraith\Wraith_Yes03.ogg" FacialAnim="Wraith_Yes03"/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+    </CSound>
+    <CSound id="WyanniArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="Assets\Sounds\Units\NightElf\Runner\RunnerWhat1.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="5.000000,5.000000"/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="WyanniWhat">
+        <AssetArray File="Assets\Sounds\Units\NightElf\Runner\RunnerWhat1.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\NightElf\Runner\RunnerWhat2.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\NightElf\Runner\RunnerWhat4.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+    </CSound>
+    <CSound id="MehridaArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="Assets\Sounds\Units\NightElf\Archer\ArcherYesAttack4.ogg"/>
+            <Pitch value="-2.500000,-2.500000"/>
+            <Volume value="5.000000,5.000000"/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="LinanaArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="Assets\Sounds\Units\NightElf\Dryad\DryadYesAttack3.ogg"/>
+            <Pitch value="-2.000000,-2.000000"/>
+            <Volume value="5.000000,5.000000"/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="MehridaWhat">
+        <AssetArray File="Assets\Sounds\Units\NightElf\Archer\ArcherYesAttack4.ogg" Pitch="-2.500000,-2.500000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\NightElf\Archer\ArcherYesAttack2.ogg" Pitch="-2.500000,-2.500000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\NightElf\Archer\ArcherWhat4.ogg" Pitch="-2.500000,-2.500000" FacialGroup=""/>
+    </CSound>
+    <CSound id="CreationLockdownLaunch" parent="Spell">
+        <EditorCategories value="Race:Protoss"/>
+        <AssetArray File="Assets\Sounds\Protoss\HighTemplar\HighTemplar_PsionicStormLaunch0.wav"/>
+    </CSound>
+    <CSound id="CrystalVortexLaunch" parent="Spell">
+        <EditorCategories value="Race:Protoss"/>
+        <AssetArray File="Assets\Sounds\Energy_Loop_OneShots_01.wav" Volume="2.000000,2.000000"/>
+    </CSound>
+    <CSound id="GreatMonumentArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="LocalizedData\Sounds\VO\Protoss\TempestVoid_Attack01.ogg"/>
+            <Pitch value="-1.500000,-1.500000"/>
+            <Volume value="6.000000,6.000000"/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="GreatMonumentWhat" parent="ProtossAck_Void">
+        <AssetArray TemplateParam="Alarak_What03" File="LocalizedData\Sounds\VO\Protoss\TempestVoid_Attack01.ogg" Pitch="-1.500000,-1.500000"/>
+        <AssetArray TemplateParam="Alarak_What04" File="LocalizedData\Sounds\VO\Protoss\TempestVoid_Attack04.ogg" Pitch="-1.500000,-1.500000"/>
+        <AssetArray TemplateParam="Alarak_What05" File="LocalizedData\Sounds\VO\Protoss\TempestVoid_Ready00.ogg" Pitch="-1.500000,-1.500000"/>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+    </CSound>
+    <CSound id="LinanaWhat">
+        <AssetArray File="Assets\Sounds\Units\NightElf\Dryad\DryadYesAttack3.ogg" Pitch="-2.000000,-2.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\NightElf\Dryad\DryadYes4.ogg" Pitch="-2.000000,-2.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\NightElf\Dryad\DryadWhat3.ogg" Pitch="-2.000000,-2.000000" FacialGroup=""/>
+    </CSound>
+    <CSound id="ZealousArenaLaunch" parent="Spell">
+        <EditorCategories value="Race:Protoss"/>
+        <AssetArray File="Assets\Sounds\Xelnaga_Library_StandWorkStart_1995ms_1ch.wav" Volume="2.000000,2.000000"/>
+    </CSound>
+    <CSound id="HontoraiOrbitalLaserImpact" parent="Terran_ExplosionSmall">
+        <DupeDestroyCount value="3"/>
+        <DupeMuteCount value="3"/>
+        <DupePrioritization value="Oldest"/>
+        <Pitch value="0.000000,2.000000"/>
+        <Volume value="-12.000000,-9.000000"/>
+    </CSound>
+    <CSound id="HontoraiOrbitalLaserLaunch" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Terran\Battlecruiser\Battlecruiser_AttackLaunch0.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Battlecruiser\Battlecruiser_AttackLaunch1.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Battlecruiser\Battlecruiser_AttackLaunch2.wav"/>
+        <DupeDestroyCount value="3"/>
+        <DupeMaximumMethod value="Replace"/>
+        <DupeMuteCount value="3"/>
+        <DupePrioritization value="Oldest"/>
+        <Pitch value="3.860000,5.180000"/>
+        <Volume value="-3.100000,-2.520000"/>
+    </CSound>
+    <CSound id="HontoraiPriestReady">
+        <AssetArray File="Assets\Sounds\Units\NightElf\DruidOfTheClaw\DruidOfTheClawYes1.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="HontoraiPriestWhat">
+        <AssetArray File="Assets\Sounds\Units\NightElf\DruidOfTheClaw\DruidOfTheClawYes1.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\NightElf\DruidOfTheClaw\DruidOfTheClawWhat4.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\NightElf\DruidOfTheClaw\DruidOfTheClawYesAttack1.ogg" Volume="-1.000000,-1.000000" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="HontoraiBeamerReady" parent="ProtossAck_Void">
+        <AssetArray TemplateParam="Adept_What05" Pitch="-4.000000,-4.000000"/>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+        <Volume value="-4.000000,-4.000000"/>
+    </CSound>
+    <CSound id="HontoraiBeamerWhat" parent="ProtossAck_Void">
+        <AssetArray TemplateParam="Adept_What00" Pitch="-4.000000,-4.000000"/>
+        <AssetArray>
+            <TemplateParam value="Adept_What01"/>
+            <File value="LocalizedData\Sounds\VO\Protoss\Adept_What03.ogg"/>
+            <Pitch value="-4.000000,-4.000000"/>
+            <FacialAnim value="Adept_What03"/>
+            <FacialGroup value="Adept_What03"/>
+        </AssetArray>
+        <AssetArray TemplateParam="Adept_What04" Pitch="-4.000000,-4.000000"/>
+        <AssetArray TemplateParam="Adept_What05" Pitch="-4.000000,-4.000000"/>
+        <AssetArray TemplateParam="Adept_What06" Pitch="-4.000000,-4.000000"/>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+        <Volume value="-4.000000,-4.000000"/>
+    </CSound>
+    <CSound id="GabrielleWhat">
+        <AssetArray File="Assets\Sounds\Units\NightElf\Naisha\NaishaWhat5.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\NightElf\Naisha\NaishaYes1.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\NightElf\Naisha\NaishaYes3.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\NightElf\Naisha\NaishaYes5.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="CelestiaWhat">
+        <AssetArray File="Assets\Sounds\Units\NightElf\HeroWarden\HeroWardenWhat1.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\NightElf\HeroWarden\HeroWardenYes5.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\NightElf\HeroWarden\HeroWardenYesAttack2.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\NightElf\HeroWarden\HeroWardenPissed2.ogg" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="DanielWhat">
+        <AssetArray File="Assets\Sounds\Units\Human\Arthas\ArthasWhat1.ogg" Pitch="-0.500000,-0.500000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\Human\Arthas\ArthasWhat4.ogg" Pitch="-0.500000,-0.500000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\Human\Arthas\ArthasWhat5.ogg" Pitch="-0.500000,-0.500000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\Human\Arthas\ArthasYes4.ogg" Pitch="-0.500000,-0.500000" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="Ghost_NukeExplode">
+        <AssetArray index="0" Volume="-1.000000,-1.000000"/>
+    </CSound>
+    <CSound id="HontoraiObeliskReady" parent="ProtossReady">
+        <AssetArray TemplateParam="TempestVoid_Ready00" File="Assets\Sounds\Units\Human\BloodElfSpellThief\SpellbreakerYesAttack2.ogg" Pitch="-1.500000,-1.500000"/>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="HontoraiObeliskWhat" parent="ProtossAck_Void">
+        <AssetArray TemplateParam="TempestVoid_What03" File="Assets\Sounds\Units\Human\BloodElfSpellThief\SpellbreakerYesAttack2.ogg" Pitch="-1.500000,-1.500000"/>
+        <AssetArray TemplateParam="TempestVoid_What05" File="Assets\Sounds\Units\Human\BloodElfSpellThief\SpellbreakerYes4.ogg" Pitch="-2.000000,-2.000000"/>
+        <AssetArray TemplateParam="TempestVoid_What06" File="Assets\Sounds\Units\Human\BloodElfSpellThief\SpellbreakerYes1.ogg" Pitch="-2.000000,-2.000000"/>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="Mothership_AttackImpact">
+        <AssetArray index="0" Volume="3.000000,3.000000"/>
+        <AssetArray index="1" Volume="3.000000,3.000000"/>
+        <AssetArray index="2" Volume="3.000000,3.000000"/>
+        <AssetArray index="3" Volume="3.000000,3.000000"/>
+        <AssetArray index="4" Volume="3.000000,3.000000"/>
+        <AssetArray index="5" Volume="3.000000,3.000000"/>
+    </CSound>
+    <CSound id="SamaraArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="Assets\Sounds\Units\NightElf\Shandris\ShandrisYesAttack1.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <Volume value="6.000000,6.000000"/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Mode value="2D"/>
+        <Volume value="0.000000,0.000000"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Select value="Sequential"/>
+    </CSound>
+    <CSound id="HontoraiShieldReady" parent="ProtossReady">
+        <AssetArray TemplateParam="TempestVoid_Ready00" File="Assets\Sounds\Units\NightElf\HeroKeeperOfTheGrove\KeeperOfTheGroveWhat4.ogg" Pitch="-1.000000,-1.000000"/>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="HontoraiShieldWhat" parent="ProtossAck_Void">
+        <AssetArray TemplateParam="TempestVoid_What03" File="Assets\Sounds\Units\NightElf\HeroKeeperOfTheGrove\KeeperOfTheGroveYes4.ogg" Pitch="-1.000000,-1.000000"/>
+        <AssetArray TemplateParam="TempestVoid_What05" File="Assets\Sounds\Units\NightElf\HeroKeeperOfTheGrove\KeeperOfTheGroveWhat1.ogg" Pitch="-1.000000,-1.000000"/>
+        <AssetArray TemplateParam="TempestVoid_What06" File="Assets\Sounds\Units\NightElf\HeroKeeperOfTheGrove\KeeperOfTheGroveYes5.ogg" Pitch="-1.000000,-1.000000"/>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="Tempest_GroundAttackImpact">
+        <AssetArray index="0" Pitch="2.000000,2.000000"/>
+        <AssetArray index="1" Pitch="2.000000,2.000000"/>
+        <AssetArray index="2" Pitch="2.000000,2.000000"/>
+        <AssetArray index="3" Pitch="2.000000,2.000000"/>
+        <AssetArray index="4" Pitch="2.000000,2.000000"/>
+    </CSound>
+    <CSound id="Terran_ConstantFireLarge">
+        <Volume value="-10.120000,-10.120000"/>
+    </CSound>
+    <CSound id="Terran_ConstantFireMedium">
+        <Volume value="-11.000000,-11.000000"/>
+    </CSound>
+    <CSound id="Terran_ConstantFireSmall">
+        <Volume value="-8.120000,-8.120000"/>
+    </CSound>
+    <CSound id="AklahArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="Assets\Sounds\Units\NightElf\Furion\FurionYesAttack3.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="5.000000,5.000000"/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="AklahWhat">
+        <AssetArray File="Assets\Sounds\Units\NightElf\Furion\FurionWhat1.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\NightElf\Furion\FurionWhat2.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\NightElf\Furion\FurionYesAttack3.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+    </CSound>
+    <CSound id="XyrethiaArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="Assets\Sounds\Units\Undead\EvilSylvanas\EvilSylvanasYesAttack1.ogg"/>
+            <Pitch value="0.500000,0.500000"/>
+            <Volume value="6.000000,6.000000"/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Mode value="2D"/>
+        <Volume value="0.000000,0.000000"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Select value="Sequential"/>
+    </CSound>
+    <CSound id="SamaraWhat">
+        <AssetArray>
+            <File value="Assets\Sounds\Units\NightElf\Shandris\ShandrisPissed1.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <Volume value="2.000000,2.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <File value="Assets\Sounds\Units\NightElf\Shandris\ShandrisPissed2.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <Volume value="2.000000,2.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <File value="Assets\Sounds\Units\NightElf\Shandris\ShandrisWhat3.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <Volume value="2.000000,2.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <File value="Assets\Sounds\Units\NightElf\Shandris\ShandrisYesAttack3.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <Volume value="2.000000,2.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="XyrethiaWhat">
+        <AssetArray>
+            <File value="Assets\Sounds\Units\Undead\EvilSylvanas\EvilSylvanasWhat4.ogg"/>
+            <Pitch value="0.500000,0.500000"/>
+            <Volume value="2.000000,2.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <File value="Assets\Sounds\Units\Undead\EvilSylvanas\EvilSylvanasWhat3.ogg"/>
+            <Pitch value="0.500000,0.500000"/>
+            <Volume value="2.000000,2.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <File value="Assets\Sounds\Units\Undead\EvilSylvanas\EvilSylvanasYes3.ogg"/>
+            <Pitch value="0.500000,0.500000"/>
+            <Volume value="2.000000,2.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="WargutzWhat">
+        <AssetArray File="Assets\Sounds\Units\Orc\Tauren\TaurenWhat1.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\Orc\Tauren\TaurenWhat2.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\Orc\Tauren\TaurenWarcry1.ogg" FacialGroup=""/>
+    </CSound>
+    <CSound id="Sovereign_What" parent="ProtossAck_Void">
+        <AssetArray TemplateParam="Alarak_What03"/>
+        <AssetArray TemplateParam="Alarak_What04"/>
+        <AssetArray TemplateParam="Alarak_What05"/>
+        <AssetArray TemplateParam="Alarak_What06"/>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+    </CSound>
+    <CSound id="HIRISystemInvasionLaunch" parent="Spell">
+        <EditorCategories value="Race:Protoss"/>
+        <AssetArray File="Assets\Sounds\Uni\SetPieces\SetPiece_Laboratory_ResearchConsole4.wav" Pitch="-2.000000,-2.000000" Volume="3.000000,3.000000"/>
+    </CSound>
+    <CSound id="EmpireDreadnoughtReady" parent="ProtossReady">
+        <AssetArray TemplateParam="Ascendant_Ready00" File="LocalizedData\Sounds\VO\Protoss\Ascendant_Yes01.ogg"/>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="EmpireDreadnoughtWhat" parent="ProtossAck_Void">
+        <AssetArray TemplateParam="Ascendant_What00"/>
+        <AssetArray TemplateParam="Ascendant_What01"/>
+        <AssetArray TemplateParam="Ascendant_What04"/>
+        <AssetArray TemplateParam="Ascendant_What06" File="LocalizedData\Sounds\VO\Protoss\Ascendant_Yes06.ogg"/>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+        <Volume value="-5.000000,-5.000000"/>
+    </CSound>
+    <CSound id="EmpireVanguard_What" parent="ProtossAck_Void">
+        <AssetArray TemplateParam="Adept_What00" Pitch="-1.000000,-1.000000"/>
+        <AssetArray TemplateParam="Adept_What01" Pitch="-1.000000,-1.000000"/>
+        <AssetArray TemplateParam="Adept_What04" Pitch="-1.000000,-1.000000"/>
+        <AssetArray TemplateParam="Adept_What05" Pitch="-1.000000,-1.000000"/>
+        <AssetArray TemplateParam="Adept_What06" Pitch="-1.000000,-1.000000"/>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+        <Volume value="-3.500000,-3.500000"/>
+    </CSound>
+    <CSound id="Alert_TerranAllyUnderAttack">
+        <AssetArray index="0" removed="1"/>
+    </CSound>
+    <CSound id="Battlecruiser_AirAttackImpact2" parent="Terran_ExplosionSmall">
+        <DupeDestroyCount value="3"/>
+        <DupeMuteCount value="3"/>
+        <DupePrioritization value="Oldest"/>
+        <Pitch value="0.000000,2.000000"/>
+        <Volume value="-12.000000,-9.000000"/>
+    </CSound>
+    <CSound id="Battlecruiser_AirAttackLaunch2" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Terran\Battlecruiser\Battlecruiser_AttackLaunch0.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Battlecruiser\Battlecruiser_AttackLaunch1.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Battlecruiser\Battlecruiser_AttackLaunch2.wav"/>
+        <DupeDestroyCount value="3"/>
+        <DupeMaximumMethod value="Replace"/>
+        <DupeMuteCount value="3"/>
+        <DupePrioritization value="Oldest"/>
+        <Pitch value="3.860000,5.180000"/>
+        <Volume value="-3.100000,-2.520000"/>
+    </CSound>
+    <CSound id="AdonealArrival" parent="ProtossAck">
+        <AssetArray File="Assets\Sounds\Units\Human\HeroPaladin\HeroPaladinYesAttack1.ogg" Pitch="-1.000000,-1.000000" Volume="6.000000,6.000000"/>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="Carrier_What">
+        <AssetArray index="2" File="LocalizedData\Sounds\ProtossUnitVO\Carrier\Carrier_What03.ogg"/>
+        <AssetArray index="3" File="LocalizedData\Sounds\ProtossUnitVO\Carrier\Carrier_What04.ogg"/>
+        <AssetArray index="4" File="LocalizedData\Sounds\ProtossUnitVO\Carrier\Carrier_What05.ogg"/>
+        <AssetArray index="5" removed="1"/>
+    </CSound>
+    <CSound id="ChallengescombinedAdjutant00005">
+        <AssetArray index="0" Volume="5.000000,6.000000"/>
+        <Flags index="HideSubtitle" value="1"/>
+    </CSound>
+    <CSound id="ChallengescombinedAdjutant00038">
+        <AssetArray index="0" Volume="-96.000000,-96.000000"/>
+        <Flags index="HideSubtitle" value="1"/>
+    </CSound>
+    <CSound id="Destroyer_Ready">
+        <AssetArray index="0" File="LocalizedData\Sounds\VO\Protoss\Destroyer_What06.ogg"/>
+    </CSound>
+    <CSound id="Destroyer_Ready2" parent="ProtossReady">
+        <AssetArray TemplateParam="Destroyer_Ready00"/>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="Destroyer_What">
+        <AssetArray index="0" TemplateParam="Destroyer_What01"/>
+        <AssetArray index="1" TemplateParam="Destroyer_What03"/>
+        <AssetArray index="2" TemplateParam="Destroyer_What04"/>
+        <AssetArray index="3" TemplateParam="Destroyer_What05"/>
+        <AssetArray index="4" TemplateParam="Destroyer_What07"/>
+        <AssetArray index="5" removed="1"/>
+        <AssetArray index="6" removed="1"/>
+        <AssetArray index="7" removed="1"/>
+    </CSound>
+    <CSound id="Destroyer_What2" parent="ProtossAck_Void">
+        <AssetArray TemplateParam="Destroyer_What00"/>
+        <AssetArray TemplateParam="Destroyer_What01"/>
+        <AssetArray TemplateParam="Destroyer_What02"/>
+        <AssetArray TemplateParam="Destroyer_What03"/>
+        <AssetArray TemplateParam="Destroyer_What04"/>
+        <AssetArray TemplateParam="Destroyer_What05"/>
+        <AssetArray TemplateParam="Destroyer_What06"/>
+        <AssetArray TemplateParam="Destroyer_What07"/>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="EmpireVanguard_Ready" parent="ProtossAck_Void">
+        <AssetArray TemplateParam="Adept_What05" Pitch="-1.000000,-1.000000"/>
+        <Flags index="NeedsUpdate" value="1"/>
+        <Flags index="NeedsTTS" value="1"/>
+        <Volume value="-3.500000,-3.500000"/>
+    </CSound>
+    <CSound id="DarkNebulaLaunch" parent="Spell">
+        <EditorCategories value="Race:Protoss"/>
+        <AssetArray File="Assets\Sounds\Xelnaga_Library_StandWorkStart_1995ms_1ch.wav" Volume="2.000000,2.000000"/>
+    </CSound>
+    <CSound id="SovereignArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="LocalizedData\Sounds\ProtossUnitVO\Archon\Archon_Yes01.ogg"/>
+            <Pitch value="-1.500000,-1.500000"/>
+            <Volume value="6.000000,6.000000"/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Mode value="2D"/>
+        <Volume value="0.000000,0.000000"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Select value="Sequential"/>
+    </CSound>
+    <CSound id="WargutzArrival" parent="ProtossAck_Void">
+        <AssetArray TemplateParam="Corsair_What04" File="Assets\Sounds\Units\Orc\Tauren\TaurenWhat1.ogg" Volume="6.000000,6.000000"/>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Mode value="2D"/>
+        <Volume value="0.000000,0.000000"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Select value="Sequential"/>
+    </CSound>
+    <CSound id="ZealousArenaLaunch2" parent="Spell">
+        <EditorCategories value="Race:Protoss"/>
+        <AssetArray File="Assets\Sounds\Xelnaga_Library_StandWorkStart_1995ms_1ch.wav" Volume="2.000000,2.000000"/>
+    </CSound>
+    <CSound id="ZekeArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="LocalizedData\Sounds\TerranVO\CampaignUnits\Goliath\Goliath_Attack00.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="6.000000,6.000000"/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Mode value="2D"/>
+        <Volume value="0.000000,0.000000"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Select value="Sequential"/>
+    </CSound>
+    <CSound id="MelindaArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="Assets\Sounds\Units\Human\Jaina\JainaYes2.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <Volume value="6.000000,6.000000"/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Mode value="2D"/>
+        <Volume value="0.000000,0.000000"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Select value="Sequential"/>
+    </CSound>
+    <CSound id="MelindaWhat">
+        <AssetArray>
+            <File value="Assets\Sounds\Units\Human\Jaina\JainaYes4.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <Volume value="2.000000,2.000000"/>
+            <FacialAnim value="TerranFlyer_What00"/>
+            <FacialGroup value="TerranFlyer_What00"/>
+            <PortraitAnim value="TerranFlyer_What00"/>
+        </AssetArray>
+        <AssetArray>
+            <File value="Assets\Sounds\Units\Human\Jaina\JainaYes3.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <Volume value="2.000000,2.000000"/>
+            <FacialAnim value="TerranFlyer_What00"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <File value="Assets\Sounds\Units\Human\Jaina\JainaWhat4.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <Volume value="2.000000,2.000000"/>
+            <FacialAnim value="TerranFlyer_What01"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray>
+            <File value="Assets\Sounds\Units\Human\Jaina\JainaWhat2.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <Volume value="2.000000,2.000000"/>
+            <FacialAnim value="TerranFlyer_What01"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="MelichaArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="LocalizedData\Sounds\ZergVO\CampaignUnits\Kerrigan\Kerrigan_Attack05.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="6.000000,6.000000"/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="ZerathosWhat">
+        <AssetArray File="LocalizedData\Sounds\VO\Protoss\Clolarion_What00.ogg" Pitch="-1.500000,-1.500000" FacialGroup=""/>
+        <AssetArray File="LocalizedData\Sounds\VO\Protoss\Clolarion_What01.ogg" Pitch="-1.500000,-1.500000" FacialGroup=""/>
+        <AssetArray File="LocalizedData\Sounds\VO\Protoss\Clolarion_What04.ogg" Pitch="-1.500000,-1.500000" FacialGroup=""/>
+        <AssetArray File="LocalizedData\Sounds\VO\Protoss\Clolarion_What05.ogg" Pitch="-1.500000,-1.500000" FacialGroup=""/>
+        <AssetArray File="LocalizedData\Sounds\VO\Protoss\Clolarion_Attack02.ogg" Pitch="-1.500000,-1.500000" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="ZerathosArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="LocalizedData\Sounds\ProtossUnitVO\Carrier\Carrier_Yes05.ogg"/>
+            <Pitch value="-3.000000,-3.000000"/>
+            <Volume value="6.000000,6.000000"/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Mode value="2D"/>
+        <Volume value="0.000000,0.000000"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Select value="Sequential"/>
+    </CSound>
+    <CSound id="UnmakerCannonLaunch" parent="Spell">
+        <EditorCategories value="Race:Protoss"/>
+        <AssetArray File="Assets\Sounds\Protoss\Mothership\Mothership_BeamAttackLaunch1.wav" Pitch="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="HiriHubReady">
+        <AssetArray File="LocalizedData\Sounds\VO\SMX3_Cutscene_MP01_040_EnemyAdjutant_014.ogg" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="HiriHubWhat">
+        <AssetArray File="LocalizedData\Sounds\VO\acLobby_TerranAdjutant_011.ogg" Volume="-5.000000,-4.000000" FacialGroup=""/>
+        <AssetArray File="LocalizedData\Sounds\Challenges\ChallengescombinedAdjutant00101.ogg" FacialGroup=""/>
+        <AssetArray File="LocalizedData\Sounds\Tutorial\TutorialAdjutant00166.ogg" Volume="-1.000000,-1.000000" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="ShaiKaiArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <TemplateParam value="Corsair_What04"/>
+            <File value="LocalizedData\Sounds\VO\Protoss\Corsair_What03.ogg"/>
+            <Pitch value="1.000000,1.000000"/>
+            <Volume value="2.000000,2.000000"/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="GabrielleArrival">
+        <AssetArray>
+            <File value="Assets\Sounds\Units\NightElf\Naisha\NaishaYesAttack3.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="6.000000,6.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Select value="Sequential"/>
+    </CSound>
+    <CSound id="Hyperion_What">
+        <AssetArray index="0">
+            <File value="LocalizedData\Sounds\VO\zUnit_HeroHyperion_Horner_020.ogg"/>
+            <Pitch value="-1.000000,0.000000"/>
+            <FacialAnim value="zUnit_HeroHyperion_Horner_020"/>
+            <FacialGroup value="zUnit_HeroHyperion_Horner_020"/>
+            <FacialFile value="LocalizedData\Sounds\VO\zUnit_HeroHyperion_Horner_020.fxe"/>
+        </AssetArray>
+        <AssetArray index="1">
+            <File value="LocalizedData\Sounds\VO\zUnit_HeroHyperion_Horner_021.ogg"/>
+            <Pitch value="-1.000000,0.000000"/>
+            <FacialAnim value="zUnit_HeroHyperion_Horner_021"/>
+            <FacialGroup value="zUnit_HeroHyperion_Horner_021"/>
+            <FacialFile value="LocalizedData\Sounds\VO\zUnit_HeroHyperion_Horner_021.fxe"/>
+        </AssetArray>
+        <AssetArray index="2">
+            <File value="LocalizedData\Sounds\VO\zUnit_HeroHyperion_Horner_027.ogg"/>
+            <Pitch value="-1.000000,0.000000"/>
+            <FacialAnim value="zUnit_HeroHyperion_Horner_027"/>
+            <FacialGroup value="zUnit_HeroHyperion_Horner_027"/>
+            <FacialFile value="LocalizedData\Sounds\VO\zUnit_HeroHyperion_Horner_027.fxe"/>
+        </AssetArray>
+        <AssetArray index="3">
+            <File value="LocalizedData\Sounds\VO\zUnit_HeroHyperion_Horner_028.ogg"/>
+            <Pitch value="-1.000000,0.000000"/>
+            <FacialAnim value="zUnit_HeroHyperion_Horner_028"/>
+            <FacialGroup value="zUnit_HeroHyperion_Horner_028"/>
+            <FacialFile value="LocalizedData\Sounds\VO\zUnit_HeroHyperion_Horner_028.fxe"/>
+        </AssetArray>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+    </CSound>
+    <CSound id="AlexanderArrival" parent="HoS_TerranAck">
+        <AssetArray index="0">
+            <File value="LocalizedData\Sounds\VO\zUnit_HeroHyperion_Horner_027.ogg"/>
+            <Pitch value="-1.000000,0.000000"/>
+            <Volume value="6.000000,6.000000"/>
+            <FacialAnim value="zUnit_HeroHyperion_Horner_027"/>
+            <FacialGroup value="zUnit_HeroHyperion_Horner_027"/>
+            <FacialFile value="LocalizedData\Sounds\VO\zUnit_HeroHyperion_Horner_027.fxe"/>
+            <Speaker value=""/>
+            <Subtitle value=""/>
+        </AssetArray>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+    </CSound>
+    <CSound id="PlasmaFieldLaunch" parent="Spell">
+        <EditorCategories value="Race:Protoss"/>
+        <AssetArray File="Assets\Sounds\Plasma_Puddle_Small_02.wav"/>
+    </CSound>
+    <CSound id="HighTemplarVoid_Pissed">
+        <AssetArray index="0" TemplateParam="HighTemplarVoid_Pissed02"/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+        <AssetArray index="6" removed="1"/>
+        <AssetArray index="7" removed="1"/>
+    </CSound>
+    <CSound id="Selendis_What">
+        <AssetArray index="0" File="LocalizedData\Sounds\ProtossVO\CampaignUnits\Selendis\Selendis_What01.ogg" Pitch="1.000000,1.500000"/>
+        <AssetArray index="1" File="LocalizedData\Sounds\ProtossVO\CampaignUnits\Selendis\Selendis_What02.ogg" Pitch="1.000000,1.500000"/>
+        <AssetArray index="2" File="LocalizedData\Sounds\ProtossVO\CampaignUnits\Selendis\Selendis_What03.ogg" Pitch="1.000000,1.500000"/>
+        <AssetArray index="3" removed="1"/>
+    </CSound>
+    <CSound id="CelestiaArrival" parent="ProtossAck">
+        <AssetArray File="Assets\Sounds\Units\NightElf\HeroWarden\HeroWardenPissed5.ogg" Volume="6.000000,6.000000"/>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="JudicatorArrival" parent="ProtossAck">
+        <AssetArray File="LocalizedData\Sounds\ProtossUnitVO\Zealot\Zealot_What03.ogg" Pitch="0.500000,0.500000" Volume="6.000000,6.000000"/>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="TempestVoid_What">
+        <AssetArray index="4" TemplateParam="TempestVoid_What05"/>
+        <AssetArray index="5" TemplateParam="TempestVoid_What06"/>
+        <AssetArray index="6" removed="1"/>
+    </CSound>
+    <CSound id="DanielArrival" parent="ProtossAck_Void">
+        <AssetArray>
+            <File value="Assets\Sounds\Units\Human\Arthas\ArthasPissed2.ogg"/>
+            <Pitch value="-0.500000,-0.500000"/>
+            <Volume value="6.000000,6.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Flags index="AutoUnload" value="1"/>
+        <Flags index="Ignorable" value="0"/>
+        <Flags index="Stream" value="0"/>
+        <Flags index="Unpausable" value="1"/>
+        <Flags index="Wait" value="1"/>
+        <Flags index="AllowMultiNotifies" value="1"/>
+        <Category value="Dialogue"/>
+        <CategoryLocal value="Dialogue"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Mode value="2D"/>
+        <Select value="Sequential"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="TutorialAdjutant00064">
+        <AssetArray index="0" Volume="5.000000,6.000000"/>
+        <Flags index="HideSubtitle" value="1"/>
+    </CSound>
+    <CSound id="TutorialAdjutant00072">
+        <AssetArray index="0" Volume="2.000000,3.000000"/>
+        <Flags index="HideSubtitle" value="1"/>
+    </CSound>
+    <CSound id="UI_VO_Adjutant_009">
+        <AssetArray index="0" Volume="5.000000,6.000000"/>
+        <Flags index="HideSubtitle" value="1"/>
+    </CSound>
+    <CSound id="AdonealWhat">
+        <AssetArray File="Assets\Sounds\Units\Human\HeroPaladin\HeroPaladinWhat1.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\Human\HeroPaladin\HeroPaladinWhat2.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\Human\HeroPaladin\HeroPaladinYes2.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Units\Human\HeroPaladin\HeroPaladinReady1.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="ZekeWhat">
+        <AssetArray File="LocalizedData\Sounds\TerranVO\CampaignUnits\Goliath\Goliath_Yes00.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="LocalizedData\Sounds\TerranVO\CampaignUnits\Goliath\Goliath_Yes02.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="LocalizedData\Sounds\TerranVO\CampaignUnits\Goliath\Goliath_Pissed01.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="LocalizedData\Sounds\TerranVO\CampaignUnits\Goliath\Goliath_Attack00.ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+    </CSound>
+    <CSound id="MelichaWhat">
+        <AssetArray File="LocalizedData\Sounds\ZergVO\CampaignUnits\Kerrigan\Kerrigan_Attack03.ogg" Pitch="-1.500000,-1.500000" FacialGroup=""/>
+        <AssetArray File="LocalizedData\Sounds\ZergVO\CampaignUnits\Kerrigan\Kerrigan_Attack04.ogg" Pitch="-1.500000,-1.500000" FacialGroup=""/>
+        <AssetArray File="LocalizedData\Sounds\ZergVO\CampaignUnits\Kerrigan\Kerrigan_Yes01.ogg" Pitch="-1.500000,-1.500000" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+    </CSound>
+</Catalog>

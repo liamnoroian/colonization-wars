@@ -1,0 +1,5 @@
+﻿UI/MatchmakingVersusAIPanel/Difficulty/Easy=<img path="Assets\Textures\ui_emoticons_rofl.dds"/>
+UI/MatchmakingVersusAIPanel/Difficulty/Hard=<img path="Assets\Textures\ui_emoticons_angry.dds"/>
+UI/MatchmakingVersusAIPanel/Difficulty/Harder=<img path="Assets\Textures\ui_emoticons_skull.dds"/>
+UI/MatchmakingVersusAIPanel/Difficulty/Medium=<img path="Assets\Textures\ui_emoticons_speechless.dds"/>
+UI/MatchmakingVersusAIPanel/Difficulty/VeryEasy=<img path="Assets\Textures\ui_emoticons_inlove.dds"/>

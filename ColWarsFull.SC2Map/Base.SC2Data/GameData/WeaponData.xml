@@ -1,0 +1,1667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CWeaponLegacy id="AcidSpew">
+        <Options index="DisplayCooldown" value="1"/>
+        <TargetFilters value="Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="15"/>
+        <Range value="10"/>
+        <RangeSlop value="1"/>
+        <Period value="2"/>
+        <DamagePoint value="0.05"/>
+        <Backswing value="0.1"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="BastionGunners">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="OnlyFireAtAttackOrderTarget" value="0"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Options index="NeverMiss" value="0"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-infantryweaponslevel0.dds"/>
+        <DisplayEffect value="BastionGunnerDamage"/>
+        <DisplayAttackCount value="8"/>
+        <TargetFilters value="Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="15"/>
+        <Range value="10"/>
+        <Arc value="360"/>
+        <ArcSlop value="360"/>
+        <Period value="1"/>
+        <DamagePoint value="0.05"/>
+        <Backswing value="0.1"/>
+        <Effect value="BastionGunnerDamage"/>
+        <LegacyOptions index="FaceTargetWhileInCooldown" value="0"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="Claws">
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="13"/>
+        <Range value="0.8"/>
+        <Period value="1.5"/>
+        <Backswing value="0.1"/>
+        <Effect value="Claws"/>
+        <AllowedMovement value="Moving"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="DisolvingAcid">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="LechedoraiMissileDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="12"/>
+        <Range value="6"/>
+        <Period value="1.5"/>
+        <Backswing value="0.1"/>
+        <Effect value="LechedoraiMissileLaunch"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="SpineLauncher">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="OnlyFireWhileInAttackOrder" value="0"/>
+        <Options index="OnlyFireAtAttackOrderTarget" value="0"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="EmprixDamage"/>
+        <TargetFilters value="Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="9"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="EmprixLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="PsionicBlast">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="MelichaMissileDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="12"/>
+        <Range value="7"/>
+        <Period value="1.5"/>
+        <Backswing value="0.1"/>
+        <Effect value="MelichaMissileLaunch"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="InfestingBile">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="GreteyeMissileDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="12"/>
+        <Range value="7"/>
+        <Period value="3"/>
+        <Backswing value="0.1"/>
+        <Effect value="GreteyeMissileLaunch"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="PsionicBlast2">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="CrescereMissileDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="12"/>
+        <Range value="6"/>
+        <Period value="1.5"/>
+        <Backswing value="0.1"/>
+        <Effect value="CrescereMissileLaunch"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="ShrineInflux">
+        <EditorCategories value="Race:Protoss"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="Shrinedamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="18"/>
+        <Range value="8"/>
+        <Period value="1"/>
+        <Backswing value="0.1"/>
+        <Effect value="Shrinedamage"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="IceBlast2">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\war3_btnfrostbolt.dds"/>
+        <DisplayEffect value="IcestarTitanDamage2"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="50"/>
+        <Range value="25"/>
+        <Period value="7.6"/>
+        <Backswing value="0.1"/>
+        <Effect value="IcestarTitanLM2"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="IcestarProjection">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnfrostbolt.dds"/>
+        <DisplayEffect value="IcestarAvatarDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="15"/>
+        <Range value="4"/>
+        <Period value="1.96"/>
+        <Backswing value="0.1"/>
+        <Effect value="IcestarAvatarLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="IceBeam">
+        <EditorCategories value="Race:Protoss"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-prismaticbeam-color.dds"/>
+        <DisplayEffect value="IceBeamDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="18"/>
+        <Range value="14"/>
+        <Period value="1.92"/>
+        <Effect value="IceBeamDamage"/>
+        <Backswing value="0.1"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="HiveSporeLaunchers">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="OnlyFireWhileInAttackOrder" value="0"/>
+        <Options index="OnlyFireAtAttackOrderTarget" value="0"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-upgrade-zerg-airattacks-level0.dds"/>
+        <DisplayEffect value="HiveSporeLaunchersDamage"/>
+        <DisplayAttackCount value="1"/>
+        <Level value="1"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="30"/>
+        <Range value="22"/>
+        <Arc value="360"/>
+        <ArcSlop value="360"/>
+        <Period value="2.2"/>
+        <Backswing value="0.1"/>
+        <Effect value="HiveSporeLaunchersSet"/>
+        <LegacyOptions index="CanRetargetWhileChanneling" value="1"/>
+        <LegacyOptions index="FaceTargetWhileInCooldown" value="0"/>
+        <AllowedMovement value="Moving"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="HiveArtona">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="CanInitiateAttackOrder" value="0"/>
+        <Options index="OnlyFireWhileInAttackOrder" value="0"/>
+        <Options index="OnlyFireAtAttackOrderTarget" value="0"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-ability-zerg-corrosivebile.dds"/>
+        <DisplayEffect value="HiveArtonaDamage"/>
+        <DisplayAttackCount value="1"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="30"/>
+        <Range value="22"/>
+        <Arc value="360"/>
+        <ArcSlop value="360"/>
+        <Period value="7"/>
+        <Backswing value="0.1"/>
+        <Effect value="HiveArtonaPers"/>
+        <LegacyOptions index="CanRetargetWhileChanneling" value="1"/>
+        <LegacyOptions index="FaceTargetWhileInCooldown" value="0"/>
+        <AllowedMovement value="Moving"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="LiberatorMissileLaunchers">
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <Period value="3"/>
+        <Backswing value="0.1"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="MissileTurret2">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Options index="NeverMiss" value="0"/>
+        <Icon value="Assets\Textures\btn-ability-stetmann-hydraliskmissilepoweroff.dds"/>
+        <DisplayEffect value="MissileTurretDamage22"/>
+        <DisplayAttackCount value="1"/>
+        <Level value="1"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="20"/>
+        <Range value="17"/>
+        <Arc value="360"/>
+        <ArcSlop value="360"/>
+        <Period value="2.4"/>
+        <Backswing value="0.1"/>
+        <Effect value="MissileTurretLM22"/>
+        <LegacyOptions index="CanRetargetWhileChanneling" value="1"/>
+        <LegacyOptions index="FaceTargetWhileInCooldown" value="0"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="SentinelCannon">
+        <EditorCategories value="Race:Protoss"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Options index="NeverMiss" value="0"/>
+        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <DisplayEffect value="KingdomSentineldamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <Period value="0.8"/>
+        <Effect value="KingdomSentinelset"/>
+        <Backswing value="0.1"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="PsychicBlast">
+        <EditorCategories value="Race:Protoss"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-ability-stetmann-corruptorcausticspray.dds"/>
+        <DisplayEffect value="PsychicBlastdamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="50"/>
+        <Range value="25"/>
+        <Period value="6"/>
+        <Effect value="PsychicBlastset"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+        <PreEffect value="OverpoweringPsychicapply"/>
+        <Backswing value="0.1"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="AzathothProjection">
+        <EditorCategories value="Race:Protoss"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-ability-stetmann-corruptorcausticspray.dds"/>
+        <DisplayEffect value="AzathothProjectiondamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="15"/>
+        <Range value="8"/>
+        <Period value="1.8"/>
+        <Effect value="AzathothProjectiondamage"/>
+        <Backswing value="0.1"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="SneakyBreaky">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="Hidden" value="1"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btncritterrabbit.dds"/>
+        <TargetFilters value="Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="15"/>
+        <Range value="10"/>
+        <Arc value="360"/>
+        <Period value="3"/>
+        <Backswing value="0.1"/>
+        <Effect value="SneakyBreakyDamage"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="Bash">
+        <EditorCategories value="Race:Zerg"/>
+        <Options index="Melee" value="1"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <DisplayEffect value="HiveHulkDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <Range value="0.8"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="HiveHulkDamage"/>
+        <AllowedMovement value="Moving"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="BastionGunner">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="CanInitiateAttackOrder" value="0"/>
+        <Options index="OnlyFireWhileInAttackOrder" value="0"/>
+        <Options index="OnlyFireAtAttackOrderTarget" value="0"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="RequireEnabledAttackAbil" value="0"/>
+        <Options index="NeverMiss" value="0"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-infantryweaponslevel0.dds"/>
+        <DisplayEffect value="BastionGunnerDamage"/>
+        <TargetFilters value="Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="18"/>
+        <Range value="15"/>
+        <Period value="1"/>
+        <DamagePoint value="0.05"/>
+        <Backswing value="0.1"/>
+        <Effect value="BastionGunnerDamage"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+        <AcquirePrioritization value="ByAngle"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="CreationZapper">
+        <EditorCategories value="Race:Protoss"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Options index="NeverMiss" value="0"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="HontoraiArbalestDamage"/>
+        <TargetFilters value="Air,Visible;Massive,Structure,Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="13"/>
+        <Range value="8"/>
+        <Period value="3"/>
+        <Effect value="HontoraiArbalestDamage"/>
+        <Backswing value="0.1"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="Cometattack">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="Hidden" value="1"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btncritterrabbit.dds"/>
+        <TargetFilters value="Massive,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <Range value="1"/>
+        <Arc value="360"/>
+        <Period value="3"/>
+        <Backswing value="0.1"/>
+        <Effect value="Suicide"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="SnipeGunner">
+        <EditorCategories value="Race:Protoss"/>
+        <Options index="CanInitiateAttackOrder" value="0"/>
+        <Options index="OnlyFireWhileInAttackOrder" value="0"/>
+        <Options index="OnlyFireAtAttackOrderTarget" value="0"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="RequireEnabledAttackAbil" value="0"/>
+        <Options index="NeverMiss" value="0"/>
+        <Icon value="Assets\Textures\btn-upgrade-mengsk-engineeringbay-dominionweaponslevel0.dds"/>
+        <DisplayEffect value="SnipeGunnerDamage"/>
+        <TargetFilters value="Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="20"/>
+        <Range value="18"/>
+        <Period value="1.5"/>
+        <Effect value="SnipeGunnerDamage"/>
+        <Backswing value="0.1"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="PsychicRay">
+        <EditorCategories value="Race:Protoss"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-ability-stetmann-corruptorcausticspray.dds"/>
+        <DisplayEffect value="PsychicDroneDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="18"/>
+        <Range value="14"/>
+        <Period value="1.6"/>
+        <Effect value="PsychicDroneDamage"/>
+        <Backswing value="0.1"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="NeedleClaws">
+        <Options index="DisplayCooldown" value="1"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="12"/>
+        <Period value="1"/>
+        <AllowedMovement value="Moving"/>
+        <Backswing value="0.1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="SporeSpew">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <DisplayEffect value="HiveMatriarchDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <Period value="2.5"/>
+        <Backswing value="0.1"/>
+        <Effect value="HiveMatriarchLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="RailGunTurret">
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Options index="NeverMiss" value="0"/>
+        <Icon value="Assets\Textures\btn-ability-zerg-quantumray.dds"/>
+        <TargetFilters value="Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="15"/>
+        <Range value="10"/>
+        <DamagePoint value="0.05"/>
+        <Backswing value="0.1"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="Swarmling">
+        <Options index="DisplayCooldown" value="1"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <Range value="0.4"/>
+        <Period value="1.2"/>
+        <RateMultiplier value="1.2"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="BulkClaws">
+        <EditorCategories value="Race:Zerg"/>
+        <Options index="Melee" value="1"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-upgrade-zerg-meleeattacks-level0.dds"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="15"/>
+        <Range value="0.4"/>
+        <Period value="2"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="TeslaDefense">
+        <EditorCategories value="Race:Protoss"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Options index="NeverMiss" value="0"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="KingdomLAWDamage"/>
+        <TargetFilters value="Air,Visible;Massive,Structure,Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="12"/>
+        <Range value="8"/>
+        <Period value="3"/>
+        <Effect value="KingdomLAWDamage"/>
+        <Backswing value="0.1"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="StingerSpine">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnsteelranged.dds"/>
+        <DisplayEffect value="HiveStingerDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="HiveStingerLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="Spew">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Options index="NeverMiss" value="0"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="HiveDroneDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="12"/>
+        <Range value="8"/>
+        <Period value="1.5"/>
+        <Backswing value="0.1"/>
+        <Effect value="HiveDroneLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="IceBlast">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\war3_btnfrostbolt.dds"/>
+        <DisplayEffect value="IcestarTitanDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="50"/>
+        <Range value="25"/>
+        <Period value="7.6"/>
+        <Effect value="IcestarTitanLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+        <Backswing value="0.1"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="AcidBile">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnhumanmissileupone.dds"/>
+        <DisplayEffect value="AcidGliderDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <ArcSlop value="0"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="AcidGliderLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="ParticleOrdinance">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="Disabled" value="1"/>
+        <Options index="Hidden" value="1"/>
+        <Options index="OnlyFireWhileInAttackOrder" value="0"/>
+        <Options index="OnlyFireAtAttackOrderTarget" value="0"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-nova-specialordance.dds"/>
+        <DisplayEffect value="ParticleOrdinanceDamage"/>
+        <Level value="1"/>
+        <TargetFilters value="Air,Visible;Massive,Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="100"/>
+        <Range value="500"/>
+        <Arc value="360"/>
+        <ArcSlop value="360"/>
+        <Period value="9"/>
+        <Backswing value="0.1"/>
+        <Effect value="ParticleOrdinanceLM"/>
+        <LegacyOptions index="CanRetargetWhileChanneling" value="1"/>
+        <LegacyOptions index="FaceTargetWhileInCooldown" value="0"/>
+        <AllowedMovement value="Moving"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="LancerBeam">
+        <EditorCategories value="Race:Protoss"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnsteelranged.dds"/>
+        <DisplayEffect value="LancerBeamDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <Period value="2"/>
+        <Effect value="LancerBeamDamage"/>
+        <AllowedMovement value="Slowing"/>
+        <Backswing value="0.1"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="ShockRockets">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-ability-terran-huntermissile-color.dds"/>
+        <DisplayEffect value="AkihiroDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="9"/>
+        <Range value="9"/>
+        <Period value="3"/>
+        <Backswing value="0.1"/>
+        <Effect value="AkihiroLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="ScrapTurret">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-ability-tychus-warhound-deployturret.dds"/>
+        <DisplayEffect value="ACEDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="9"/>
+        <Range value="6"/>
+        <Period value="1"/>
+        <Backswing value="0.1"/>
+        <Effect value="ACELM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="BreakerRockets">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="OnlyFireWhileInAttackOrder" value="0"/>
+        <Options index="OnlyFireAtAttackOrderTarget" value="0"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="BreakerRocketsDamage"/>
+        <TargetFilters value="Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="9"/>
+        <Range value="7"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="BreakerRocketsLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="DroneGun">
+        <EditorCategories value="Race:Protoss"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Options index="NeverMiss" value="0"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="RebellionDroneDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <Range value="8"/>
+        <Period value="3"/>
+        <Effect value="RebellionDroneDamage"/>
+        <MinScanRange value="13"/>
+        <Backswing value="0.1"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="GatlingCannon">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-shipweaponslevel3.dds"/>
+        <DisplayEffect value="AntonioDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="9"/>
+        <Range value="7"/>
+        <Period value="2"/>
+        <RateMultiplier value="1.1"/>
+        <Backswing value="0.1"/>
+        <Effect value="AntonioLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="LaserTurret2">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-upgrade-protoss-fenix-dragoongroundattack.dds"/>
+        <DisplayEffect value="JonasDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="9"/>
+        <Range value="7"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="JonasLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="HeavyGun">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <DisplayEffect value="RebellionGunshipDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <Period value="1.2"/>
+        <Backswing value="0.1"/>
+        <Effect value="RebellionGunshipLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="ExplosiveGatling">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-shipweaponslevel3.dds"/>
+        <DisplayEffect value="JackDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="9"/>
+        <Range value="6"/>
+        <Period value="1.5"/>
+        <Backswing value="0.1"/>
+        <Effect value="JackLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="LaserTurrets">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnsteelranged.dds"/>
+        <DisplayEffect value="RebellionRaiderDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <Period value="1.5"/>
+        <Backswing value="0.1"/>
+        <Effect value="RebellionRaiderLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="MissileTurret">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Options index="NeverMiss" value="0"/>
+        <Icon value="Assets\Textures\btn-ability-stetmann-hydraliskmissilepoweroff.dds"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="13"/>
+        <Range value="12"/>
+        <Arc value="360"/>
+        <ArcSlop value="360"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="MissileTurretLM2"/>
+        <LegacyOptions index="CanRetargetWhileChanneling" value="1"/>
+        <LegacyOptions index="FaceTargetWhileInCooldown" value="0"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+        <DisplayEffect value="MissileTurretDamage2"/>
+        <DisplayAttackCount value="1"/>
+        <Level value="1"/>
+        <RateMultiplier value="1.05"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="RebellionOrbitalLaser">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="OnlyFireWhileInAttackOrder" value="0"/>
+        <Options index="OnlyFireAtAttackOrderTarget" value="0"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-shipweaponslevel1.dds"/>
+        <DisplayEffect value="RebellionOrbitalLaserDamage"/>
+        <DisplayAttackCount value="1"/>
+        <Level value="1"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="30"/>
+        <Range value="22"/>
+        <Arc value="360"/>
+        <ArcSlop value="360"/>
+        <Period value="1.8"/>
+        <Backswing value="0.1"/>
+        <Effect value="RebellionOrbitalLaserSet"/>
+        <LegacyOptions index="CanRetargetWhileChanneling" value="1"/>
+        <LegacyOptions index="FaceTargetWhileInCooldown" value="0"/>
+        <AllowedMovement value="Moving"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="MissileLauncher">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="CanInitiateAttackOrder" value="0"/>
+        <Options index="OnlyFireWhileInAttackOrder" value="0"/>
+        <Options index="OnlyFireAtAttackOrderTarget" value="0"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-upgrade-mengsk-trooper-missilelauncher.dds"/>
+        <DisplayEffect value="MissileLauncherDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="30"/>
+        <Range value="22"/>
+        <Arc value="360"/>
+        <ArcSlop value="360"/>
+        <Period value="5"/>
+        <Backswing value="0.1"/>
+        <Effect value="MissileLauncherPers"/>
+        <LegacyOptions index="CanRetargetWhileChanneling" value="1"/>
+        <LegacyOptions index="FaceTargetWhileInCooldown" value="0"/>
+        <AllowedMovement value="Moving"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="RocketLauncer">
+        <EditorCategories value="Race:Protoss"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnhumanmissileupone.dds"/>
+        <DisplayEffect value="RebellionMarauderDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="RebellionMarauderLM"/>
+        <AllowedMovement value="Slowing"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="BallisticTurret">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="SamaraMissileDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="12"/>
+        <Range value="8"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="SamaraMissileLaunch"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="CrystalMiniRay">
+        <EditorCategories value="Race:Protoss"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Options index="NeverMiss" value="0"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="DroneLightningHontorai"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <Range value="8"/>
+        <Period value="3"/>
+        <Effect value="DroneLightningHontorai"/>
+        <AllowedMovement value="Slowing"/>
+        <MinScanRange value="13"/>
+        <Backswing value="0.1"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="CrystalBeam">
+        <EditorCategories value="Race:Protoss"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnsteelranged.dds"/>
+        <DisplayEffect value="CrystalBeamDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <Period value="0.8"/>
+        <Effect value="CrystalBeamDamage"/>
+        <PostEffectBehavior Behavior="RelentlessCharge" Count="1"/>
+        <AllowedMovement value="Slowing"/>
+        <Backswing value="0.1"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="CrystalBlaster">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-upgrade-protoss-groundweaponslevel3.dds"/>
+        <DisplayEffect value="WyanniDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="9"/>
+        <Range value="7"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="WyanniLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="CreationBolt">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\war3_btnmanaflare.dds"/>
+        <DisplayEffect value="ThorgasDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="9"/>
+        <Range value="7"/>
+        <Period value="2.5"/>
+        <Backswing value="0.1"/>
+        <Effect value="ThorgasLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponStrafe id="Rocket">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnhumanmissileupone.dds"/>
+        <DisplayEffect value="RebellionFighterDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <Arc value="22.5"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="RebellionFighterLM"/>
+    </CWeaponStrafe>
+    <CWeaponLegacy id="AdvancedCannon">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-ability-mengsk-battlecruiser-yamatocannon.dds"/>
+        <DisplayEffect value="DefiantDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="10"/>
+        <Range value="8"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="DefiantLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="Bile">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-ability-zerg-dehaka-ravasaur-dissolvingacid.dds"/>
+        <DisplayEffect value="BileDamage"/>
+        <TargetFilters value="Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="18"/>
+        <Range value="15.5"/>
+        <Arc value="360"/>
+        <Period value="2.5"/>
+        <Backswing value="0.1"/>
+        <Effect value="BileLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+        <RandomDelayMin value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="OpenReactor">
+        <EditorCategories value="Race:Protoss"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Options index="NeverMiss" value="0"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="EmpireDesolatorDamage"/>
+        <TargetFilters value="Air,Visible;Massive,Structure,Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="12"/>
+        <Range value="8"/>
+        <Period value="3"/>
+        <Effect value="EmpireDesolatorDamage"/>
+        <Backswing value="0.1"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="LittlePsychicZapper">
+        <EditorCategories value="Race:Protoss"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Options index="NeverMiss" value="0"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="HiveBombusDamage"/>
+        <TargetFilters value="Air,Visible;Massive,Structure,Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="12"/>
+        <Range value="8"/>
+        <Period value="3"/>
+        <Effect value="HiveBombusDamage"/>
+        <Backswing value="0.1"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="UnstableCoil">
+        <EditorCategories value="Race:Protoss"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Options index="NeverMiss" value="0"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="RebellionMortarDamage"/>
+        <TargetFilters value="Air,Visible;Massive,Structure,Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="12"/>
+        <Range value="8"/>
+        <Period value="3"/>
+        <Effect value="RebellionMortarDamage"/>
+        <Backswing value="0.1"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="Turret">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-infantryweaponslevel1.dds"/>
+        <DisplayEffect value="RebellionTurretPlatformDamage"/>
+        <TargetFilters value="Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="18"/>
+        <Range value="15.5"/>
+        <Period value="1"/>
+        <Backswing value="0.1"/>
+        <Effect value="RebellionTurretPlatformDamage"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="CrackerRocket">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <DisplayEffect value="RebellionBombardierDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="RebellionBombardierLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="VoidRayChargeBeamBounce">
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnsteelranged.dds"/>
+        <DisplayEffect value="EmpireTitanDamageDummy"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <RangeSlop value="1"/>
+        <ArcSlop value="11.25"/>
+        <Backswing value="0.1"/>
+        <Effect value="VoidRayChargeBeamBase"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="VolatileBlaster">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\war3_btnfireforthecannon.dds"/>
+        <DisplayEffect value="MehridaDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="9"/>
+        <Range value="7"/>
+        <Period value="1"/>
+        <Backswing value="0.1"/>
+        <Effect value="MehridaLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="MonumentalCrystalizer">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="OnlyFireWhileInAttackOrder" value="0"/>
+        <Options index="OnlyFireAtAttackOrderTarget" value="0"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="GreatMonumentDamage"/>
+        <TargetFilters value="Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="9"/>
+        <Range value="7"/>
+        <Period value="2.5"/>
+        <Backswing value="0.1"/>
+        <Effect value="GreatMonumentLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="EnergizedBlaster">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\war3_btnmanaflareoff.dds"/>
+        <DisplayEffect value="AklahDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="9"/>
+        <Period value="2.5"/>
+        <Backswing value="0.1"/>
+        <Effect value="AklahLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="HontoraiOrbitalLaser">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="OnlyFireWhileInAttackOrder" value="0"/>
+        <Options index="OnlyFireAtAttackOrderTarget" value="0"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-shipweaponslevel2.dds"/>
+        <DisplayEffect value="HontoraiOrbitalLaserDamage"/>
+        <DisplayAttackCount value="1"/>
+        <Level value="1"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="30"/>
+        <Range value="22"/>
+        <Arc value="360"/>
+        <ArcSlop value="360"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="HontoraiOrbitalLaserSet"/>
+        <LegacyOptions index="CanRetargetWhileChanneling" value="1"/>
+        <LegacyOptions index="FaceTargetWhileInCooldown" value="0"/>
+        <AllowedMovement value="Moving"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="FormationBeam">
+        <EditorCategories value="Race:Protoss"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\war3_btnadvancedenergytower.dds"/>
+        <DisplayEffect value="FormationBeamDamage"/>
+        <TargetFilters value="Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="18"/>
+        <Range value="15.5"/>
+        <Period value="0.8"/>
+        <Effect value="FormationBeamset"/>
+        <Backswing value="0.1"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="EmpireOrbitalLaser">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="OnlyFireWhileInAttackOrder" value="0"/>
+        <Options index="OnlyFireAtAttackOrderTarget" value="0"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-vehicleweaponslevel3.dds"/>
+        <DisplayEffect value="EmpireOrbitalLaserDamage"/>
+        <DisplayAttackCount value="1"/>
+        <Level value="1"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="30"/>
+        <Range value="22"/>
+        <Arc value="360"/>
+        <ArcSlop value="360"/>
+        <Period value="2.2"/>
+        <Backswing value="0.1"/>
+        <Effect value="EmpireOrbitalLaserSet"/>
+        <LegacyOptions index="CanRetargetWhileChanneling" value="1"/>
+        <LegacyOptions index="FaceTargetWhileInCooldown" value="0"/>
+        <AllowedMovement value="Moving"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="FusionTurret">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="CanInitiateAttackOrder" value="0"/>
+        <Options index="OnlyFireWhileInAttackOrder" value="0"/>
+        <Options index="OnlyFireAtAttackOrderTarget" value="0"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-ability-stetmann-battlecarrierlordmechayamatocannon.dds"/>
+        <DisplayEffect value="FusionTurretDamage"/>
+        <DisplayAttackCount value="1"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="30"/>
+        <Range value="22"/>
+        <Arc value="360"/>
+        <ArcSlop value="360"/>
+        <Period value="6"/>
+        <Backswing value="0.1"/>
+        <Effect value="FusionTurretPers"/>
+        <LegacyOptions index="CanRetargetWhileChanneling" value="1"/>
+        <LegacyOptions index="FaceTargetWhileInCooldown" value="0"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="CrystallicBlaster">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <DisplayEffect value="HontoraiPriestDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="HontoraiPriestLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="CrystalizationBlast">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnhumanmissileupone.dds"/>
+        <DisplayEffect value="HontoraiObeliskDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <Period value="4"/>
+        <Backswing value="0.1"/>
+        <Effect value="HontoraiObeliskLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="ShardScatterer">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="CanInitiateAttackOrder" value="0"/>
+        <Options index="OnlyFireWhileInAttackOrder" value="0"/>
+        <Options index="OnlyFireAtAttackOrderTarget" value="0"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-upgrade-karax_solarlance.dds"/>
+        <DisplayEffect value="ShardScattererDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="30"/>
+        <Range value="22"/>
+        <Arc value="360"/>
+        <ArcSlop value="360"/>
+        <Period value="5"/>
+        <Backswing value="0.1"/>
+        <Effect value="ShardScattererPers"/>
+        <LegacyOptions index="CanRetargetWhileChanneling" value="1"/>
+        <LegacyOptions index="FaceTargetWhileInCooldown" value="0"/>
+        <AllowedMovement value="Moving"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="MelterCannon">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="XyrethiaMissileDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="12"/>
+        <Range value="7"/>
+        <Period value="1.4"/>
+        <Backswing value="0.1"/>
+        <Effect value="XyrethiaMissileLaunch"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="DivinityLaser">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="CelestiaMissileDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="12"/>
+        <Range value="7"/>
+        <Period value="1.2"/>
+        <Effect value="CelestiaMissileLaunch"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+        <Backswing value="0.1"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="GuassRifle">
+        <Options index="OnlyFireWhileInAttackOrder" value="0"/>
+        <Options index="OnlyFireAtAttackOrderTarget" value="0"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Options index="RequireEnabledAttackAbil" value="0"/>
+        <MinScanRange value="15"/>
+        <Range value="10"/>
+        <Period value="0.5"/>
+        <Backswing value="0.1"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+        <LegacyOptions index="FaceTargetWhileInCooldown" value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="LaserShell">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="ZerathosMissileDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="12"/>
+        <Range value="6"/>
+        <Period value="1.5"/>
+        <Backswing value="0.1"/>
+        <Effect value="ZerathosMissileLaunch"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="KorhalPalaceGate">
+        <Options index="OnlyFireAtAttackOrderTarget" value="1"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-research-zerg-planetaryfortress.dds"/>
+        <TargetFilters value="Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="18"/>
+        <Arc value="0"/>
+        <Period value="1.6"/>
+        <Backswing value="0.1"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+        <Effect value="GaussCannonset"/>
+        <Range value="15.5"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="LaserCannon">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnhumanmissileupone.dds"/>
+        <DisplayEffect value="EmpireDreadnoughtDamage2"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <Period value="3"/>
+        <Backswing value="0.1"/>
+        <Effect value="EmpireDreadnoughtLM2"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="DevastatorRockets">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="OnlyFireWhileInAttackOrder" value="0"/>
+        <Options index="OnlyFireAtAttackOrderTarget" value="0"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="SovereignMissileDamage"/>
+        <TargetFilters value="Visible;Massive,Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="12"/>
+        <Range value="7"/>
+        <Period value="2"/>
+        <RateMultiplier value="1.15"/>
+        <Backswing value="0.1"/>
+        <Effect value="SovereignMissileLaunch"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="EnergyMelterCannon">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="WargutzMissileDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="12"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="WargutzMissileLaunch"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="ChaosCoil">
+        <EditorCategories value="Race:Protoss"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Options index="NeverMiss" value="0"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="ParticleBeam2"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="12"/>
+        <Range value="8"/>
+        <Period value="3"/>
+        <Effect value="ParticleBeam2"/>
+        <RateMultiplier value="1.25"/>
+        <Backswing value="0.1"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="ParticleBeam">
+        <Options index="Melee" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Options index="NeverMiss" value="0"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <Range value="8"/>
+        <Period value="3"/>
+        <MinScanRange value="12"/>
+        <Backswing value="0.1"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="RocketTurret">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="ZekeMissileDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="12"/>
+        <Period value="1.2"/>
+        <Backswing value="0.1"/>
+        <Effect value="ZekeMissileLaunch"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="LaserBattery3">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <DisplayEffect value="EmpireDreadnoughtDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <Period value="0.75"/>
+        <Backswing value="0.1"/>
+        <Effect value="EmpireDreadnoughtLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="LaserRifle">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="ShaiKaiMissileDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="12"/>
+        <Range value="8"/>
+        <Period value="1.5"/>
+        <Backswing value="0.1"/>
+        <Effect value="ShaiKaiMissileLaunch"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="HydraRockets">
+        <EditorCategories value="Race:Protoss"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnhumanmissileupone.dds"/>
+        <DisplayEffect value="EmpireHydradamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <Period value="3"/>
+        <Backswing value="0.1"/>
+        <Effect value="EmpireHydrasearch"/>
+        <AllowedMovement value="Slowing"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="DisruptorTurret">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="MelindaMissileDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="12"/>
+        <Range value="8"/>
+        <Period value="1.2"/>
+        <Backswing value="0.1"/>
+        <Effect value="MelindaMissileLaunch"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+        <RateMultiplier value="1.01"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="CrystalBolt">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <DisplayEffect value="HontoraiFighterDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="HontoraiFighterLM"/>
+        <AllowedMovement value="Slowing"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="SentryGun">
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-infantryweaponslevel1.dds"/>
+        <MinScanRange value="18"/>
+        <Range value="15.5"/>
+        <Period value="1"/>
+        <Backswing value="0.1"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="TemplarBattery">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="AdonealMissileDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="12"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="AdonealMissileLaunch"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="Blaster">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <DisplayEffect value="EmpireVanguarddamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="EmpireVanguardLM"/>
+        <AllowedMovement value="Slowing"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="SunBlaster">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="GabrielleMissileDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="12"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="GabrielleMissileLaunch"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+        <Range value="6"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="ImperialLaserBattery">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="AlexanderMissileDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="12"/>
+        <Range value="7"/>
+        <Period value="1.5"/>
+        <Backswing value="0.1"/>
+        <Effect value="AlexanderMissileLaunch"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="FeedbackTurret">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="OnlyFireWhileInAttackOrder" value="0"/>
+        <Options index="OnlyFireAtAttackOrderTarget" value="0"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-vehicleweaponslevel2.dds"/>
+        <DisplayEffect value="FeedbackTurretDamage"/>
+        <DisplayAttackCount value="1"/>
+        <Level value="1"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="30"/>
+        <Range value="22"/>
+        <Arc value="360"/>
+        <ArcSlop value="360"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="FeedbackTurretPers"/>
+        <LegacyOptions index="CanRetargetWhileChanneling" value="1"/>
+        <LegacyOptions index="FaceTargetWhileInCooldown" value="0"/>
+        <AllowedMovement value="Moving"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="LaserBattery2">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="KingdomOrbitalLaserDamage2"/>
+        <TargetFilters value="Visible;Massive,Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="12"/>
+        <Range value="6"/>
+        <Period value="1.2"/>
+        <Backswing value="0.1"/>
+        <Effect value="KingdomOrbitalLaserLaunch2"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="LaserBattery">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <DisplayEffect value="KingdomGuardianDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <Period value="1"/>
+        <Backswing value="0.1"/>
+        <Effect value="KingdomGuardianLaunch"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="TempestCannon">
+        <EditorCategories value="Race:Protoss"/>
+        <Options index="CanInitiateAttackOrder" value="0"/>
+        <Options index="OnlyFireWhileInAttackOrder" value="0"/>
+        <Options index="OnlyFireAtAttackOrderTarget" value="0"/>
+        <Options index="LinkedCooldown" value="0"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-prismaticrange.dds"/>
+        <DisplayEffect value="TempestCannonDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <MinScanRange value="30"/>
+        <Range value="22"/>
+        <Period value="7"/>
+        <Backswing value="0.1"/>
+        <Effect value="TempestCannonPers"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+        <Arc value="360"/>
+        <ArcSlop value="360"/>
+        <LegacyOptions index="CanRetargetWhileChanneling" value="1"/>
+        <LegacyOptions index="FaceTargetWhileInCooldown" value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="VindicationMissile">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnhumanmissileupone.dds"/>
+        <DisplayEffect value="VindicatorMissileDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="VindicatorMissileLaunch"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponStrafe id="SJFighter1">
+        <Options index="DisplayCooldown" value="1"/>
+        <DisplayAttackCount value="0"/>
+        <Range value="6"/>
+        <Arc value="22.5"/>
+        <MinScanRange value="13"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <Backswing value="0.1"/>
+        <RateMultiplier value="1.07"/>
+    </CWeaponStrafe>
+    <CWeaponLegacy id="JudgmentLaser">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="DanielMissileDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="12"/>
+        <Period value="2"/>
+        <Effect value="DanielMissileLaunch"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+        <Backswing value="0.1"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="LaserTurret">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <DisplayEffect value="HiriHubDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <Period value="1"/>
+        <Backswing value="0.1"/>
+        <Effect value="HiriHubLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="HontoraiLaser">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <DisplayEffect value="HontoraiShieldDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="13"/>
+        <Range value="4"/>
+        <Period value="1"/>
+        <Backswing value="0.1"/>
+        <Effect value="HontoraiShieldLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMin value="0"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="Spiritizer">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\infocard-attack-hero.dds"/>
+        <DisplayEffect value="LinanaDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="10"/>
+        <Range value="8"/>
+        <Period value="1.5"/>
+        <Backswing value="0.1"/>
+        <Effect value="LinanaLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="CreationBlade">
+        <EditorCategories value="Race:Terran"/>
+        <Options index="DisplayCooldown" value="1"/>
+        <Icon value="Assets\Textures\btn-upgrade-protoss-fenix-zealotcleave.dds"/>
+        <DisplayEffect value="SushannaDamage"/>
+        <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
+        <AcquirePrioritization value="ByAngle"/>
+        <MinScanRange value="8"/>
+        <Range value="6"/>
+        <Period value="2"/>
+        <Backswing value="0.1"/>
+        <Effect value="SushannaLM"/>
+        <AllowedMovement value="Slowing"/>
+        <RandomDelayMax value="0"/>
+    </CWeaponLegacy>
+</Catalog>

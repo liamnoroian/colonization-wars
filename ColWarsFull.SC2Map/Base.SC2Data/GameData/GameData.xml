@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CGame default="1">
+        <!-- Violet -->
+        <TeamColors index="9" MinPlayerCount="0"/>
+        <!-- Light Grey -->
+        <TeamColors index="10" MinPlayerCount="0"/>
+        <!-- Dark Green -->
+        <TeamColors index="11" MinPlayerCount="0"/>
+        <!-- Brown -->
+        <TeamColors index="12" MinPlayerCount="0"/>
+        <!-- Light Green -->
+        <TeamColors index="13" MinPlayerCount="0"/>
+        <!-- Dark Grey -->
+        <TeamColors index="14" MinPlayerCount="0"/>
+        <!-- Pink -->
+        <TeamColors index="15" MinPlayerCount="0"/>
+        <AIResourceRequest index="Vespene" value="0"/>
+    </CGame>
+    <CGame id="Dflt">
+        <TeamColors index="9" MinPlayerCount="0"/>
+        <TeamColors index="10" MinPlayerCount="0"/>
+        <TeamColors index="11" MinPlayerCount="0"/>
+        <TeamColors index="12" MinPlayerCount="0"/>
+        <TeamColors index="13" MinPlayerCount="0"/>
+        <TeamColors index="14" MinPlayerCount="0"/>
+        <TeamColors index="15" MinPlayerCount="0"/>
+        <!-- Test Builds -->
+        <!-- <AIBuilds index="213" Enabled="0"/>
+             <AIBuilds index="214" Enabled="0"/>
+             <AIBuilds index="215" Enabled="1"/> -->
+    </CGame>
+</Catalog>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CItemContainer id="24SlotBag2">
+        <ModelHeight value="300"/>
+        <ModelWidth value="300"/>
+        <Slots Row="0" Column="0">
+            <Classes value="Back"/>
+        </Slots>
+        <Slots Row="0" Column="6">
+            <Classes value="Ring"/>
+        </Slots>
+        <Slots Row="1" Column="1">
+            <Classes value="Sword"/>
+            <Classes value="Legs"/>
+        </Slots>
+        <Slots Row="1" Column="2">
+            <Classes value="Sword"/>
+            <Classes value="Feet"/>
+        </Slots>
+        <Slots Row="1" Column="3">
+            <Classes value="Sword"/>
+            <Classes value="Chest"/>
+        </Slots>
+        <Slots Row="1" Column="4">
+            <Classes value="Sword"/>
+            <Classes value="Feet"/>
+        </Slots>
+        <Slots Row="1" Column="5">
+            <Classes value="Sword"/>
+            <Classes value="Legs"/>
+        </Slots>
+        <Slots Row="2" Column="1">
+            <Classes value="Sword"/>
+            <Classes value="Feet"/>
+        </Slots>
+        <Slots Row="2" Column="2">
+            <Classes value="Sword"/>
+            <Classes value="Head"/>
+        </Slots>
+        <Slots Row="2" Column="3">
+            <Classes value="Sword"/>
+        </Slots>
+        <Slots Row="2" Column="4">
+            <Classes value="Sword"/>
+            <Classes value="Head"/>
+        </Slots>
+        <Slots Row="2" Column="5">
+            <Classes value="Sword"/>
+            <Classes value="Feet"/>
+        </Slots>
+        <Slots Row="3" Column="1">
+            <Classes value="Sword"/>
+            <Classes value="Chest"/>
+        </Slots>
+        <Slots Row="3" Column="2">
+            <Classes value="Sword"/>
+        </Slots>
+        <Slots Row="3" Column="3">
+            <Classes value="Waist"/>
+        </Slots>
+        <Slots Row="3" Column="4">
+            <Classes value="Sword"/>
+        </Slots>
+        <Slots Row="3" Column="5">
+            <Classes value="Sword"/>
+            <Classes value="Chest"/>
+        </Slots>
+        <Slots Row="4" Column="1">
+            <Classes value="Sword"/>
+            <Classes value="Feet"/>
+        </Slots>
+        <Slots Row="4" Column="2">
+            <Classes value="Sword"/>
+            <Classes value="Head"/>
+        </Slots>
+        <Slots Row="4" Column="3">
+            <Classes value="Sword"/>
+        </Slots>
+        <Slots Row="4" Column="4">
+            <Classes value="Sword"/>
+            <Classes value="Head"/>
+        </Slots>
+        <Slots Row="4" Column="5">
+            <Classes value="Sword"/>
+            <Classes value="Feet"/>
+        </Slots>
+        <Slots Row="5" Column="1">
+            <Classes value="Sword"/>
+            <Classes value="Legs"/>
+        </Slots>
+        <Slots Row="5" Column="2">
+            <Classes value="Sword"/>
+            <Classes value="Feet"/>
+        </Slots>
+        <Slots Row="5" Column="3">
+            <Classes value="Sword"/>
+            <Classes value="Chest"/>
+        </Slots>
+        <Slots Row="5" Column="4">
+            <Classes value="Sword"/>
+            <Classes value="Feet"/>
+        </Slots>
+        <Slots Row="5" Column="5">
+            <Classes value="Sword"/>
+            <Classes value="Legs"/>
+        </Slots>
+        <Slots Row="6" Column="1">
+            <Classes value="Trinket"/>
+        </Slots>
+        <Slots Row="6" Column="2">
+            <Classes value="Trinket"/>
+        </Slots>
+        <Slots Row="6" Column="3">
+            <Classes value="Trinket"/>
+        </Slots>
+        <Slots Row="6" Column="4">
+            <Classes value="Trinket"/>
+        </Slots>
+        <Slots Row="6" Column="5">
+            <Classes value="Trinket"/>
+        </Slots>
+        <Slots Row="7" Column="0">
+            <Classes value="Back"/>
+        </Slots>
+        <Slots Row="7" Column="6">
+            <Classes value="Back"/>
+        </Slots>
+        <Model value="TerrazineFlashbackBorder"/>
+    </CItemContainer>
+</Catalog>

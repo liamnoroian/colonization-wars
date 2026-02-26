@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CItem id="Fleetmovedirection">
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Trinket"/>
+    </CItem>
+    <CItemEffectInstant id="EmpireHydra" parent="CONTAINER">
+        <Face value="EmpireHydra2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <CarryBehaviorArray value="2Supply"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+    </CItemEffectInstant>
+    <CItemEffectInstant id="EmpireVanguard" parent="CONTAINER">
+        <Face value="EmpireVanguard2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <CarryBehaviorArray value="4Supply"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+    </CItemEffectInstant>
+    <CItemEffectInstant id="EmpireHIRIHub" parent="CONTAINER">
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <CarryBehaviorArray value="2Supply"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+    </CItemEffectInstant>
+    <CItemEffectInstant id="EmpireDreadnought" parent="CONTAINER">
+        <Face value="EmpireDreadnought2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <CarryBehaviorArray value="8Supply"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+    </CItemEffectInstant>
+    <CItem id="FleetPositioning">
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Ring"/>
+    </CItem>
+    <CItemEffectInstant id="HiveHulk" parent="CONTAINER">
+        <Face value="HiveHulk2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <CarryBehaviorArray value="6Supply"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+    </CItemEffectInstant>
+    <CItemEffectInstant id="HiveScratcher" parent="CONTAINER">
+        <Face value="HiveScratcher2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <CarryBehaviorArray value="2Supply"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+    </CItemEffectInstant>
+    <CItemEffectInstant id="HiveStinger" parent="CONTAINER">
+        <Face value="HiveStinger2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <CarryBehaviorArray value="2Supply"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+    </CItemEffectInstant>
+    <CItemEffectInstant id="HiveMatriarch" parent="CONTAINER">
+        <Face value="HiveMatriarch2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <CarryBehaviorArray value="8Supply"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+    </CItemEffectInstant>
+    <CItemEffectInstant id="HontoraiPriest" parent="CONTAINER">
+        <Face value="HontoraiPriest2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <CarryBehaviorArray value="4Supply"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+    </CItemEffectInstant>
+    <CItemEffectInstant id="HontoraiFighter" parent="CONTAINER">
+        <Face value="HontoraiFighter2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <CarryBehaviorArray value="2Supply"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+    </CItemEffectInstant>
+    <CItemEffectInstant id="HontoraiBeamer" parent="CONTAINER">
+        <Face value="HontoraiBeamer2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <CarryBehaviorArray value="2Supply"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+    </CItemEffectInstant>
+    <CItemEffectInstant id="HiveAcidGlider" parent="CONTAINER">
+        <Face value="HiveAcidGlider2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <CarryBehaviorArray value="2Supply"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+    </CItemEffectInstant>
+    <CItemEffectInstant id="HontoraiShield" parent="CONTAINER">
+        <Face value="HontoraiShield2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <CarryBehaviorArray value="6Supply"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+    </CItemEffectInstant>
+    <CItemEffectInstant id="HontoraiObelisk" parent="CONTAINER">
+        <Face value="HontoraiObelisk2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <CarryBehaviorArray value="8Supply"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+    </CItemEffectInstant>
+    <CItemEffectInstant id="RebellionRaider" parent="CONTAINER">
+        <Face value="RebellionRaider2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <CarryBehaviorArray value="6Supply"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+    </CItemEffectInstant>
+    <CItemEffectInstant id="RebellionFighter" parent="CONTAINER">
+        <Face value="RebellionFighter2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <CarryBehaviorArray value="2Supply"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+    </CItemEffectInstant>
+    <CItemEffectInstant id="KingdomVindicator" parent="CONTAINER">
+        <Face value="KingdomVindicator2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+        <CarryBehaviorArray value="6Supply"/>
+    </CItemEffectInstant>
+    <CItemEffectInstant id="KingdomLancer" parent="CONTAINER">
+        <Face value="KingdomLancer2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+        <CarryBehaviorArray value="2Supply"/>
+    </CItemEffectInstant>
+    <CItemEffectInstant id="KingdomChaplain" parent="CONTAINER">
+        <Face value="KingdomChaplain2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+        <CarryBehaviorArray value="4Supply"/>
+    </CItemEffectInstant>
+    <CItemEffectInstant id="KingdomGuardian" parent="CONTAINER">
+        <Face value="KingdomGuardian2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+        <CarryBehaviorArray value="8Supply"/>
+    </CItemEffectInstant>
+    <CItemEffectInstant id="EmpireTitanDrill" parent="CONTAINER">
+        <Face value="EmpireTitanDrill2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <CarryBehaviorArray value="6Supply"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+    </CItemEffectInstant>
+    <CItem id="Rank1Requirement">
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Head"/>
+    </CItem>
+    <CItem id="FleetslotUpkeep">
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+    </CItem>
+    <CItem id="Rank2Requirement">
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Chest"/>
+    </CItem>
+    <CItem id="Rank3Requirement">
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Legs"/>
+    </CItem>
+    <CItem id="Rank4Requirement">
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Feet"/>
+    </CItem>
+    <CItemEffectInstant id="KingdomSentinel" parent="CONTAINER">
+        <Face value="KingdomSentinel2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <CarryBehaviorArray value="2Supply"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+    </CItemEffectInstant>
+    <CItemEffectInstant id="RebellionBombardier" parent="CONTAINER">
+        <Face value="RebellionBombardier2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <CarryBehaviorArray value="2Supply"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+    </CItemEffectInstant>
+    <CItemEffectInstant id="RebellionMarauder" parent="CONTAINER">
+        <Face value="RebellionMarauder2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <CarryBehaviorArray value="2Supply"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+    </CItemEffectInstant>
+    <CItemEffectInstant id="RebellionGunship" parent="CONTAINER">
+        <Face value="RebellionGunship2"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Sword"/>
+        <Container value="24SlotBag2"/>
+        <CarryBehaviorArray value="2Supply"/>
+        <Effect value="DummyHeal"/>
+        <EffectCost>
+            <Charge Link=""/>
+            <Cooldown Link="Item/ItemMedkit"/>
+        </EffectCost>
+        <EffectFlags index="Transient" value="1"/>
+    </CItemEffectInstant>
+    <CItem id="StargateRank1">
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Back"/>
+    </CItem>
+    <CItem id="StargatePositionKingdom">
+        <Face value="StargatePosition"/>
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Waist"/>
+    </CItem>
+    <CItem id="StargateRank0">
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Back"/>
+    </CItem>
+    <CItem id="StargateRank2">
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Back"/>
+    </CItem>
+    <CItem id="StargateRank3">
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Back"/>
+    </CItem>
+    <CItem id="StargateRank4">
+        <Flags index="CanDrop" value="0"/>
+        <Flags index="KillWhenDepleted" value="1"/>
+        <Class value="Back"/>
+    </CItem>
+</Catalog>
