@@ -717,7 +717,7 @@
         <GroupIcon>
             <Image value="Assets\Textures\Wireframe-Zerg-Overlord.dds"/>
         </GroupIcon>
-        <HeroIcon value="Assets\Textures\renee_war3_btncritterrabbit.dds"/>
+        <HeroIcon value="Assets\Textures\btn-ability-zerg-stukov-infeststructure.dds"/>
         <LifeArmorIcon value="Assets\Textures\btn-upgrade-zerg-flyercarapace-level0.dds"/>
         <NameOffset value="70"/>
         <ShieldArmorIcon value="Assets\Textures\btn-upgrade-zerg-swarmfrenzy.dds"/>
@@ -729,13 +729,13 @@
         <StatusColors index="Shields">
             <ColorArray index="0" value="255,0,128,0"/>
         </StatusColors>
-        <UnitIcon value="Assets\Textures\renee_war3_btncritterrabbit.dds"/>
+        <UnitIcon value="Assets\Textures\btn-ability-zerg-stukov-infeststructure.dds"/>
         <VitalColors index="Shields">
             <ColorArray value="255,0,128,0"/>
         </VitalColors>
         <VitalNames index="Shields" value="Vital/ZergShields"/>
         <Wireframe>
-            <Image value="Assets\Textures\renee_war3_btncritterrabbit.dds"/>
+            <Image value="Assets\Textures\btn-ability-zerg-stukov-infeststructure.dds"/>
         </Wireframe>
         <WireframeShieldColor value="255,0,128,0"/>
     </CActorUnit>
@@ -1034,7 +1034,7 @@
         <GroupIcon>
             <Image value="Assets\Textures\Wireframe-Zerg-Overlord.dds"/>
         </GroupIcon>
-        <HeroIcon value="Assets\Textures\renee_war3_btncritterrabbit.dds"/>
+        <HeroIcon value="Assets\Textures\btn-ability-zerg-stukov-infeststructure.dds"/>
         <LifeArmorIcon value="Assets\Textures\btn-upgrade-zerg-flyercarapace-level0.dds"/>
         <NameOffset value="70"/>
         <ShieldArmorIcon value="Assets\Textures\btn-upgrade-zerg-swarmfrenzy.dds"/>
@@ -1046,13 +1046,13 @@
         <StatusColors index="Shields">
             <ColorArray index="0" value="255,0,128,0"/>
         </StatusColors>
-        <UnitIcon value="Assets\Textures\war3_btnsnowowl.dds"/>
+        <UnitIcon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         <VitalColors index="Shields">
             <ColorArray value="255,0,128,0"/>
         </VitalColors>
         <VitalNames index="Shields" value="Vital/ZergShields"/>
         <Wireframe>
-            <Image value="Assets\Textures\war3_btnsnowowl.dds"/>
+            <Image value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         </Wireframe>
         <WireframeShieldColor value="255,0,128,0"/>
     </CActorUnit>
@@ -1112,7 +1112,7 @@
         <GroupIcon>
             <Image value="Assets\Textures\Wireframe-Zerg-Overlord.dds"/>
         </GroupIcon>
-        <HeroIcon value="Assets\Textures\renee_war3_btncritterrabbit.dds"/>
+        <HeroIcon value="Assets\Textures\btn-ability-zerg-stukov-infeststructure.dds"/>
         <LifeArmorIcon value="Assets\Textures\btn-upgrade-zerg-flyercarapace-level0.dds"/>
         <NameOffset value="70"/>
         <ShieldArmorIcon value="Assets\Textures\btn-upgrade-zerg-swarmfrenzy.dds"/>
@@ -1124,13 +1124,13 @@
         <StatusColors index="Shields">
             <ColorArray index="0" value="255,0,128,0"/>
         </StatusColors>
-        <UnitIcon value="Assets\Textures\renee_war3_btnsummonwaterelemental.dds"/>
+        <UnitIcon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         <VitalColors index="Shields">
             <ColorArray value="255,0,128,0"/>
         </VitalColors>
         <VitalNames index="Shields" value="Vital/ZergShields"/>
         <Wireframe>
-            <Image value="Assets\Textures\renee_war3_btncritterrabbit.dds"/>
+            <Image value="Assets\Textures\btn-ability-zerg-stukov-infeststructure.dds"/>
         </Wireframe>
         <WireframeShieldColor value="255,0,128,0"/>
     </CActorUnit>
@@ -1190,7 +1190,7 @@
         <GroupIcon>
             <Image value="Assets\Textures\Wireframe-Zerg-Overlord.dds"/>
         </GroupIcon>
-        <HeroIcon value="Assets\Textures\renee_war3_btncritterrabbit.dds"/>
+        <HeroIcon value="Assets\Textures\btn-ability-zerg-stukov-infeststructure.dds"/>
         <LifeArmorIcon value="Assets\Textures\btn-upgrade-zerg-flyercarapace-level0.dds"/>
         <NameOffset value="70"/>
         <ShieldArmorIcon value="Assets\Textures\btn-upgrade-zerg-swarmfrenzy.dds"/>
@@ -1208,7 +1208,7 @@
         </VitalColors>
         <VitalNames index="Shields" value="Vital/ZergShields"/>
         <Wireframe>
-            <Image value="Assets\Textures\renee_war3_btncritterrabbit.dds"/>
+            <Image value="Assets\Textures\btn-ability-zerg-stukov-infeststructure.dds"/>
         </Wireframe>
         <WireframeShieldColor value="255,0,128,0"/>
     </CActorUnit>
@@ -1268,7 +1268,7 @@
         <GroupIcon>
             <Image value="Assets\Textures\Wireframe-Zerg-Overlord.dds"/>
         </GroupIcon>
-        <HeroIcon value="Assets\Textures\renee_war3_btncritterrabbit.dds"/>
+        <HeroIcon value="Assets\Textures\btn-ability-zerg-stukov-infeststructure.dds"/>
         <LifeArmorIcon value="Assets\Textures\btn-upgrade-zerg-flyercarapace-level0.dds"/>
         <NameOffset value="70"/>
         <ShieldArmorIcon value="Assets\Textures\btn-upgrade-zerg-swarmfrenzy.dds"/>
@@ -1280,7 +1280,7 @@
         <StatusColors index="Shields">
             <ColorArray index="0" value="255,0,128,0"/>
         </StatusColors>
-        <UnitIcon value="Assets\Textures\war3_btnwolf.dds"/>
+        <UnitIcon value="Assets\Textures\btn-ability-zerg-stukov-infeststructure.dds"/>
         <VitalColors index="Shields">
             <ColorArray value="255,0,128,0"/>
         </VitalColors>
@@ -1350,7 +1350,7 @@
         <GroupIcon>
             <Image value="Assets\Textures\Wireframe-Zerg-Overlord.dds"/>
         </GroupIcon>
-        <HeroIcon value="Assets\Textures\renee_war3_btncritterrabbit.dds"/>
+        <HeroIcon value="Assets\Textures\btn-ability-zerg-stukov-infeststructure.dds"/>
         <LifeArmorIcon value="Assets\Textures\btn-upgrade-zerg-flyercarapace-level0.dds"/>
         <NameOffset value="70"/>
         <ShieldArmorIcon value="Assets\Textures\btn-upgrade-zerg-swarmfrenzy.dds"/>
@@ -1485,7 +1485,7 @@
         <GroupSoundArray index="Yes" value="Battlecruiser_GroupYes"/>
         <GroupSoundArray index="Attack" value="Battlecruiser_GroupAttack"/>
         <GroupSoundArray index="Board" value="Battlecruiser_GroupBoard"/>
-        <HeroIcon value="Assets\Textures\war3_btnsummonwaterelemental.dds"/>
+        <HeroIcon value="Assets\Textures\btn-ability-mengsk-ghost-staticempblast.dds"/>
         <HighlightTooltip value="Unit/Name/IcestarTitan2"/>
         <LifeArmorIcon value="Assets\Textures\btn-upgrade-terran-shipplatinglevel0.dds"/>
         <MinimapIcon value="Assets\Textures\ui_minimap_icon_avatarofessence.dds"/>
@@ -1512,7 +1512,7 @@
         <StatusBarOn index="Progress" value="1"/>
         <StatusBarOn index="Duration" value="1"/>
         <UnitFlags index="SuppressDefaultStatusBar" value="1"/>
-        <UnitIcon value="Assets\Textures\war3_btnsummonwaterelemental.dds"/>
+        <UnitIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <UnitKillRank Text="UnitRankname/Titan"/>
         <Wireframe>
             <Image value="Assets\Textures\wireframe-collection-taldarim-archon.dds"/>
@@ -2200,7 +2200,7 @@
         <GroupSoundArray index="Yes" value="Battlecruiser_GroupYes"/>
         <GroupSoundArray index="Attack" value="Battlecruiser_GroupAttack"/>
         <GroupSoundArray index="Board" value="Battlecruiser_GroupBoard"/>
-        <HeroIcon value="Assets\Textures\renee_war3_btnsummonwaterelemental.dds"/>
+        <HeroIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <LifeArmorIcon value="Assets\Textures\btn-upgrade-terran-shipplatinglevel0.dds"/>
         <MinimapIcon value="HeroMinimap.tga"/>
         <MinimapIconIsTeamColored value="1"/>
@@ -2213,7 +2213,7 @@
         <StatusBarOn index="Progress" value="1"/>
         <StatusBarOn index="Duration" value="1"/>
         <UnitFlags index="SuppressDefaultStatusBar" value="1"/>
-        <UnitIcon value="Assets\Textures\renee_war3_btnsummonwaterelemental.dds"/>
+        <UnitIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <UnitKillRank Text="UnitRankname/Corvette"/>
         <Wireframe>
             <Image value="Assets\Textures\wireframe-collection-purifier-observer.dds"/>
@@ -3525,7 +3525,7 @@
         <GroupIcon>
             <Image value="Assets\Textures\wireframe-general-mineralshield.dds"/>
         </GroupIcon>
-        <HeroIcon value="Assets\Textures\war3_btnwisp.dds"/>
+        <HeroIcon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         <LifeArmorIcon value="Assets\Textures\btn-upgrade-terran-shipplatinglevel0.dds"/>
         <SoundArray index="Birth" value="KingdomLAW_Birth"/>
         <SoundArray index="Ready" value="HontoraiConstructionDroneWhat"/>
@@ -3568,7 +3568,7 @@
         <StatusColors index="Magazine" BackgroundColor="0,0,0,0" EmptyColor="0,0,0,0">
             <ColorArray index="0" removed="1"/>
         </StatusColors>
-        <UnitIcon value="Assets\Textures\war3_btnwisp.dds"/>
+        <UnitIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <UnitKillRank Text="UnitRankname/HontoraiConstructionDrone"/>
         <Wireframe>
             <Image value="Assets\Textures\wireframe-general-mineralshield.dds"/>
@@ -5080,7 +5080,7 @@
         <GroupIcon>
             <Image index="0" value="Assets\Textures\wireframe-collection-taldarim-archon.dds"/>
         </GroupIcon>
-        <HeroIcon value="Assets\Textures\war3_btnsummonwaterelemental.dds"/>
+        <HeroIcon value="Assets\Textures\btn-ability-mengsk-ghost-staticempblast.dds"/>
         <HighlightTooltip value="Unit/Name/IcestarTitan"/>
         <MinimapIcon value="Assets\Textures\ui_minimap_icon_avatarofessence.dds"/>
         <MinimapIconScale value="1.150000"/>
@@ -5105,7 +5105,7 @@
         <StatusBarOn index="Progress" value="1"/>
         <StatusBarOn index="Duration" value="1"/>
         <UnitFlags index="SuppressDefaultStatusBar" value="1"/>
-        <UnitIcon value="Assets\Textures\war3_btnsummonwaterelemental.dds"/>
+        <UnitIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <UnitKillRank Text="UnitRankname/Titan"/>
         <Wireframe>
             <Image index="0" value="Assets\Textures\wireframe-collection-taldarim-archon.dds"/>

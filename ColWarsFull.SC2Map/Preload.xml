@@ -2,7 +2,7 @@
 <Preload>
 <Asset path="self made\self made\citylevel1.dds" Type="Image"/>
 <Asset path="self made\self made\selection screen\faction_random.tga" Type="Image"/>
-<Asset path="assets\textures\war3_btnstormhammer.dds" Type="Image"/>
+<Asset path="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds" Type="Image"/>
 <Asset path="assets\textures\btn-ability-zeratul-avatarofform-psionicgale.dds" Type="Image"/>
 <Asset path="self made\self made\selection screen\subfaction_hive_artifex.tga" Type="Image"/>
 <Asset path="self made\self made\researchtime.dds" Type="Image"/>

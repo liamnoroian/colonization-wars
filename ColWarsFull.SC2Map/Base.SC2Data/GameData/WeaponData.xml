@@ -34,7 +34,7 @@
     </CWeaponLegacy>
     <CWeaponLegacy id="Claws">
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <MinScanRange value="13"/>
         <Range value="0.8"/>
@@ -135,7 +135,7 @@
     <CWeaponLegacy id="IceBlast2">
         <EditorCategories value="Race:Terran"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\war3_btnfrostbolt.dds"/>
+        <Icon value="Assets\Textures\btn-ability-mengsk-ghost-staticempblast.dds"/>
         <DisplayEffect value="IcestarTitanDamage2"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <AcquirePrioritization value="ByAngle"/>
@@ -150,7 +150,7 @@
     <CWeaponLegacy id="IcestarProjection">
         <EditorCategories value="Race:Terran"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnfrostbolt.dds"/>
+        <Icon value="Assets\Textures\btn-ability-mengsk-ghost-staticempblast.dds"/>
         <DisplayEffect value="IcestarAvatarDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <AcquirePrioritization value="ByAngle"/>
@@ -224,7 +224,7 @@
     </CWeaponLegacy>
     <CWeaponLegacy id="LiberatorMissileLaunchers">
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <MinScanRange value="13"/>
         <Range value="4"/>
         <Period value="3"/>
@@ -256,7 +256,7 @@
         <EditorCategories value="Race:Protoss"/>
         <Options index="DisplayCooldown" value="1"/>
         <Options index="NeverMiss" value="0"/>
-        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="KingdomSentineldamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <MinScanRange value="13"/>
@@ -297,7 +297,7 @@
         <EditorCategories value="Race:Terran"/>
         <Options index="Hidden" value="1"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btncritterrabbit.dds"/>
+        <Icon value="Assets\Textures\btn-ability-zerg-stukov-infeststructure.dds"/>
         <TargetFilters value="Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <AcquirePrioritization value="ByAngle"/>
         <MinScanRange value="15"/>
@@ -313,7 +313,7 @@
         <EditorCategories value="Race:Zerg"/>
         <Options index="Melee" value="1"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="HiveHulkDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <Range value="0.8"/>
@@ -360,7 +360,7 @@
         <EditorCategories value="Race:Terran"/>
         <Options index="Hidden" value="1"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btncritterrabbit.dds"/>
+        <Icon value="Assets\Textures\btn-ability-zerg-stukov-infeststructure.dds"/>
         <TargetFilters value="Massive,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <AcquirePrioritization value="ByAngle"/>
         <Range value="1"/>
@@ -414,7 +414,7 @@
         <EditorCategories value="Race:Terran"/>
         <Options index="LinkedCooldown" value="0"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="HiveMatriarchDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <AcquirePrioritization value="ByAngle"/>
@@ -472,7 +472,7 @@
     <CWeaponLegacy id="StingerSpine">
         <EditorCategories value="Race:Terran"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnsteelranged.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="HiveStingerDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <AcquirePrioritization value="ByAngle"/>
@@ -505,7 +505,7 @@
     <CWeaponLegacy id="IceBlast">
         <EditorCategories value="Race:Terran"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\war3_btnfrostbolt.dds"/>
+        <Icon value="Assets\Textures\btn-ability-mengsk-ghost-staticempblast.dds"/>
         <DisplayEffect value="IcestarTitanDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <AcquirePrioritization value="ByAngle"/>
@@ -520,7 +520,7 @@
     <CWeaponLegacy id="AcidBile">
         <EditorCategories value="Race:Terran"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnhumanmissileupone.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="AcidGliderDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <AcquirePrioritization value="ByAngle"/>
@@ -563,7 +563,7 @@
     <CWeaponLegacy id="LancerBeam">
         <EditorCategories value="Race:Protoss"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnsteelranged.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="LancerBeamDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <MinScanRange value="13"/>
@@ -668,7 +668,7 @@
     <CWeaponLegacy id="HeavyGun">
         <EditorCategories value="Race:Terran"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="RebellionGunshipDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <AcquirePrioritization value="ByAngle"/>
@@ -700,7 +700,7 @@
         <EditorCategories value="Race:Terran"/>
         <Options index="LinkedCooldown" value="0"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnsteelranged.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="RebellionRaiderDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <AcquirePrioritization value="ByAngle"/>
@@ -785,7 +785,7 @@
     <CWeaponLegacy id="RocketLauncer">
         <EditorCategories value="Race:Protoss"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnhumanmissileupone.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="RebellionMarauderDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <MinScanRange value="13"/>
@@ -827,7 +827,7 @@
     <CWeaponLegacy id="CrystalBeam">
         <EditorCategories value="Race:Protoss"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnsteelranged.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="CrystalBeamDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <MinScanRange value="13"/>
@@ -856,7 +856,7 @@
     <CWeaponLegacy id="CreationBolt">
         <EditorCategories value="Race:Terran"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\war3_btnmanaflare.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         <DisplayEffect value="ThorgasDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <AcquirePrioritization value="ByAngle"/>
@@ -871,7 +871,7 @@
     <CWeaponStrafe id="Rocket">
         <EditorCategories value="Race:Terran"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnhumanmissileupone.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="RebellionFighterDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <MinScanRange value="13"/>
@@ -970,7 +970,7 @@
     <CWeaponLegacy id="CrackerRocket">
         <EditorCategories value="Race:Terran"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="RebellionBombardierDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <AcquirePrioritization value="ByAngle"/>
@@ -985,7 +985,7 @@
     </CWeaponLegacy>
     <CWeaponLegacy id="VoidRayChargeBeamBounce">
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnsteelranged.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="EmpireTitanDamageDummy"/>
         <MinScanRange value="13"/>
         <Range value="4"/>
@@ -1000,7 +1000,7 @@
     <CWeaponLegacy id="VolatileBlaster">
         <EditorCategories value="Race:Terran"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\war3_btnfireforthecannon.dds"/>
+        <Icon value="Assets\Textures\btn-ability-hornerhan-hellbat-dot.dds"/>
         <DisplayEffect value="MehridaDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <AcquirePrioritization value="ByAngle"/>
@@ -1033,7 +1033,7 @@
     <CWeaponLegacy id="EnergizedBlaster">
         <EditorCategories value="Race:Terran"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\war3_btnmanaflareoff.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         <DisplayEffect value="AklahDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <AcquirePrioritization value="ByAngle"/>
@@ -1071,7 +1071,7 @@
     <CWeaponLegacy id="FormationBeam">
         <EditorCategories value="Race:Protoss"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\war3_btnadvancedenergytower.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
         <DisplayEffect value="FormationBeamDamage"/>
         <TargetFilters value="Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <MinScanRange value="18"/>
@@ -1133,7 +1133,7 @@
     <CWeaponLegacy id="CrystallicBlaster">
         <EditorCategories value="Race:Terran"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="HontoraiPriestDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <AcquirePrioritization value="ByAngle"/>
@@ -1149,7 +1149,7 @@
     <CWeaponLegacy id="CrystalizationBlast">
         <EditorCategories value="Race:Terran"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnhumanmissileupone.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="HontoraiObeliskDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <AcquirePrioritization value="ByAngle"/>
@@ -1262,7 +1262,7 @@
         <EditorCategories value="Race:Terran"/>
         <Options index="LinkedCooldown" value="0"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnhumanmissileupone.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="EmpireDreadnoughtDamage2"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <AcquirePrioritization value="ByAngle"/>
@@ -1350,7 +1350,7 @@
         <EditorCategories value="Race:Terran"/>
         <Options index="LinkedCooldown" value="0"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="EmpireDreadnoughtDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <AcquirePrioritization value="ByAngle"/>
@@ -1380,7 +1380,7 @@
     <CWeaponLegacy id="HydraRockets">
         <EditorCategories value="Race:Protoss"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnhumanmissileupone.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="EmpireHydradamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <MinScanRange value="13"/>
@@ -1409,7 +1409,7 @@
     <CWeaponLegacy id="CrystalBolt">
         <EditorCategories value="Race:Terran"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="HontoraiFighterDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <MinScanRange value="13"/>
@@ -1447,7 +1447,7 @@
     <CWeaponLegacy id="Blaster">
         <EditorCategories value="Race:Terran"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="EmpireVanguarddamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <MinScanRange value="13"/>
@@ -1528,7 +1528,7 @@
     <CWeaponLegacy id="LaserBattery">
         <EditorCategories value="Race:Terran"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="KingdomGuardianDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <AcquirePrioritization value="ByAngle"/>
@@ -1565,7 +1565,7 @@
     <CWeaponLegacy id="VindicationMissile">
         <EditorCategories value="Race:Terran"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnhumanmissileupone.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="VindicatorMissileDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <AcquirePrioritization value="ByAngle"/>
@@ -1605,7 +1605,7 @@
     <CWeaponLegacy id="LaserTurret">
         <EditorCategories value="Race:Terran"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="HiriHubDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <AcquirePrioritization value="ByAngle"/>
@@ -1621,7 +1621,7 @@
     <CWeaponLegacy id="HontoraiLaser">
         <EditorCategories value="Race:Terran"/>
         <Options index="DisplayCooldown" value="1"/>
-        <Icon value="Assets\Textures\renee_war3_btnhammer.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <DisplayEffect value="HontoraiShieldDamage"/>
         <TargetFilters value="Air,Visible;Missile,Stasis,Dead,Hidden,Invulnerable"/>
         <AcquirePrioritization value="ByAngle"/>

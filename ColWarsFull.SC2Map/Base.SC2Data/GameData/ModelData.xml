@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Catalog>
     <CModel id="Rend" parent="PersistentSpellFX">
-        <Model value="Assets\Environment\War3_ElfSmallBuildingFire\War3_ElfSmallBuildingFire_02.m3"/>
+        <Model value="Assets\Buildings\Protoss\Stargate\Stargate.m3"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="1.750000,1.750000,1.350000"/>
         <ScaleMin value="1.750000,1.750000,1.350000"/>
@@ -34,7 +34,7 @@
         <SquibTypeDefault value="Metal"/>
     </CModel>
     <CModel id="GreatMonument2" parent="BattlecruiserBase">
-        <Model value="Assets\Units\NightElf\War3_Wisp\War3_Wisp.m3"/>
+        <Model value="Assets\COOP\Zeratul\Units\Construct_Form_Zeratul_COOP\Construct_Form_Zeratul_COOP.m3"/>
         <AnimSpeed value="0.500000"/>
         <AttachProps index="0" Id="Ref_Center" SquibType="Shield" RadiusShield="1.600000">
             <Keys index="SetA" value="-128"/>
@@ -103,13 +103,13 @@
         <ScaleMin value="1.050000,1.050000,1.050000"/>
     </CModel>
     <CModel id="EmperorSynapse" parent="PersistentSpellFX">
-        <Model value="Assets\Abilities\Spells\Orc\War3_CommandAuraTarget\War3_CommandAuraTarget.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="1.250000,1.250000,0.800000"/>
         <ScaleMin value="1.250000,1.250000,0.800000"/>
     </CModel>
     <CModel id="DebilitatingSwarm" parent="PersistentSpellFX">
-        <Model value="Assets\Abilities\Spells\Undead\War3_ObsidianRegenAura\War3_ObsidianRegenAura.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <AnimSpeed value="0.750000"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="0.800000,0.800000,1.000000"/>
@@ -123,7 +123,7 @@
         <ScaleMin value="1.000000,1.000000,0.250000"/>
     </CModel>
     <CModel id="VampiricAcid" parent="MissileFX">
-        <Model value="Assets\Abilities\Weapons\War3_SeaElementalMissile\War3_SeaElementalMissile.m3"/>
+        <Model value="Assets\Effects\Protoss\Adept_Missile\Adept_Missile.m3"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="1.500000,1.500000,1.500000"/>
         <ScaleMin value="1.500000,1.500000,1.500000"/>
@@ -167,7 +167,7 @@
         <ScaleMin value="0.550000,0.550000,0.550000"/>
     </CModel>
     <CModel id="AsteroidBelt" parent="BattlecruiserBase">
-        <Model value="Assets\Abilities\Weapons\War3_RockBoltMissile\War3_RockBoltMissile.m3"/>
+        <Model value="Assets\Effects\Protoss\Adept_Missile\Adept_Missile.m3"/>
         <AttachProps index="0" removed="1"/>
         <AttachProps index="1" removed="1"/>
         <AttachProps index="2" removed="1"/>
@@ -252,7 +252,7 @@
         <Lighting value="TalDarim_TempestPortrait"/>
     </CModel>
     <CModel id="CrescereWeaponMissile" parent="MissileFX">
-        <Model value="Assets\Abilities\Weapons\War3_SludgeMissile\War3_SludgeMissile.m3"/>
+        <Model value="Assets\Effects\Protoss\Adept_Missile\Adept_Missile.m3"/>
         <EditorCategories value="Race:Terran"/>
         <ScaleMax value="1.050000,1.050000,1.050000"/>
         <ScaleMin value="1.050000,1.050000,1.050000"/>
@@ -288,14 +288,14 @@
         <EditorCategories value="Race:Protoss"/>
     </CModel>
     <CModel id="CuriousBunny" parent="OverlordBase">
-        <Model value="Assets\Units\Critters\War3_EasterRabbit\War3_EasterRabbit.m3"/>
+        <Model value="Assets\COOP\Zeratul\Units\Construct_Form_Zeratul_COOP\Construct_Form_Zeratul_COOP.m3"/>
         <ScaleMax value="1.100000,1.100000,1.100000"/>
         <ScaleMin value="1.100000,1.100000,1.100000"/>
         <SelectionRadius value="0.500000"/>
     </CModel>
     <CModel id="CuriousBunny2" parent="OverlordPortraitBase">
-        <Model value="Assets\Units\Critters\War3_EasterRabbit\War3_EasterRabbit.m3"/>
-        <Image value="Assets\Textures\renee_war3_btncritterrabbit.dds"/>
+        <Model value="Assets\COOP\Zeratul\Units\Construct_Form_Zeratul_COOP\Construct_Form_Zeratul_COOP.m3"/>
+        <Image value="Assets\Textures\btn-ability-zerg-stukov-infeststructure.dds"/>
         <Lighting value="OverlordPortrait"/>
     </CModel>
     <CModel id="Frenzy" parent="PersistentSpellFX">
@@ -313,7 +313,7 @@
         <ScaleMin value="1.100000,1.100000,1.100000"/>
     </CModel>
     <CModel id="PsionicBlast" parent="MissileFX">
-        <Model value="Assets\Abilities\Spells\Undead\War3_OrbOfDeathMissile\War3_OrbOfDeathMissile.m3"/>
+        <Model value="Assets\Effects\Protoss\Adept_Missile\Adept_Missile.m3"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="1.500000,1.500000,1.500000"/>
         <ScaleMin value="1.500000,1.500000,1.500000"/>
@@ -386,18 +386,18 @@
         <ScaleMin value="1.250000,1.400000,1.250000"/>
     </CModel>
     <CModel id="WatchfulOwl2" parent="OverlordPortraitBase">
-        <Model value="Assets\Units\Critters\War3_SnowOwl\War3_SnowOwl.m3"/>
-        <Image value="Assets\Textures\renee_war3_btnsnowowl.dds"/>
+        <Model value="Assets\COOP\Zeratul\Units\Construct_Form_Zeratul_COOP\Construct_Form_Zeratul_COOP.m3"/>
+        <Image value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <Lighting value="OverlordPortrait"/>
     </CModel>
     <CModel id="WatchfulOwl" parent="OverlordBase">
-        <Model value="Assets\Units\Critters\War3_SnowOwl\War3_SnowOwl.m3"/>
+        <Model value="Assets\COOP\Zeratul\Units\Construct_Form_Zeratul_COOP\Construct_Form_Zeratul_COOP.m3"/>
         <ScaleMax value="1.100000,1.100000,1.100000"/>
         <ScaleMin value="1.100000,1.100000,1.100000"/>
         <SelectionRadius value="0.500000"/>
     </CModel>
     <CModel id="IcestarTitanBaby" parent="OverlordBase">
-        <Model value="Assets\Units\Human\War3HD_WaterElemental\War3HD_WaterElemental.m3"/>
+        <Model value="Assets\COOP\Zeratul\Units\Construct_Form_Zeratul_COOP\Construct_Form_Zeratul_COOP.m3"/>
         <ScaleMax value="1.100000,1.100000,1.100000"/>
         <ScaleMin value="1.100000,1.100000,1.100000"/>
         <SelectionRadius value="0.500000"/>
@@ -410,7 +410,7 @@
     </CModel>
     <CModel id="PlayfulDog2" parent="OverlordPortraitBase">
         <Model value="Assets\Units\Critters\Dog\Dog_01.m3"/>
-        <Image value="Assets\Textures\war3_btnwolf.dds"/>
+        <Image value="Assets\Textures\btn-ability-zerg-stukov-infeststructure.dds"/>
         <Lighting value="OverlordPortrait"/>
     </CModel>
     <CModel id="PlayfulDog" parent="OverlordBase">
@@ -431,7 +431,7 @@
         <SelectionRadius value="0.500000"/>
     </CModel>
     <CModel id="Templify" parent="BuffFX">
-        <Model value="Assets\Doodads\Icecrown\Rocks\War3_Icecrown_Crystal\War3_Icecrown_Crystal_07.m3"/>
+        <Model value="Assets\Doodads\CrystalsSmall01\CrystalsSmall01.m3"/>
         <EditorCategories value="Race:Neutral"/>
         <ScaleMax value="1.600000,1.600000,1.700000"/>
         <ScaleMin value="1.600000,1.600000,1.700000"/>
@@ -530,13 +530,13 @@
         <ScaleMin value="3.000000,3.000000,1.500000"/>
     </CModel>
     <CModel id="IcestarTitanMissile2" parent="MissileFX">
-        <Model value="Assets\Abilities\Weapons\War3_FrostWyrmMissile\War3_FrostWyrmMissile.m3"/>
+        <Model value="Assets\Effects\Protoss\Adept_Missile\Adept_Missile.m3"/>
         <EditorCategories value="Race:Terran"/>
         <ScaleMax value="1.900000,1.900000,1.900000"/>
         <ScaleMin value="1.900000,1.900000,1.900000"/>
     </CModel>
     <CModel id="IcestarTitanPortrait2" parent="BattlecruiserPortraitBase">
-        <Model value="Assets\Units\Human\War3HD_WaterElemental_Portrait\War3HD_WaterElemental_Portrait.m3"/>
+        <Model value="Assets\COOP\Zeratul\Portraits\Construct_Form_Zeratul_COOP_Portrait\Construct_Form_Zeratul_COOP_Portrait.m3"/>
         <Image value="Assets\Textures\xelnagaconstructsentinelportrait_static.dds"/>
         <Lighting value="IceWorld"/>
     </CModel>
@@ -568,7 +568,7 @@
         <ScaleMin value="5.700000,5.700000,3.200000"/>
     </CModel>
     <CModel id="ReformationAura" parent="PersistentSpellFX">
-        <Model value="Assets\Abilities\Spells\Other\War3_GeneralAuraTarget\War3_GeneralAuraTarget.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <AnimSpeed value="0.800000"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="3.000000,3.000000,0.100000"/>
@@ -796,7 +796,7 @@
         <ScaleMin value="1.000000,1.000000,0.010000"/>
     </CModel>
     <CModel id="Avatarbuff2" parent="PersistentSpellFX">
-        <Model value="Assets\Abilities\Spells\Human\War3_CloudOfFog\War3_CloudOfFog.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <AnimSpeed value="0.700000"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="0.850000,0.850000,0.100000"/>
@@ -860,7 +860,7 @@
         <ScaleMin value="1.000000,1.000000,0.100000"/>
     </CModel>
     <CModel id="IcestarAvatar" parent="BattlecruiserBase">
-        <Model value="Assets\Units\Human\War3HD_WaterElemental\War3HD_WaterElemental.m3"/>
+        <Model value="Assets\COOP\Zeratul\Units\Construct_Form_Zeratul_COOP\Construct_Form_Zeratul_COOP.m3"/>
         <AttachProps index="0" Id="Ref_Center" SquibType="Shield" RadiusShield="1.700000">
             <Keys index="SetA" value="-128"/>
         </AttachProps>
@@ -883,7 +883,7 @@
         <ScaleMin value="0.500000,0.500000,0.750000"/>
     </CModel>
     <CModel id="IcestarAvatarmissile" parent="MissileFX">
-        <Model value="Assets\Abilities\Weapons\War3_ZigguratFrostMissile\War3_ZigguratFrostMissile.m3"/>
+        <Model value="Assets\Effects\Protoss\Adept_Missile\Adept_Missile.m3"/>
         <EditorCategories value="Race:Terran"/>
         <ScaleMax value="1.200000,1.200000,1.200000"/>
         <ScaleMin value="1.200000,1.200000,1.200000"/>
@@ -933,7 +933,7 @@
         <ScaleMin value="2.300000,2.300000,0.020000"/>
     </CModel>
     <CModel id="GravitationalAnomaliesbuff1" parent="PersistentSpellFX">
-        <Model value="Assets\Abilities\Spells\Undead\War3_PossessionCaster\War3_PossessionCaster.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="5.200000,5.200000,1.000000"/>
         <ScaleMin value="5.200000,5.200000,1.000000"/>
@@ -951,7 +951,7 @@
         <ScaleMin value="17.000000,17.000000,17.000000"/>
     </CModel>
     <CModel id="GravitationalAnomaliesbuff2" parent="PersistentSpellFX">
-        <Model value="Assets\Abilities\Spells\Undead\War3_PossessionTarget\War3_PossessionTarget.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="9.400000,9.400000,1.000000"/>
         <ScaleMin value="9.400000,9.400000,1.000000"/>
@@ -994,7 +994,7 @@
         <ScaleMin value="0.240000,0.240000,0.000500"/>
     </CModel>
     <CModel id="FaithsRewardshield" parent="BuffFX">
-        <Model value="Assets\Abilities\Spells\Human\War3_DivineShieldTarget\War3_DivineShieldTarget.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <AnimSpeed value="0.770000"/>
         <EditorCategories value="Race:Neutral"/>
         <ScaleMax value="3.250000,3.250000,1.250000"/>
@@ -1036,7 +1036,7 @@
         <ScaleMin value="1.000000,1.100000,1.000000"/>
     </CModel>
     <CModel id="OutpostVulnerable" parent="PersistentSpellFX">
-        <Model value="Assets\Abilities\Spells\Undead\War3_CrippleTarget\War3_CrippleTarget.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <AnimSpeed value="0.800000"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="2.400000,2.400000,0.900000"/>
@@ -1057,7 +1057,7 @@
         <ScaleMin value="0.940000,0.940000,1.400000"/>
     </CModel>
     <CModel id="DevotionAura" parent="PersistentSpellFX">
-        <Model value="Assets\Abilities\Spells\Human\War3_DevotionAura\War3_DevotionAura.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <AnimSpeed value="0.800000"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="2.250000,2.250000,0.100000"/>
@@ -1248,7 +1248,7 @@
         <SelectionRadius value="2.000000"/>
     </CModel>
     <CModel id="RebellionSputnikaura" parent="PersistentSpellFX">
-        <Model value="Assets\Abilities\Spells\Orc\War3_DrumsCasterHeal\War3_DrumsCasterHeal.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="2.000000,2.000000,1.000000"/>
         <ScaleMin value="2.000000,2.000000,1.000000"/>
@@ -1332,7 +1332,7 @@
         <ScaleMin value="0.800000,0.800000,0.800000"/>
     </CModel>
     <CModel id="HontoraiShrineAddon1" parent="Doodad">
-        <Model value="Assets\Buildings\Other\War3_FountainOfHealth\War3_FountainOfHealth.m3"/>
+        <Model value="Assets\Buildings\Protoss\Stargate\Stargate.m3"/>
         <ScaleMax value="0.580000,0.580000,0.780000"/>
         <ScaleMin value="0.580000,0.580000,0.780000"/>
         <SelectionRadius value="2.000000"/>
@@ -1429,7 +1429,7 @@
         <ScaleMin value="1.150000,1.150000,1.000000"/>
     </CModel>
     <CModel id="RebellionMortarsiegeMissile" parent="MissileFX">
-        <Model value="Assets\Abilities\Weapons\War3_MortarMissile\War3_MortarMissile.m3"/>
+        <Model value="Assets\Effects\Protoss\Adept_Missile\Adept_Missile.m3"/>
         <EditorCategories value="Race:Terran"/>
         <ScaleMax value="1.050000,1.050000,1.050000"/>
         <ScaleMin value="1.040000,1.040000,1.040000"/>
@@ -1507,7 +1507,7 @@
         <ScaleMin value="0.600000,0.600000,0.600000"/>
     </CModel>
     <CModel id="HontoraiConstructionDrone" parent="SCVBase">
-        <Model value="Assets\Units\NightElf\War3_Wisp\War3_Wisp.m3"/>
+        <Model value="Assets\COOP\Zeratul\Units\Construct_Form_Zeratul_COOP\Construct_Form_Zeratul_COOP.m3"/>
         <AttachProps index="0" Id="Ref_Center" SquibType="Shield" RadiusShield="1.200000">
             <Keys index="Work" value="0"/>
         </AttachProps>
@@ -1645,7 +1645,7 @@
         <ScaleMin value="0.150000,0.150000,0.250000"/>
     </CModel>
     <CModel id="HiveDroneMissile" parent="MissileFX">
-        <Model value="Assets\Abilities\Weapons\War3_ChimaeraAcidMissile\War3_ChimaeraAcidMissile.m3"/>
+        <Model value="Assets\Effects\Protoss\Adept_Missile\Adept_Missile.m3"/>
         <EditorCategories value="Race:Terran"/>
         <ScaleMax value="0.320000,0.320000,0.320000"/>
         <ScaleMin value="0.320000,0.320000,0.320000"/>
@@ -1779,7 +1779,7 @@
         <ScaleMin value="4.500000,4.500000,4.200000"/>
     </CModel>
     <CModel id="IceComet" parent="MissileFX">
-        <Model value="Assets\Abilities\Spells\Other\War3_FrostBoltMissile\War3_FrostBoltMissile.m3"/>
+        <Model value="Assets\Effects\Protoss\Adept_Missile\Adept_Missile.m3"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="5.500000,5.500000,5.500000"/>
         <ScaleMin value="5.500000,5.500000,5.500000"/>
@@ -1911,7 +1911,7 @@
         <SelectionRadius value="0.100000"/>
     </CModel>
     <CModel id="GoldenHeart" parent="BuffFX">
-        <Model value="Assets\Abilities\Spells\Undead\War3_ReplenishHealthCaster\War3_ReplenishHealthCaster.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <AnimSpeed value="0.900000"/>
         <EditorCategories value="Race:Neutral"/>
         <ScaleMax value="10.000000,10.000000,3.000000"/>
@@ -2044,7 +2044,7 @@
         <ScaleMin value="0.900000,0.900000,0.850000"/>
     </CModel>
     <CModel id="IcestarTitan" parent="BattlecruiserBase">
-        <Model value="Assets\Units\Human\War3HD_WaterElemental\War3HD_WaterElemental.m3"/>
+        <Model value="Assets\COOP\Zeratul\Units\Construct_Form_Zeratul_COOP\Construct_Form_Zeratul_COOP.m3"/>
         <AnimSpeed value="0.850000"/>
         <AttachProps index="0" Id="Ref_Center" SquibType="Shield" RadiusShield="1.350000">
             <Keys index="SetA" value="-128"/>
@@ -2068,13 +2068,13 @@
         <ScaleMin value="3.000000,3.000000,1.500000"/>
     </CModel>
     <CModel id="IcestarTitanMissile" parent="MissileFX">
-        <Model value="Assets\Abilities\Weapons\War3_FrostWyrmMissile\War3_FrostWyrmMissile.m3"/>
+        <Model value="Assets\Effects\Protoss\Adept_Missile\Adept_Missile.m3"/>
         <EditorCategories value="Race:Terran"/>
         <ScaleMax value="1.900000,1.900000,1.900000"/>
         <ScaleMin value="1.900000,1.900000,1.900000"/>
     </CModel>
     <CModel id="IcestarTitanPortrait" parent="BattlecruiserPortraitBase">
-        <Model value="Assets\Units\Human\War3HD_WaterElemental_Portrait\War3HD_WaterElemental_Portrait.m3"/>
+        <Model value="Assets\COOP\Zeratul\Portraits\Construct_Form_Zeratul_COOP_Portrait\Construct_Form_Zeratul_COOP_Portrait.m3"/>
         <Image value="Assets\Textures\xelnagaconstructsentinelportrait_static.dds"/>
         <Lighting value="IceWorld"/>
     </CModel>
@@ -2231,7 +2231,7 @@
         <ScaleMin value="0.350000,0.350000,0.350000"/>
     </CModel>
     <CModel id="InsideJob" parent="PersistentSpellFX">
-        <Model value="Assets\Abilities\Spells\Other\War3_IncinerateBuff\War3_IncinerateBuff.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="4.000000,4.000000,4.000000"/>
         <ScaleMin value="4.000000,4.000000,4.000000"/>
@@ -2250,7 +2250,7 @@
         <ScaleMin value="1.300000,1.300000,1.250000"/>
     </CModel>
     <CModel id="BattlefieldExperience" parent="PersistentSpellFX">
-        <Model value="Assets\Abilities\Spells\Orc\War3_CommandAura\War3_CommandAura.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="1.200000,1.200000,1.000000"/>
         <ScaleMin value="1.200000,1.200000,1.000000"/>
@@ -2345,7 +2345,7 @@
         <SelectionRadius value="0.100000"/>
     </CModel>
     <CModel id="HackTransfer" parent="BuffFX">
-        <Model value="Assets\Abilities\Spells\Orc\War3_LightningShieldBuff\War3_LightningShieldBuff.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <EditorCategories value="Race:Neutral"/>
         <ScaleMax value="2.000000,2.000000,2.000000"/>
         <ScaleMin value="2.000000,2.000000,2.000000"/>
@@ -2543,7 +2543,7 @@
         <ScaleMin value="0.850000,0.850000,0.850000"/>
     </CModel>
     <CModel id="Shutdown" parent="BuffFX">
-        <Model value="Assets\Abilities\Spells\Orc\War3_LightningShieldTarget\War3_LightningShieldTarget.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <EditorCategories value="Race:Neutral"/>
         <ScaleMax value="2.050000,2.050000,1.200000"/>
         <ScaleMin value="2.050000,2.050000,1.200000"/>
@@ -2872,7 +2872,7 @@
         <SelectionRadius value="0.100000"/>
     </CModel>
     <CModel id="AuraofCause" parent="PersistentSpellFX">
-        <Model value="Assets\Abilities\Spells\Other\War3_ManaDrainCaster\War3_ManaDrainCaster.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <AnimSpeed value="0.500000"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="1.100000,1.100000,1.050000"/>
@@ -2945,7 +2945,7 @@
         <ScaleMin value="1.500000,1.500000,1.500000"/>
     </CModel>
     <CModel id="CrystalMeteorMissile" parent="MissileFX">
-        <Model value="Assets\Abilities\Spells\Other\War3_FrostBoltMissile\War3_FrostBoltMissile.m3"/>
+        <Model value="Assets\Effects\Protoss\Adept_Missile\Adept_Missile.m3"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="1.500000,1.500000,1.500000"/>
         <ScaleMin value="1.500000,1.500000,1.500000"/>
@@ -3295,7 +3295,7 @@
         <Lighting value="MedivacPortrait"/>
     </CModel>
     <CModel id="RebellionBombardierMissile" parent="MissileFX">
-        <Model value="Assets\Abilities\Weapons\War3_ScatterShotMissile\War3_ScatterShotMissile.m3"/>
+        <Model value="Assets\Effects\Protoss\Adept_Missile\Adept_Missile.m3"/>
         <EditorCategories value="Race:Terran"/>
         <ScaleMax value="0.900000,0.900000,0.900000"/>
         <ScaleMin value="0.900000,0.900000,0.900000"/>
@@ -3313,7 +3313,7 @@
         <Lighting value="Zergling_Webby_Collection_Portrait"/>
     </CModel>
     <CModel id="WarpathBroadcast" parent="PersistentSpellFX">
-        <Model value="Assets\Abilities\Spells\Orc\War3_DrumsCasterHeal\War3_DrumsCasterHeal.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="1.300000,1.300000,0.850000"/>
         <ScaleMin value="1.300000,1.300000,0.850000"/>
@@ -3348,7 +3348,7 @@
         <ScaleMin value="1.050000,1.050000,1.050000"/>
     </CModel>
     <CModel id="WyanniMissile" parent="MissileFX">
-        <Model value="Assets\Abilities\Weapons\War3_FrostWyrmMissile\War3_FrostWyrmMissile.m3"/>
+        <Model value="Assets\Effects\Protoss\Adept_Missile\Adept_Missile.m3"/>
         <EditorCategories value="Race:Terran"/>
         <ScaleMax value="0.850000,0.850000,0.850000"/>
         <ScaleMin value="0.850000,0.850000,0.850000"/>
@@ -3408,7 +3408,7 @@
         <ScaleMin value="0.350000,0.350000,0.350000"/>
     </CModel>
     <CModel id="LinanaMissile" parent="MissileFX">
-        <Model value="Assets\Abilities\Spells\Undead\War3_AbsorbManaBirthMissile\War3_AbsorbManaBirthMissile.m3"/>
+        <Model value="Assets\Effects\Protoss\Adept_Missile\Adept_Missile.m3"/>
         <EditorCategories value="Race:Terran"/>
         <ScaleMax value="0.900000,0.900000,0.900000"/>
         <ScaleMin value="0.900000,0.900000,0.900000"/>
@@ -3419,14 +3419,14 @@
         <Lighting value="ArchonPortrait"/>
     </CModel>
     <CModel id="CrystallizationBurst" parent="BuffFX">
-        <Model value="Assets\Doodads\Icecrown\Rocks\War3_Icecrown_Crystal\War3_Icecrown_Crystal_07.m3"/>
+        <Model value="Assets\Doodads\CrystalsSmall01\CrystalsSmall01.m3"/>
         <EditorCategories value="Race:Neutral"/>
         <ScaleMax value="1.600000,1.600000,1.700000"/>
         <ScaleMin value="1.600000,1.600000,1.700000"/>
         <SelectionRadius value="0.100000"/>
     </CModel>
     <CModel id="CreationLockdownImpact" parent="ImpactFX">
-        <Model value="Assets\Objects\Spawnmodels\NightElf\War3_NEDeathSmall\War3_NEDeathSmall.m3"/>
+        <Model value="Assets\Buildings\Protoss\Stargate\Stargate.m3"/>
         <AnimSpeed value="0.800000"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="3.500000,3.500000,2.000000"/>
@@ -3448,7 +3448,7 @@
         <ScaleMin value="4.000000,4.000000,2.000000"/>
     </CModel>
     <CModel id="CrystalVortexModel" parent="PersistentSpellFX">
-        <Model value="Assets\Abilities\Spells\Human\War3_ManaFlareTarget\War3_ManaFlareTarget.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <AnimSpeed value="0.800000"/>
         <EditorCategories value="Race:Protoss"/>
         <RadiusLoose value="1.000000"/>
@@ -3464,7 +3464,7 @@
         <Tipability value="0.750000"/>
     </CModel>
     <CModel id="GreatMonument" parent="BattlecruiserBase">
-        <Model value="Assets\Units\NightElf\War3_Wisp\War3_Wisp.m3"/>
+        <Model value="Assets\COOP\Zeratul\Units\Construct_Form_Zeratul_COOP\Construct_Form_Zeratul_COOP.m3"/>
         <AnimSpeed value="0.500000"/>
         <AttachProps index="0" Id="Ref_Center" SquibType="Shield" RadiusShield="1.600000">
             <Keys index="SetA" value="-128"/>
@@ -3512,7 +3512,7 @@
         <ScaleMin value="3.700000,3.700000,0.100000"/>
     </CModel>
     <CModel id="ZealousArenaModel" parent="PersistentSpellFX">
-        <Model value="Assets\Abilities\Spells\Orc\War3_CommandAura\War3_CommandAura.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <AnimSpeed value="0.800000"/>
         <EditorCategories value="Race:Protoss"/>
         <RadiusLoose value="1.000000"/>
@@ -3520,7 +3520,7 @@
         <ScaleMin value="8.350000,8.350000,1.000000"/>
     </CModel>
     <CModel id="HontoraiOrbitalLaserImpact" parent="ImpactFX">
-        <Model value="Assets\Abilities\Spells\Other\War3_FrostDamage\War3_FrostDamage.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <AnimSpeed value="0.850000"/>
         <EditorCategories value="Race:Terran"/>
         <ScaleMax value="1.500000,1.500000,1.500000"/>
@@ -3533,7 +3533,7 @@
         <ScaleMin value="1.700000,1.700000,1.300000"/>
     </CModel>
     <CModel id="HontoraiOrbitalLaserMissile" parent="MissileFX">
-        <Model value="Assets\Abilities\Spells\Other\War3_FrostBoltMissile\War3_FrostBoltMissile.m3"/>
+        <Model value="Assets\Effects\Protoss\Adept_Missile\Adept_Missile.m3"/>
         <EditorCategories value="Race:Terran"/>
         <ScaleMax value="0.850000,0.850000,0.850000"/>
         <ScaleMin value="0.850000,0.850000,0.850000"/>
@@ -3550,7 +3550,7 @@
         <Lighting value="MarineMercenaryPortrait"/>
     </CModel>
     <CModel id="HontoraiObelisk" parent="BattlecruiserBase">
-        <Model value="Assets\Units\NightElf\War3_Wisp\War3_Wisp.m3"/>
+        <Model value="Assets\COOP\Zeratul\Units\Construct_Form_Zeratul_COOP\Construct_Form_Zeratul_COOP.m3"/>
         <AttachProps index="0" Id="Ref_Center" SquibType="Shield" RadiusShield="2.700000">
             <Keys index="SetA" value="-128"/>
         </AttachProps>
@@ -3633,7 +3633,7 @@
         <Tipability value="0.750000"/>
     </CModel>
     <CModel id="HontoraiPriest" parent="BattlecruiserBase">
-        <Model value="Assets\Units\NightElf\War3_Wisp\War3_Wisp.m3"/>
+        <Model value="Assets\COOP\Zeratul\Units\Construct_Form_Zeratul_COOP\Construct_Form_Zeratul_COOP.m3"/>
         <AttachProps index="0" Id="Ref_Center" SquibType="Shield" RadiusShield="1.900000">
             <Keys index="SetA" value="-128"/>
         </AttachProps>
@@ -3660,13 +3660,13 @@
         <EditorCategories value="Race:Terran"/>
     </CModel>
     <CModel id="HontoraiPriestMissile" parent="MissileFX">
-        <Model value="Assets\Abilities\Weapons\War3_ZigguratFrostMissile\War3_ZigguratFrostMissile.m3"/>
+        <Model value="Assets\Effects\Protoss\Adept_Missile\Adept_Missile.m3"/>
         <EditorCategories value="Race:Terran"/>
         <ScaleMax value="1.300000,1.300000,1.100000"/>
         <ScaleMin value="1.300000,1.300000,1.100000"/>
     </CModel>
     <CModel id="HontoraiBeamer" parent="Unit" Race="Protoss">
-        <Model value="Assets\Units\NightElf\War3_Wisp\War3_Wisp.m3"/>
+        <Model value="Assets\COOP\Zeratul\Units\Construct_Form_Zeratul_COOP\Construct_Form_Zeratul_COOP.m3"/>
         <AttachProps Id="Ref_Center" SquibType="Shield" RadiusShield="1.000000"/>
         <Occlusion value="Show"/>
         <PlanetPanelCamera value="Star2CameraLow05"/>
@@ -3809,7 +3809,7 @@
         <SelectionRadius value="2.000000"/>
     </CModel>
     <CModel id="HontoraiFighter" parent="Unit" Race="Terran">
-        <Model value="Assets\Units\NightElf\War3_Wisp\War3_Wisp.m3"/>
+        <Model value="Assets\COOP\Zeratul\Units\Construct_Form_Zeratul_COOP\Construct_Form_Zeratul_COOP.m3"/>
         <AttachProps Id="Ref_Center" SquibType="Shield" RadiusShield="1.000000"/>
         <Occlusion value="Show"/>
         <PlanetPanelCamera value="Star2CameraLow07"/>
@@ -3824,7 +3824,7 @@
         <UnitGlossaryCamera value="Star2CameraLow07"/>
     </CModel>
     <CModel id="HontoraiDrone" parent="ObserverBase">
-        <Model value="Assets\Units\NightElf\War3_Wisp\War3_Wisp.m3"/>
+        <Model value="Assets\COOP\Zeratul\Units\Construct_Form_Zeratul_COOP\Construct_Form_Zeratul_COOP.m3"/>
         <AttachProps Id="Ref_Center" SquibType="Shield" RadiusShield="2.500000"/>
         <ScaleMax value="0.460000,0.460000,0.460000"/>
         <ScaleMin value="0.460000,0.460000,0.460000"/>
@@ -3892,13 +3892,13 @@
         <AnimSpeed value="0.900000"/>
     </CModel>
     <CModel id="ChaosQueen" parent="PersistentSpellFX">
-        <Model value="Assets\Environment\War3_ElfLargeBuildingFire\War3_ElfLargeBuildingFire_00.m3"/>
+        <Model value="Assets\Buildings\Protoss\Stargate\Stargate.m3"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="3.500000,3.500000,2.000000"/>
         <ScaleMin value="3.500000,3.500000,2.000000"/>
     </CModel>
     <CModel id="KalisMight" parent="PersistentSpellFX">
-        <Model value="Assets\Abilities\Spells\Items\War3_AIOrbCorruption\War3_AIOrbCorruption.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="2.050000,2.050000,2.050000"/>
         <ScaleMin value="2.050000,2.050000,2.050000"/>
@@ -3931,13 +3931,13 @@
         <ScaleMin value="1.050000,1.050000,1.050000"/>
     </CModel>
     <CModel id="HontoraiFighterImpact" parent="ImpactFX">
-        <Model value="Assets\Abilities\Spells\Undead\War3_FrostArmorDamage\War3_FrostArmorDamage.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <EditorCategories value="Race:Terran"/>
         <ScaleMax value="1.020000,1.020000,1.020000"/>
         <ScaleMin value="1.020000,1.020000,1.020000"/>
     </CModel>
     <CModel id="HontoraiFighterMissile" parent="MissileFX">
-        <Model value="Assets\Abilities\Spells\Other\War3_FrostBoltMissile\War3_FrostBoltMissile.m3"/>
+        <Model value="Assets\Effects\Protoss\Adept_Missile\Adept_Missile.m3"/>
         <EditorCategories value="Race:Terran"/>
         <ScaleMax value="0.550000,0.550000,0.550000"/>
         <ScaleMin value="0.550000,0.550000,0.550000"/>
@@ -3958,7 +3958,7 @@
         <ScaleMin value="0.900000,0.920000,0.620000"/>
     </CModel>
     <CModel id="PurgingRadiationImpact" parent="PersistentSpellFX">
-        <Model value="Assets\Objects\Spawnmodels\NightElf\War3_NEDeath\War3_NEDeath.m3"/>
+        <Model value="Assets\Buildings\Protoss\Stargate\Stargate.m3"/>
         <EditorCategories value="Race:Protoss"/>
         <RadiusLoose value="1.000000"/>
     </CModel>
@@ -4053,7 +4053,7 @@
         <EditorCategories value="Race:Protoss"/>
     </CModel>
     <CModel id="LethalityStream" parent="PersistentSpellFX">
-        <Model value="Assets\Abilities\Spells\Items\War3_OrbDarkness\War3_OrbDarkness.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="3.500000,3.500000,2.250000"/>
         <ScaleMin value="3.500000,3.500000,2.250000"/>
@@ -4094,7 +4094,7 @@
         <AnimSpeed value="1.100000"/>
     </CModel>
     <CModel id="HontoraiShield" parent="BattlecruiserBase">
-        <Model value="Assets\Units\NightElf\War3_Wisp\War3_Wisp.m3"/>
+        <Model value="Assets\COOP\Zeratul\Units\Construct_Form_Zeratul_COOP\Construct_Form_Zeratul_COOP.m3"/>
         <AttachProps index="0" Id="Ref_Center" SquibType="Shield" RadiusShield="2.500000">
             <Keys index="SetA" value="-128"/>
         </AttachProps>
@@ -4129,7 +4129,7 @@
         <ScaleMin value="0.910000,0.910000,0.910000"/>
     </CModel>
     <CModel id="Reservoir" parent="BuffFX">
-        <Model value="Assets\Abilities\Spells\Human\War3_ManaShieldCaster\War3_ManaShieldCaster.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <EditorCategories value="Race:Neutral"/>
         <ScaleMax value="3.000000,3.000000,3.000000"/>
         <ScaleMin value="3.000000,3.000000,3.000000"/>
@@ -4202,8 +4202,8 @@
         <ScaleMin value="0.700000,0.700000,0.600000"/>
     </CModel>
     <CModel id="SamaraPortrait" parent="BattlecruiserPortraitBase">
-        <Model value="Assets\Units\Undead\War3HD_UndeadDarkRanger_Portrait\War3HD_UndeadDarkRanger_Portrait.m3"/>
-        <Image value="Assets\Textures\war3_btnbansheeranger.dds"/>
+        <Model value="Assets\COOP\Zeratul\Portraits\Construct_Form_Zeratul_COOP_Portrait\Construct_Form_Zeratul_COOP_Portrait.m3"/>
+        <Image value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <Lighting value="TalDarim_TempestPortrait"/>
     </CModel>
     <CModel id="XyrethiaPortrait" parent="BattlecruiserPortraitBase">
@@ -4212,7 +4212,7 @@
         <Lighting value="TalDarim_TempestPortrait"/>
     </CModel>
     <CModel id="SamaraWeaponMissile" parent="MissileFX">
-        <Model value="Assets\Abilities\Spells\NightElf\War3_ShadowStrikeMissile\War3_ShadowStrikeMissile.m3"/>
+        <Model value="Assets\Effects\Protoss\Adept_Missile\Adept_Missile.m3"/>
         <EditorCategories value="Race:Terran"/>
         <ScaleMax value="1.050000,1.050000,1.050000"/>
         <ScaleMin value="1.050000,1.050000,1.050000"/>
@@ -4393,8 +4393,8 @@
         <Lighting value="JinaraPortrait"/>
     </CModel>
     <CModel id="WargutzPortrait" parent="BattlecruiserPortraitBase">
-        <Model value="Assets\Units\Demon\War3_ChaosGrunt_Portrait\War3_ChaosGrunt_Portrait.m3"/>
-        <Image value="Assets\Textures\war3_btnchaosgrunt.dds"/>
+        <Model value="Assets\COOP\Zeratul\Portraits\Construct_Form_Zeratul_COOP_Portrait\Construct_Form_Zeratul_COOP_Portrait.m3"/>
+        <Image value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <Lighting value="TalDarim_TempestPortrait"/>
     </CModel>
     <CModel id="ZekePortrait" parent="BattlecruiserPortraitBase">
@@ -4840,7 +4840,7 @@
         <ScaleMin value="1.350000,1.350000,1.350000"/>
     </CModel>
     <CModel id="RadarAlinement" parent="PersistentSpellFX">
-        <Model value="Assets\Abilities\Spells\NightElf\War3_TrueshotAura\War3_TrueshotAura.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="1.250000,1.250000,1.000000"/>
         <ScaleMin value="1.250000,1.250000,1.000000"/>
@@ -5145,7 +5145,7 @@
         <ScaleMin value="1.300000,1.300000,1.120000"/>
     </CModel>
     <CModel id="SpreadingChaos" parent="PersistentSpellFX">
-        <Model value="Assets\Environment\War3_LargeBuildingFire\War3_LargeBuildingFire_02.m3"/>
+        <Model value="Assets\Buildings\Protoss\Stargate\Stargate.m3"/>
         <EditorCategories value="Race:Protoss"/>
         <ScaleMax value="2.500000,2.500000,2.200000"/>
         <ScaleMin value="2.500000,2.500000,2.200000"/>
@@ -5584,7 +5584,7 @@
         <Tipability value="0.750000"/>
     </CModel>
     <CModel id="BlessingofMight" parent="BuffFX">
-        <Model value="Assets\Abilities\Spells\Human\War3_InnerFireTarget\War3_InnerFireTarget.m3"/>
+        <Model value="Assets\Effects\Neutral\Inspiration_Aura\Inspiration_Aura.m3"/>
         <AnimSpeed value="0.900000"/>
         <EditorCategories value="Race:Neutral"/>
         <ScaleMax value="2.750000,2.750000,0.900000"/>
@@ -5848,7 +5848,7 @@
         <ScaleMin value="1.050000,1.050000,1.050000"/>
     </CModel>
     <CModel id="MelichaWeaponMissile" parent="MissileFX">
-        <Model value="Assets\Abilities\Weapons\War3_SludgeMissile\War3_SludgeMissile.m3"/>
+        <Model value="Assets\Effects\Protoss\Adept_Missile\Adept_Missile.m3"/>
         <EditorCategories value="Race:Terran"/>
         <ScaleMax value="1.050000,1.050000,1.050000"/>
         <ScaleMin value="1.050000,1.050000,1.050000"/>

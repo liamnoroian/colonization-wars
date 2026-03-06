@@ -25,7 +25,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="LeechingHost">
         <Alignment value="Positive"/>
-        <InfoIcon value="Assets\Textures\renee_war3_btnvampiricaura.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-nova-domination.dds"/>
         <BehaviorCategories index="User3" value="1"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <Duration value="15"/>
@@ -496,7 +496,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="Insurgency">
         <Alignment value="Negative"/>
-        <InfoIcon value="Assets\Textures\renee_war3_btndeathpact.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-nova-domination.dds"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <MaxStackCount value="4"/>
         <MaxStackCountPerCaster value="1"/>
@@ -581,13 +581,13 @@
         <EditorCategories value="AbilityorEffectType:Units"/>
     </CBehaviorBuff>
     <CBehaviorBuff id="StoredRestoration">
-        <InfoIcon value="Assets\Textures\war3_btnwisphealoff.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <Requirements value="StoredRestoration"/>
         <DisableValidatorArray value="CasterLifeLT20Percent"/>
     </CBehaviorBuff>
     <CBehaviorBuff id="HontoraianHeart2">
         <Alignment value="Negative"/>
-        <InfoIcon value="Assets\Textures\war3_btnmanastone.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         <BehaviorCategories index="User2" value="1"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <Duration value="1.5"/>
@@ -662,7 +662,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="Templify">
         <Alignment value="Positive"/>
-        <InfoIcon value="Assets\Textures\war3_btnorboffrost.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Terran,AbilityorEffectType:Units"/>
         <Modification AttackSpeedMultiplier="1.1">
             <LifeArmorBonus value="3"/>
@@ -807,31 +807,31 @@
     </CBehaviorAttribute>
     <CBehaviorBuff id="InfuseFreezingSpace">
         <InfoTooltipPriority value="4"/>
-        <InfoIcon value="Assets\Textures\renee_war3_btnorboffrost.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-mengsk-ghost-staticempblast.dds"/>
         <EditorCategories value="AbilityorEffectType:Units"/>
         <SortIndex value="4"/>
     </CBehaviorBuff>
     <CBehaviorBuff id="InfuseNebulaImmunity">
         <InfoTooltipPriority value="4"/>
-        <InfoIcon value="Assets\Textures\renee_war3_btnbigbadvoodoospell.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         <EditorCategories value="AbilityorEffectType:Units"/>
         <SortIndex value="4"/>
     </CBehaviorBuff>
     <CBehaviorBuff id="InfuseOverseer">
         <InfoTooltipPriority value="4"/>
-        <InfoIcon value="Assets\Textures\renee_war3_btnrobeofthemagi.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         <EditorCategories value="AbilityorEffectType:Units"/>
         <SortIndex value="4"/>
     </CBehaviorBuff>
     <CBehaviorBuff id="InfuseGravitationalAnomalies">
         <InfoTooltipPriority value="4"/>
-        <InfoIcon value="Assets\Textures\renee_war3_btnorbofdarkness.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-nova-domination.dds"/>
         <EditorCategories value="AbilityorEffectType:Units"/>
         <SortIndex value="4"/>
     </CBehaviorBuff>
     <CBehaviorBuff id="InfuseFortress">
         <InfoTooltipPriority value="4"/>
-        <InfoIcon value="Assets\Textures\renee_war3_btnzigguratupgrade.dds"/>
+        <InfoIcon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
         <EditorCategories value="AbilityorEffectType:Units"/>
         <SortIndex value="4"/>
     </CBehaviorBuff>
@@ -843,7 +843,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="InfuseTitanStar">
         <InfoTooltipPriority value="4"/>
-        <InfoIcon value="Assets\Textures\renee_war3_btngenericspellimmunity.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         <EditorCategories value="AbilityorEffectType:Units"/>
         <SortIndex value="4"/>
     </CBehaviorBuff>
@@ -999,7 +999,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="IceCometStun">
         <Alignment value="Negative"/>
-        <InfoIcon value="Assets\Textures\renee_war3_btnfrostbolt.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-mengsk-ghost-staticempblast.dds"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <MaxStackCountPerCaster value="1"/>
         <Duration value="5"/>
@@ -1056,7 +1056,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="Invulnerable2">
         <Alignment value="Positive"/>
-        <InfoIcon value="Assets\Textures\war3_shieldicon.dds"/>
+        <InfoIcon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
         <BehaviorCategories index="User3" value="1"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <DisableValidatorArray value="NoEnemyInRange65"/>
@@ -1066,7 +1066,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="GravitationalAnomalies">
         <Alignment value="Negative"/>
-        <InfoIcon value="Assets\Textures\renee_war3_btnorbofdarkness.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-nova-domination.dds"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <MaxStackCountPerCaster value="1"/>
         <Duration value="1.05"/>
@@ -1536,7 +1536,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="CrystallariumTower">
         <Alignment value="Positive"/>
-        <InfoIcon value="Assets\Textures\war3_btnhumanarmoruptwo.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         <BehaviorCategories index="User3" value="1"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <MaxStackCountPerCaster value="1"/>
@@ -1588,7 +1588,7 @@
         <SortIndex value="4"/>
     </CBehaviorBuff>
     <CBehaviorBuff id="TitanFortress">
-        <InfoIcon value="Assets\Textures\war3_btndalaranguardtower.dds"/>
+        <InfoIcon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <Modification AttackSpeedMultiplier="2" RangedWeaponRange="2" Detect="10">
             <StateFlags index="Invulnerable" value="1"/>
@@ -1607,7 +1607,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="TitanStar">
         <Alignment value="Negative"/>
-        <InfoIcon value="Assets\Textures\renee_war3_btngenericspellimmunity.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <MaxStackCountPerCaster value="1"/>
         <Duration value="1.05"/>
@@ -1617,7 +1617,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="TitanIceStar">
         <Alignment value="Negative"/>
-        <InfoIcon value="Assets\Textures\renee_war3_btngenericspellimmunity.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <MaxStackCountPerCaster value="1"/>
         <Duration value="1.05"/>
@@ -1956,7 +1956,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="DevotionAura">
         <Alignment value="Positive"/>
-        <InfoIcon value="Assets\Textures\renee_war3_btndevotion.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <Duration value="1.1"/>
         <Modification ShieldArmorBonus="4.8">
@@ -1975,7 +1975,7 @@
     <CBehaviorBuff id="ChaoticVision">
         <Alignment value="Negative"/>
         <InfoFlags index="AlwaysUseGameText" value="1"/>
-        <InfoIcon value="Assets\Textures\renee_war3_btnwandofshadowsight.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-nova-domination.dds"/>
         <BehaviorCategories index="Permanent" value="1"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <Modification UnitNameOverride="Behavior/ChaoticVision">
@@ -2010,7 +2010,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="FaithsRewardshield">
         <Alignment value="Positive"/>
-        <InfoIcon value="Assets\Textures\renee_war3_btnheal.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Terran,AbilityorEffectType:Units"/>
         <Duration value="15"/>
     </CBehaviorBuff>
@@ -2072,7 +2072,7 @@
     </CBehaviorAttribute>
     <CBehaviorBuff id="Regrowth">
         <Alignment value="Positive"/>
-        <InfoIcon value="Assets\Textures\war3_btnresistantskin.dds"/>
+        <InfoIcon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
         <BehaviorCategories index="User3" value="1"/>
         <EditorCategories value="Race:Terran,AbilityorEffectType:Units"/>
         <Duration value="15.05"/>
@@ -2192,7 +2192,7 @@
     </CBehaviorAttribute>
     <CBehaviorBuff id="NuclearWinter">
         <Alignment value="Negative"/>
-        <InfoIcon value="Assets\Textures\renee_war3_btniceshard.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <BehaviorCategories index="User8" value="1"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <InitialEffect value="NuclearWinterupgrade"/>
@@ -2248,7 +2248,7 @@
         <ExpireEffect value="MULEFate"/>
     </CBehaviorBuff>
     <CBehaviorBuff id="TitanMainBase">
-        <InfoIcon value="Assets\Textures\renee_war3_btnguardtower.dds"/>
+        <InfoIcon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <Modification AttackSpeedMultiplier="2" RangedWeaponRange="2" Detect="10">
             <DamageDealtFraction index="Melee" value="1"/>
@@ -2262,7 +2262,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="ForwardBaseboost">
         <Alignment value="Positive"/>
-        <InfoIcon value="Assets\Textures\renee_war3_btngreathall.dds"/>
+        <InfoIcon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <MaxStackCount value="20"/>
         <MaxStackCountPerCaster value="1"/>
@@ -2275,13 +2275,13 @@
         </Modification>
     </CBehaviorBuff>
     <CBehaviorBuff id="TitanOuterBase">
-        <InfoIcon value="Assets\Textures\renee_war3_btnhumanwatchtower.dds"/>
+        <InfoIcon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <Modification Detect="8"/>
     </CBehaviorBuff>
     <CBehaviorBuff id="TitansPresence2">
         <Alignment value="Negative"/>
-        <InfoIcon value="Assets\Textures\renee_war3_btnreincarnation.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <MaxStackCountPerCaster value="1"/>
         <Duration value="1.05"/>
@@ -2327,7 +2327,7 @@
         <BehaviorCategories index="Permanent" value="1"/>
     </CBehaviorBuff>
     <CBehaviorBuff id="ForwardBaseaura">
-        <InfoIcon value="Assets\Textures\renee_war3_btngreathall.dds"/>
+        <InfoIcon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
         <BehaviorCategories index="Permanent" value="1"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <MaxStackCountPerCaster value="1"/>
@@ -2466,7 +2466,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="InvulnerableUnderConstruction">
         <Alignment value="Positive"/>
-        <InfoIcon value="Assets\Textures\war3_shieldicon.dds"/>
+        <InfoIcon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <DisableValidatorArray value="IsConstructing"/>
         <Modification>
@@ -2500,7 +2500,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="ObserverTargetLock">
         <Alignment value="Negative"/>
-        <InfoIcon value="Assets\Textures\war3_btndemolish.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <MaxStackCount value="1"/>
         <Modification>
             <DamageTakenFraction index="Spell" value="0"/>
@@ -2544,7 +2544,7 @@
         </DamageResponse>
     </CBehaviorBuff>
     <CBehaviorBuff id="SiegeReadying">
-        <InfoIcon value="Assets\Textures\war3_btndemolish.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Terran,AbilityorEffectType:Units"/>
     </CBehaviorBuff>
     <CBehaviorBuff id="TradingTowerBonus1">
@@ -2556,7 +2556,7 @@
         </Modification>
     </CBehaviorBuff>
     <CBehaviorBuff id="TurretReadying">
-        <InfoIcon value="Assets\Textures\war3_btnhumanarmorupone.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         <EditorCategories value="Race:Terran,AbilityorEffectType:Units"/>
     </CBehaviorBuff>
     <CBehaviorBuff id="SiegeResistanceplanet">
@@ -2911,7 +2911,7 @@
         <PeriodicEffect value="WarpathBroadcastSearch"/>
     </CBehaviorBuff>
     <CBehaviorBuff id="OrbitalKnightSilverFist">
-        <InfoIcon value="Assets\Textures\war3_btnglove.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <Modification UnitNameOverride="Name/OrbitalSilverFist">
             <DamageTakenFraction index="Spell" value="-0.25"/>
@@ -2927,7 +2927,7 @@
         <InfoFlags index="AlwaysUseGameText" value="1"/>
     </CBehaviorBuff>
     <CBehaviorBuff id="OrbitalKnightGoldenHeart">
-        <InfoIcon value="Assets\Textures\renee_war3_btnhealoff.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <Period value="5"/>
         <PeriodicEffect value="GoldenHeartVisual"/>
@@ -2944,7 +2944,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="SilverStun">
         <Alignment value="Negative"/>
-        <InfoIcon value="Assets\Textures\renee_war3_btnstun.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <BehaviorCategories index="Stun" value="1"/>
         <BehaviorCategories index="User2" value="1"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
@@ -2955,7 +2955,7 @@
         </Modification>
     </CBehaviorBuff>
     <CBehaviorBuff id="OrbitalKnightDefender">
-        <InfoIcon value="Assets\Textures\war3_btnhumanarmoruptwo.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <Modification ShieldArmorBonus="30" UnitNameOverride="Name/OrbitalDefender">
             <DamageTakenFraction index="Spell" value="-0.25"/>
@@ -2972,7 +2972,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="IceComet">
         <Alignment value="Negative"/>
-        <InfoIcon value="Assets\Textures\war3_btnfrostbolt.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-mengsk-ghost-staticempblast.dds"/>
         <BehaviorCategories index="Stun" value="1"/>
         <BehaviorCategories index="User2" value="1"/>
         <EditorCategories value="AbilityorEffectType:Units"/>
@@ -3012,7 +3012,7 @@
         </Modification>
     </CBehaviorBuff>
     <CBehaviorBuff id="OrbitalKnightInquisitor">
-        <InfoIcon value="Assets\Textures\war3_btnarcanitemelee.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <Modification UnitNameOverride="Name/OrbitalInquisitor">
             <DamageDealtFraction index="Melee" value="0.4"/>
@@ -3023,7 +3023,7 @@
         <InfoFlags index="AlwaysUseGameText" value="1"/>
     </CBehaviorBuff>
     <CBehaviorBuff id="OrbitalKnightRedeemer">
-        <InfoIcon value="Assets\Textures\war3_btndwarvenlongrifle.dds"/>
+        <InfoIcon value="Assets\Textures\btn-upgrade-terran-enhancedmunitions.dds"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <Modification AttackSpeedMultiplier="1.2" RangedWeaponRange="3" UnitNameOverride="Name/OrbitalRedeemer">
             <DamageDealtFraction index="Melee" value="0.3"/>
@@ -3109,7 +3109,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="OrbitalKnightBarrier">
         <Alignment value="Positive"/>
-        <InfoIcon value="Assets\Textures\war3_btnlightningshield.dds"/>
+        <InfoIcon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
         <EditorCategories value="AbilityorEffectType:Units"/>
         <Duration value="8"/>
         <Modification>
@@ -3321,7 +3321,7 @@
         </Modification>
     </CBehaviorBuff>
     <CBehaviorBuff id="DraculasBarge">
-        <InfoIcon value="Assets\Textures\war3_btnundeadairbarge.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Terran,AbilityorEffectType:Units"/>
         <DisableValidatorArray value="MineralsGE1000"/>
         <Modification>
@@ -3386,7 +3386,7 @@
         <PeriodicEffect value="RebellionSymbolSearch"/>
     </CBehaviorBuff>
     <CBehaviorBuff id="CrystalizingGrowth">
-        <InfoIcon value="Assets\Textures\war3_btnresistantskin.dds"/>
+        <InfoIcon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
         <EditorCategories value="Race:Terran,AbilityorEffectType:Units"/>
         <DisableValidatorArray value="CasterLifeGT60Percent"/>
         <Modification>
@@ -4020,7 +4020,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="CrystalMeteor">
         <Alignment value="Negative"/>
-        <InfoIcon value="Assets\Textures\war3_btnfrostbolt.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <BehaviorCategories index="User2" value="1"/>
         <EditorCategories value="AbilityorEffectType:Units"/>
         <Duration value="2"/>
@@ -4036,7 +4036,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="AvengingBoulder">
         <Alignment value="Negative"/>
-        <InfoIcon value="Assets\Textures\war3_btnfireforthecannon.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-hornerhan-hellbat-dot.dds"/>
         <BehaviorCategories index="User2" value="1"/>
         <EditorCategories value="AbilityorEffectType:Units"/>
         <MaxStackCount value="10"/>
@@ -4181,7 +4181,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="CrystallizationBurst">
         <Alignment value="Positive"/>
-        <InfoIcon value="Assets\Textures\war3_btnorboffrost.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Terran,AbilityorEffectType:Units"/>
         <Duration value="10"/>
         <Modification>
@@ -4307,7 +4307,7 @@
         <MinVeterancyXPBonusPerLevel value="20"/>
     </CBehaviorVeterancy>
     <CBehaviorBuff id="HontoraianHeart">
-        <InfoIcon value="Assets\Textures\war3_btnmanastone.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         <EditorCategories value="Race:Terran,AbilityorEffectType:Units"/>
         <Requirements value="HontoraianHeart"/>
     </CBehaviorBuff>
@@ -4454,7 +4454,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="ChaosQueen">
         <Alignment value="Positive"/>
-        <InfoIcon value="Assets\Textures\war3_btnmarkoffire.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-hornerhan-hellbat-dot.dds"/>
         <BehaviorCategories index="User3" value="1"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <Duration value="7.01"/>
@@ -4483,7 +4483,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="UnendingRage1">
         <Alignment value="Positive"/>
-        <InfoIcon value="Assets\Textures\renee_war3_btnchaoswolfrider.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-zerg-stukov-infeststructure.dds"/>
         <BehaviorCategories index="Permanent" value="1"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <DisableValidatorArray value="CasterLifeLT50Percent"/>
@@ -4499,7 +4499,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="SilverTongue">
         <Alignment value="Negative"/>
-        <InfoIcon value="Assets\Textures\war3_btnsilence.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <BehaviorCategories index="Stun" value="1"/>
         <BehaviorCategories index="User2" value="1"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
@@ -4510,7 +4510,7 @@
         <InitialEffect value="SilverTongueDamage"/>
     </CBehaviorBuff>
     <CBehaviorBuff id="ShadowVeil">
-        <InfoIcon value="Assets\Textures\war3_btnorbofdarkness.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-nova-domination.dds"/>
         <BehaviorCategories index="Permanent" value="1"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <DisableValidatorArray value="Shield34Caster"/>
@@ -4700,7 +4700,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="InvulnerableBuff">
         <Alignment value="Positive"/>
-        <InfoIcon value="Assets\Textures\war3_shieldicon.dds"/>
+        <InfoIcon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <Duration value="1.5"/>
         <Modification>
@@ -4733,7 +4733,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="UnendingRage2">
         <Alignment value="Positive"/>
-        <InfoIcon value="Assets\Textures\renee_war3_btnchaoswolfrider.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-zerg-stukov-infeststructure.dds"/>
         <BehaviorCategories index="Permanent" value="1"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <DisableValidatorArray value="CasterLifeLT25Percent"/>
@@ -4955,7 +4955,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="Reservoir">
         <Alignment value="Positive"/>
-        <InfoIcon value="Assets\Textures\war3_btnmanaflare.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         <EditorCategories value="Race:Terran,AbilityorEffectType:Units"/>
         <Duration value="25"/>
         <DamageResponse Handled="CrystalizeApply1stack" Location="Attacker">
@@ -5136,7 +5136,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="FreezingSpace">
         <Alignment value="Negative"/>
-        <InfoIcon value="Assets\Textures\war3_btnorboffrost.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-mengsk-ghost-staticempblast.dds"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <MaxStackCountPerCaster value="1"/>
         <Duration value="1.2"/>
@@ -5810,7 +5810,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="ApplyRadiorus">
         <Alignment value="Positive"/>
-        <InfoIcon value="Assets\Textures\war3_btnorboffrost.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <BehaviorCategories index="User3" value="1"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <Duration value="10"/>
@@ -5948,7 +5948,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="Rampage">
         <Alignment value="Positive"/>
-        <InfoIcon value="Assets\Textures\war3_btnorcrallypoint.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <BehaviorCategories index="User3" value="1"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <BuffFlags index="RefreshStack" value="1"/>
@@ -6035,7 +6035,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="Subzero">
         <Alignment value="Negative"/>
-        <InfoIcon value="Assets\Textures\ui_hots_icon_flashfreeze.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-mengsk-ghost-staticempblast.dds"/>
         <BehaviorCategories index="Stun" value="1"/>
         <BehaviorCategories index="User2" value="1"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
@@ -6047,7 +6047,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="VeteranExampleinspired">
         <Alignment value="Positive"/>
-        <InfoIcon value="Assets\Textures\war3_btnarcanitemelee.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <BehaviorCategories index="User3" value="1"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <MaxStackCountPerCaster value="1"/>
@@ -6058,7 +6058,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="VeteranExample">
         <Alignment value="Positive"/>
-        <InfoIcon value="Assets\Textures\war3_btnarcanitemelee.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <BehaviorCategories index="User3" value="1"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <BuffFlags index="RefreshStack" value="1"/>
@@ -6200,7 +6200,7 @@
         </DamageResponse>
     </CBehaviorBuff>
     <CBehaviorBuff id="OgromRage">
-        <InfoIcon value="Assets\Textures\war3_btnbattleroar.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <BehaviorCategories index="Permanent" value="1"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <Requirements value="OgromRage"/>
@@ -6422,7 +6422,7 @@
     </CBehaviorBuff>
     <CBehaviorBuff id="SpreadingChaos">
         <Alignment value="Negative"/>
-        <InfoIcon value="Assets\Textures\war3_btnwalloffire.dds"/>
+        <InfoIcon value="Assets\Textures\btn-ability-hornerhan-hellbat-dot.dds"/>
         <BehaviorCategories index="User2" value="1"/>
         <EditorCategories value="Race:Protoss,AbilityorEffectType:Units"/>
         <MaxStackCountPerCaster value="1"/>
@@ -6871,7 +6871,7 @@
         <Requirements value="ParticleOrdinance"/>
     </CBehaviorBuff>
     <CBehaviorBuff id="OgromWarGrounds">
-        <InfoIcon value="Assets\Textures\renee_war3_btnfortress.dds"/>
+        <InfoIcon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
         <EditorCategories value="Race:Terran,AbilityorEffectType:Units"/>
         <Requirements value="OgromWarGrounds"/>
     </CBehaviorBuff>

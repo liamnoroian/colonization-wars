@@ -30,8 +30,8 @@
         <AlertIcon value="Assets\Textures\btn-upgrade-zerg-hotsgroovedspines.dds"/>
     </CButton>
     <CButton id="LeechingHost">
-        <Icon value="Assets\Textures\renee_war3_btnvampiricaura.dds"/>
-        <AlertIcon value="Assets\Textures\renee_war3_btnvampiricaura.dds"/>
+        <Icon value="Assets\Textures\btn-ability-nova-domination.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-nova-domination.dds"/>
     </CButton>
     <CButton id="BulkedArmor">
         <Icon value="Assets\Textures\btn-upgrade-zerg-hardenedcarapace.dds"/>
@@ -168,8 +168,8 @@
         <AlertIcon value="Assets\Textures\btn-ability-protoss-preordain.dds"/>
     </CButton>
     <CButton id="Forge2">
-        <Icon value="Assets\Textures\war3_btnneutralmanashield.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnneutralmanashield.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
     </CButton>
     <CButton id="FaithCharge">
         <Icon value="Assets\Textures\btn-ability-protoss-prismaticrange.dds"/>
@@ -213,8 +213,8 @@
         <ChargeText value="Chargetext/Bulk"/>
     </CButton>
     <CButton id="Templify">
-        <Icon value="Assets\Textures\war3_btnorboffrost.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnorboffrost.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
     </CButton>
     <CButton id="OverchargeCore">
         <Icon value="Assets\Textures\btn-upgrade-protoss-alarak-ascendant&apos;spsiorbtravelsfurther.dds"/>
@@ -225,8 +225,8 @@
         <AlertIcon value="Assets\Textures\btn-upgrade-karax-turretattackspeed.dds"/>
     </CButton>
     <CButton id="LocustLifespan">
-        <Icon value="Assets\Textures\renee_war3_btncarrionscarabs.dds"/>
-        <AlertIcon value="Assets\Textures\renee_war3_btncarrionscarabs.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
     </CButton>
     <CButton id="AstralShrine">
         <Icon value="Assets\Textures\btn-tips-richminerals.dds"/>
@@ -254,8 +254,8 @@
         <AlertIcon value="Assets\Textures\btn-ability-zerg-fungalgrowth-color.dds"/>
     </CButton>
     <CButton id="AcceletratedMitosis">
-        <Icon value="Assets\Textures\renee_war3_btnwisphealoff.dds"/>
-        <AlertIcon value="Assets\Textures\renee_war3_btnwisphealoff.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
     </CButton>
     <CButton id="VolatileCrystallization">
         <Icon value="Assets\Textures\btn-ability-protoss-psionicorb.dds"/>
@@ -319,16 +319,16 @@
         <EditorCategories value="Race:Terran"/>
     </CButton>
     <CButton id="Heroic">
-        <Icon value="Assets\Textures\war3_btnhelmutpurple.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnhelmutpurple.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
     </CButton>
     <CButton id="HeroicTank">
-        <Icon value="Assets\Textures\war3_btnhelmutpurple.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnhelmutpurple.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
     </CButton>
     <CButton id="OgromRage">
-        <Icon value="Assets\Textures\war3_btnbattleroar.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnbattleroar.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
     </CButton>
     <CButton id="DrillingPlasma">
         <Icon value="Assets\Textures\btn-ability-zeratul-topbar-stasisbeam.dds"/>
@@ -384,8 +384,8 @@
         <AlertIcon value="Assets\Textures\btn-upgrade-protoss-fenix-scoutchampionstunmissiles.dds"/>
     </CButton>
     <CButton id="Fleetmovedirection">
-        <Icon value="Assets\Textures\war3_btnreplay-speeddown.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnreplay-speeddown.dds"/>
+        <Icon value="Assets\Textures\ui_glues_helpmenu_arrow.dds"/>
+        <AlertIcon value="Assets\Textures\ui_glues_helpmenu_arrow.dds"/>
         <EditorCategories value="Race:Terran"/>
     </CButton>
     <CButton id="EmpireHydra2">
@@ -498,8 +498,8 @@
         <EditorCategories value="Race:Terran"/>
     </CButton>
     <CButton id="Rank1Requirement">
-        <Icon value="Assets\Textures\war3_btncancel.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btncancel.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Terran"/>
     </CButton>
     <CButton id="FleetslotUpkeep">
@@ -508,18 +508,18 @@
         <EditorCategories value="Race:Terran"/>
     </CButton>
     <CButton id="Rank2Requirement">
-        <Icon value="Assets\Textures\war3_btncancel.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btncancel.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Terran"/>
     </CButton>
     <CButton id="Rank3Requirement">
-        <Icon value="Assets\Textures\war3_btncancel.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btncancel.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Terran"/>
     </CButton>
     <CButton id="Rank4Requirement">
-        <Icon value="Assets\Textures\war3_btncancel.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btncancel.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Terran"/>
     </CButton>
     <CButton id="RebellionBombardier2">
@@ -557,8 +557,8 @@
         <AlertIcon value="Assets\Textures\btn-ability-terran-selfixarmor.dds"/>
     </CButton>
     <CButton id="Regrowth">
-        <Icon value="Assets\Textures\war3_btnresistantskin.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnresistantskin.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
+        <AlertIcon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
     </CButton>
     <CButton id="MiningOperations">
         <Icon value="Assets\Textures\icon-mineral-nobg.dds"/>
@@ -601,8 +601,8 @@
         <AlertIcon value="Assets\Textures\ui_tipicon_campaign_defend.dds"/>
     </CButton>
     <CButton id="DevotionAura">
-        <Icon value="Assets\Textures\renee_war3_btndevotion.dds"/>
-        <AlertIcon value="Assets\Textures\renee_war3_btndevotion.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
     </CButton>
     <CButton id="PsiStorm">
         <Icon value="Assets\Textures\btn-ability-zeratul-avatarofform-psionicgale.dds"/>
@@ -642,18 +642,18 @@
         <ChargeText value="Charge/Adapt"/>
     </CButton>
     <CButton id="HiveBombus">
-        <Icon value="Assets\Textures\war3_btndemolish.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btndemolish.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Protoss"/>
     </CButton>
     <CButton id="HiveSporeSpire">
-        <Icon value="Assets\Textures\war3_btnhumanarmorupone.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnhumanarmorupone.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         <EditorCategories value="Race:Protoss"/>
     </CButton>
     <CButton id="LocustSymbionts">
-        <Icon value="Assets\Textures\renee_war3_btnspidersilkbroach.dds"/>
-        <AlertIcon value="Assets\Textures\renee_war3_btnspidersilkbroach.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
     </CButton>
     <CButton id="BatteringAssualt">
         <Icon value="Assets\Textures\btn-ability-hornerhan-viking-missileupgrade.dds"/>
@@ -668,8 +668,8 @@
         <AlertIcon value="Self Made\Build Option.dds"/>
     </CButton>
     <CButton id="AddHarvester">
-        <Icon value="Assets\Textures\renee_war3_btngathergold.dds"/>
-        <AlertIcon value="Assets\Textures\renee_war3_btngathergold.dds"/>
+        <Icon value="Assets\Textures\ui_emoticons_minerals.dds"/>
+        <AlertIcon value="Assets\Textures\ui_emoticons_minerals.dds"/>
     </CButton>
     <CButton id="CorrosivePheromones">
         <Icon value="Assets\Textures\btn-upgrade-zerg-visciousdischarge.dds"/>
@@ -685,33 +685,33 @@
         <AlertIcon value="Self Made\Self Made\Auxillary Drone.dds"/>
     </CButton>
     <CButton id="KingdomBastion">
-        <Icon value="Assets\Textures\war3_btnhumanarmorupone.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnhumanarmorupone.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         <EditorCategories value="Race:Protoss"/>
     </CButton>
     <CButton id="EmpireDesolator">
-        <Icon value="Assets\Textures\war3_btndemolish.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btndemolish.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Protoss"/>
     </CButton>
     <CButton id="EmpireCyclops">
-        <Icon value="Assets\Textures\war3_btnhumanarmorupone.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnhumanarmorupone.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         <EditorCategories value="Race:Protoss"/>
     </CButton>
     <CButton id="HontoraiArbalest">
-        <Icon value="Assets\Textures\war3_btndemolish.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btndemolish.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Protoss"/>
     </CButton>
     <CButton id="HontoraiShrine">
-        <Icon value="Assets\Textures\war3_btnhumanarmorupone.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnhumanarmorupone.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         <EditorCategories value="Race:Protoss"/>
     </CButton>
     <CButton id="RebellionSputnik">
-        <Icon value="Assets\Textures\war3_btnhumanarmorupone.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnhumanarmorupone.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         <EditorCategories value="Race:Protoss"/>
     </CButton>
     <CButton id="MatriarchBrood">
@@ -735,13 +735,13 @@
         <AlertIcon value="Assets\Textures\btn-ability-stetmann-stetelliteoverloadhealth.dds"/>
     </CButton>
     <CButton id="KingdomLAW">
-        <Icon value="Assets\Textures\war3_btndemolish.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btndemolish.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Protoss"/>
     </CButton>
     <CButton id="RebellionMortar">
-        <Icon value="Assets\Textures\war3_btndemolish.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btndemolish.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Protoss"/>
     </CButton>
     <CButton id="ReconstructionHub">
@@ -761,27 +761,27 @@
         <AlertIcon value="Assets\Textures\btn-progression-mengsk-08-basicroyalguardupgradecache.dds"/>
     </CButton>
     <CButton id="TargetLock">
-        <Icon value="Assets\Textures\war3_btndemolish.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btndemolish.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
     </CButton>
     <CButton id="TargetLock2">
-        <Icon value="Assets\Textures\war3_btndemolish.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btndemolish.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Protoss"/>
     </CButton>
     <CButton id="TargetLockNeedleBarrage">
-        <Icon value="Assets\Textures\war3_btndemolish.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btndemolish.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Protoss"/>
     </CButton>
     <CButton id="TargetLockDesolationBeam">
-        <Icon value="Assets\Textures\war3_btndemolish.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btndemolish.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Protoss"/>
     </CButton>
     <CButton id="TargetLockRadiationBeam">
-        <Icon value="Assets\Textures\war3_btndemolish.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btndemolish.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
         <EditorCategories value="Race:Protoss"/>
     </CButton>
     <CButton id="SiegeDefense">
@@ -953,8 +953,8 @@
         <AlertIcon value="Assets\Textures\btn-ability-protoss-doubleshieldrecharge.dds"/>
     </CButton>
     <CButton id="IceComet">
-        <Icon value="Assets\Textures\war3_btnfrostbolt.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnfrostbolt.dds"/>
+        <Icon value="Assets\Textures\btn-ability-mengsk-ghost-staticempblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-mengsk-ghost-staticempblast.dds"/>
     </CButton>
     <CButton id="GuardianShield2">
         <Icon value="Assets\Textures\btn-ability-protoss-shieldbattery-color.dds"/>
@@ -1022,8 +1022,8 @@
         <AlertIcon value="Assets\Textures\btn-ability-zerg-dehaka-ravasaur-dissolvingacid.dds"/>
     </CButton>
     <CButton id="WantedDeadorAlive">
-        <Icon value="Assets\Textures\war3_btnspy.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnspy.dds"/>
+        <Icon value="Assets\Textures\btn-ability-nova-domination.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-nova-domination.dds"/>
     </CButton>
     <CButton id="ReformationFlow">
         <Icon value="Assets\Textures\btn-ability-protoss-astralwind.dds"/>
@@ -1158,8 +1158,8 @@
         <AlertIcon value="Assets\Textures\btn-building-purifier-datacore.dds"/>
     </CButton>
     <CButton id="CreationTower">
-        <Icon value="Assets\Textures\war3_btnadvancedenergytower.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnadvancedenergytower.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
+        <AlertIcon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
     </CButton>
     <CButton id="CreationWrath">
         <Icon value="Assets\Textures\btn-ability-protoss-psistorm-color.dds"/>
@@ -1271,16 +1271,16 @@
         <AlertIcon value="Assets\Textures\btn-ability-protoss-feedback-color.dds"/>
     </CButton>
     <CButton id="CrystalMeteor">
-        <Icon value="Assets\Textures\war3_btnfrostbolt.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnfrostbolt.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
     </CButton>
     <CButton id="CrystalCastle">
-        <Icon value="Assets\Textures\war3_btnmagetower.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnmagetower.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
+        <AlertIcon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
     </CButton>
     <CButton id="ApplyRadiorus">
-        <Icon value="Assets\Textures\war3_btnorboffrost.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnorboffrost.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
     </CButton>
     <CButton id="OverloadBurst">
         <Icon value="Assets\Textures\btn-ability-protoss-phasedisruptor.dds"/>
@@ -1295,8 +1295,8 @@
         <AlertIcon value="Assets\Textures\btn-upgrade-stetmann-ultraliskburrowchargestun.dds"/>
     </CButton>
     <CButton id="AvengingBoulder">
-        <Icon value="Assets\Textures\war3_btnfireforthecannon.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnfireforthecannon.dds"/>
+        <Icon value="Assets\Textures\btn-ability-hornerhan-hellbat-dot.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-hornerhan-hellbat-dot.dds"/>
     </CButton>
     <CButton id="AuraofProsperity">
         <Icon value="Assets\Textures\btn-upgrade-protoss-fenix-arbiterchampiondetectionresearch.dds"/>
@@ -1315,20 +1315,20 @@
         <AlertIcon value="Assets\Textures\btn-ability-protoss-recall.dds"/>
     </CButton>
     <CButton id="VolcanoShell">
-        <Icon value="Assets\Textures\war3_btnvolcano.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnvolcano.dds"/>
+        <Icon value="Assets\Textures\btn-ability-hornerhan-hellbat-dot.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-hornerhan-hellbat-dot.dds"/>
     </CButton>
     <CButton id="FluxCannon">
         <Icon value="Assets\Textures\btn-upgrade-nova-equipment-plasmagun.dds"/>
         <AlertIcon value="Assets\Textures\btn-upgrade-nova-equipment-plasmagun.dds"/>
     </CButton>
     <CButton id="CrystallizationBurst">
-        <Icon value="Assets\Textures\war3_btnorboffrost.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnorboffrost.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
     </CButton>
     <CButton id="CrystalVortex">
-        <Icon value="Assets\Textures\war3_btnneutralmanashield.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnneutralmanashield.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
         <EditorCategories value="Race:Protoss"/>
     </CButton>
     <CButton id="RedWrath">
@@ -1348,8 +1348,8 @@
         <AlertIcon value="Assets\Textures\talent-raynor-level07-engineeringbayresearchbundle.dds"/>
     </CButton>
     <CButton id="DraculasBarge">
-        <Icon value="Assets\Textures\war3_btnundeadairbarge.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnundeadairbarge.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
     </CButton>
     <CButton id="ShadowStrikers">
         <Icon value="Assets\Textures\btn-ability-zeratul-darktemplar-blink.dds"/>
@@ -1403,8 +1403,8 @@
         <AlertIcon value="Assets\Textures\btn-upgrade-terran-plasmashot.dds"/>
     </CButton>
     <CButton id="CrystalizingGrowth">
-        <Icon value="Assets\Textures\war3_btnresistantskin.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnresistantskin.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
+        <AlertIcon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
     </CButton>
     <CButton id="AuraSurge">
         <Icon value="Assets\Textures\btn-ability-protoss-purificationnova.dds"/>
@@ -1421,8 +1421,8 @@
         <EditorCategories value="Race:Protoss"/>
     </CButton>
     <CButton id="BuildingScreen">
-        <Icon value="Assets\Textures\war3_btnhumanbuild.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnhumanbuild.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
+        <AlertIcon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
     </CButton>
     <CButton id="HontoraiObelisk">
         <Icon value="Assets\Textures\btn-building-protoss-obelisk.dds"/>
@@ -1463,8 +1463,8 @@
         <AlertIcon value="Assets\Textures\btn-upgrade-stetmann-dualqueue.dds"/>
     </CButton>
     <CButton id="OgromStrength">
-        <Icon value="Assets\Textures\renee_war3_btngnollcommandaura.dds"/>
-        <AlertIcon value="Assets\Textures\renee_war3_btngnollcommandaura.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
     </CButton>
     <CButton id="DragonBatteries">
         <Icon value="Assets\Textures\btn-upgrade-terran-cyclonerangeupgrade.dds"/>
@@ -1475,36 +1475,36 @@
         <AlertIcon value="Assets\Textures\btn-ability-mengsk-battlecruiser-yamatocannon.dds"/>
     </CButton>
     <CButton id="Rampage2">
-        <Icon value="Assets\Textures\war3_btnorcrallypoint.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnorcrallypoint.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
     </CButton>
     <CButton id="AutomatedTitan">
         <Icon value="Assets\Textures\btn-upgrade-protoss-alarak-roboticssupportbay.dds"/>
         <AlertIcon value="Assets\Textures\btn-upgrade-protoss-alarak-roboticssupportbay.dds"/>
     </CButton>
     <CButton id="UnendingRage">
-        <Icon value="Assets\Textures\renee_war3_btnchaoswolfrider.dds"/>
-        <AlertIcon value="Assets\Textures\renee_war3_btnchaoswolfrider.dds"/>
+        <Icon value="Assets\Textures\btn-ability-zerg-stukov-infeststructure.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-zerg-stukov-infeststructure.dds"/>
     </CButton>
     <CButton id="MagistratesOrder">
         <Icon value="Assets\Textures\btn-research-zerg-psidisruptor.dds"/>
         <AlertIcon value="Assets\Textures\btn-research-zerg-psidisruptor.dds"/>
     </CButton>
     <CButton id="FireBlast">
-        <Icon value="Assets\Textures\war3_btnorboffire.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnorboffire.dds"/>
+        <Icon value="Assets\Textures\btn-ability-hornerhan-hellbat-dot.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-hornerhan-hellbat-dot.dds"/>
     </CButton>
     <CButton id="ChaosQueen">
-        <Icon value="Assets\Textures\war3_btnmarkoffire.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnmarkoffire.dds"/>
+        <Icon value="Assets\Textures\btn-ability-hornerhan-hellbat-dot.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-hornerhan-hellbat-dot.dds"/>
     </CButton>
     <CButton id="KalisMight">
         <Icon value="Assets\Textures\btn-ability-protoss-psionicorb.dds"/>
         <AlertIcon value="Assets\Textures\btn-ability-protoss-psionicorb.dds"/>
     </CButton>
     <CButton id="SilverTongue">
-        <Icon value="Assets\Textures\war3_btnsilence.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnsilence.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
     </CButton>
     <CButton id="ShadowLongbow">
         <Icon value="Assets\Textures\btn-upgrade-zerg-stukov-attackspeedmastery.dds"/>
@@ -1515,16 +1515,16 @@
         <AlertIcon value="Assets\Textures\btn-ability-dehaka-detector.dds"/>
     </CButton>
     <CButton id="ShadowVeil">
-        <Icon value="Assets\Textures\war3_btnorbofdarkness.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnorbofdarkness.dds"/>
+        <Icon value="Assets\Textures\btn-ability-nova-domination.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-nova-domination.dds"/>
     </CButton>
     <CButton id="EmpireBounty">
         <Icon value="Assets\Textures\btn-ability-hornerhan-raven-analyzetarget.dds"/>
         <AlertIcon value="Assets\Textures\btn-ability-hornerhan-raven-analyzetarget.dds"/>
     </CButton>
     <CButton id="SpreadingChaos">
-        <Icon value="Assets\Textures\war3_btnwalloffire.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnwalloffire.dds"/>
+        <Icon value="Assets\Textures\btn-ability-hornerhan-hellbat-dot.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-hornerhan-hellbat-dot.dds"/>
     </CButton>
     <CButton id="MeltingHellfire">
         <Icon value="Assets\Textures\btn-ability-protoss-firebeam.dds"/>
@@ -1582,8 +1582,8 @@
         <AlertIcon value="Assets\Textures\btn-upgrade-protoss-alarak-supplicantarmor.dds"/>
     </CButton>
     <CButton id="VeteranExample">
-        <Icon value="Assets\Textures\war3_btnarcanitemelee.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnarcanitemelee.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
     </CButton>
     <CButton id="Unrelenting">
         <Icon value="Assets\Textures\btn-ability-hornerhan-mechbioarmorupgrades-c.dds"/>
@@ -1753,8 +1753,8 @@
         <AlertIcon value="Assets\Textures\btn-progression-protoss-fenix-15-networksuperiority.dds"/>
     </CButton>
     <CButton id="BladeofDawn">
-        <Icon value="Assets\Textures\war3_btnarcanitemelee.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnarcanitemelee.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-mindblast.dds"/>
     </CButton>
     <CButton id="LightStriker">
         <Icon value="Assets\Textures\btn-upgrade-protoss-fenix-adept-recochetglaiveupgraded.dds"/>
@@ -1783,8 +1783,8 @@
         <AlertIcon value="Assets\Textures\btn-upgrade-karax-fortificationbarrier.dds"/>
     </CButton>
     <CButton id="DeployTurret">
-        <Icon value="Assets\Textures\renee_war3_btntownhall.dds"/>
-        <AlertIcon value="Assets\Textures\renee_war3_btntownhall.dds"/>
+        <Icon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
+        <AlertIcon value="Assets\Textures\btn-upgrade-protoss-shieldslevel1.dds"/>
     </CButton>
     <CButton id="HighKingsIntervention">
         <Icon value="Assets\Textures\btn-upgrade-protoss-fenix-fenixweapondamage.dds"/>
@@ -1884,11 +1884,12 @@
         <AlertIcon value="Assets\Textures\btn-unit-terran-vikingfighter.dds"/>
     </CButton>
     <CButton id="Reservoir">
-        <Icon value="Assets\Textures\war3_btnmanaflare.dds"/>
-        <AlertIcon value="Assets\Textures\war3_btnmanaflare.dds"/>
+        <Icon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-shieldrecharge.dds"/>
     </CButton>
     <CButton id="ImpairingLattice">
         <Icon value="Assets\Textures\btn-upgrade-karax-chronowave.dds"/>
         <AlertIcon value="Assets\Textures\btn-upgrade-karax-chronowave.dds"/>
     </CButton>
 </Catalog>
+
